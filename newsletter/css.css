@@ -1,0 +1,45 @@
+
+a:link {
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#F1F1F1;
+	text-decoration:underline;
+}
+a:active {
+	color:#FFF;
+	text-decoration:none;
+}
+
+
+
+a.menu:link {
+	text-decoration:none;
+	color:#000;
+	font-size:13px;
+}
+
+a.menu:visited{
+	text-decoration:none;
+	color:#000;
+	font-size:13px;
+}
+
+a.menu:hover{
+	color:#06C;
+	font-size:13px;
+	text-decoration:underline;
+}
+
+a.menu:active{
+	color:#000;
+	text-decoration:none;
+	font-size:13px;
+}

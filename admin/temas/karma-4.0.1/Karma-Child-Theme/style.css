@@ -1,0 +1,14 @@
+/*
+Theme Name:     Karma Child Theme
+Theme URI:      http://themeforest.net/item/karma-clean-and-modern-wordpress-theme/168737?ref=TrueThemes
+Description:    Child theme for the Karma theme 
+Author:         TrueThemes
+Author URI:     http://themeforest.net/user/TrueThemes?ref=TrueThemes
+Template:       Karma
+Version:        0.1.3
+*/
+
+@import url("../Karma/style.css");
+
+
+/* ------- Insert custom styles below this line ------- */

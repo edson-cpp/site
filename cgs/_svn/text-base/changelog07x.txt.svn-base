@@ -1,0 +1,20 @@
+			*** Versão 0.7.25 ***
+********************************************************
+BUG - 0087
+	Data de registro: 22/06/2010
+	Data de correção: 22/06/2010
+	Data de publicação: 22/06/2010
+	Nível crítico: Médio
+	Versão afetada: 0.7.24
+	Versão de correção: 0.7.25
+	Onde ocorre: Pré-Vendas e Orçamentos
+	Descrição: Lança item não cadastrado com código sequencial errado
+	Ocorrência: Ocorre quando é aberto orçamento para alteração
+	Solução: O contador de itens não cadastrados é atualizado com o menor valor registrado no orçamento quando o mesmo é aberto
+______________________________________________________________________________
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Nível crítico:
+Alto: Provoca ou pode provocar perda e/ou gravação incorreta de dados com ou sem erros aparentes.
+Médio: Provoca erros no sistema mas não provoca perda de dados.
+Baixo: Não provoca erros aparentes e não provoca perda de dados.

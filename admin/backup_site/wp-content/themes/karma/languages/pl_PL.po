@@ -1,0 +1,4518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Karma v4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-27 00:37:42+0000\n"
+"Last-Translator: admin <themes@truethemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:52
+#: archive.php:56
+#: archive.php:58
+#: archive.php:60
+#@ truethemes_localize
+msgid "Archive for"
+msgstr "Archiwum"
+
+#: archive.php:54
+#@ truethemes_localize
+msgid "Posts Tagged"
+msgstr "Posty oznaczone"
+
+#: archive.php:62
+#@ truethemes_localize
+msgid "Author Archive"
+msgstr "Autor Archiwum"
+
+#: archive.php:64
+#@ truethemes_localize
+msgid "Blog Archives"
+msgstr "Blog Archives"
+
+#: archive.php:141
+#: index.php:128
+#: single.php:117
+#@ truethemes_localize
+msgid "Posted by:"
+msgstr "Wysłany przez:"
+
+#: archive.php:200
+#: index.php:187
+#: single.php:233
+#@ truethemes_localize
+msgid "Nothing Found"
+msgstr "Nic nie znaleziono"
+
+#: archive.php:201
+#: index.php:188
+#: single.php:234
+#@ truethemes_localize
+msgid "Sorry, it appears there is no content in this section."
+msgstr "Niestety, wydaje się, że brak jest w tej części."
+
+#: attachment.php:43
+#@ truethemes_localize
+msgid "&larr; Previous"
+msgstr "← Poprzedni"
+
+#: attachment.php:44
+#@ truethemes_localize
+msgid "Next &rarr;"
+msgstr "Następny →"
+
+#: attachment.php:93
+#@ truethemes_localize
+msgid "Pages:"
+msgstr "Strony:"
+
+#: comments.php:5
+#: page-comments.php:9
+#@ truethemes_localize
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ten wpis jest zabezpieczony hasłem. Wprowadź hasło, aby zobaczyć komentarze."
+
+#: comments.php:29
+#: page-comments.php:40
+#@ truethemes_localize
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: comments.php:31
+#: page-comments.php:42
+#@ truethemes_localize
+msgid "reply"
+msgstr "odpowiedzieć"
+
+#: comments.php:31
+#: page-comments.php:42
+#@ truethemes_localize
+msgid "edit"
+msgstr "edytować"
+
+#: comments.php:45
+#: comments.php:51
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:60
+#: page-comments.php:63
+#: page-comments.php:70
+#@ truethemes_localize
+#@ default
+msgid "Comments"
+msgstr "Komentarze"
+
+#: comments.php:45
+#: page-comments.php:63
+#@ truethemes_localize
+msgid "Comment"
+msgstr "Komentarz"
+
+#: comments.php:46
+#: page-comments.php:65
+#@ truethemes_localize
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:46
+#: page-comments.php:65
+#@ truethemes_localize
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:69
+#: page-comments.php:86
+#@ truethemes_localize
+msgid "Subscribe to Comments"
+msgstr "Subskrybuj Komentarze"
+
+#: comments.php:100
+#: page-comments.php:118
+#@ truethemes_localize
+msgid "Your Comments"
+msgstr "Twój komentarz"
+
+#: comments.php:101
+#: page-comments.php:119
+#, php-format
+#@ default
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Musisz być <a href=\"%s\">zalogowany</a> , aby dodać komentarz."
+
+#: comments.php:104
+#: page-comments.php:122
+#, php-format
+#@ default
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Zalogowany jako <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Wyloguj się z tego konta\">Wyloguj się?</a>"
+
+#: comments.php:109
+#: page-comments.php:127
+#@ truethemes_localize
+msgid "Add a Comment"
+msgstr "Dodaj komentarz"
+
+#: comments.php:110
+#: page-comments.php:128
+#, php-format
+#@ truethemes_localize
+msgid "Leave a Reply to %s"
+msgstr "Dodaj komentarz do %s"
+
+#: comments.php:111
+#: page-comments.php:129
+#@ truethemes_localize
+msgid "click here to cancel reply"
+msgstr "Kliknij tutaj, aby anulować odpowiadanie"
+
+#: comments.php:112
+#: page-comments.php:130
+#@ truethemes_localize
+msgid "Add Comment"
+msgstr "Dodaj komentarz"
+
+#: framework/admin/admin-interface.php:115
+#@ truethemes_localize
+msgid "Site Options"
+msgstr "Opcje strony"
+
+#: framework/custom-metaboxes.php:44
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Appearance > Menus</a>."
+msgstr "Brak menu nie została stworzona. <a href=\"%s\">Menu > Wygląd</a> ."
+
+#: framework/custom-metaboxes.php:73
+#@ truethemes_localize
+msgid "Custom Settings"
+msgstr "Ustawienia niestandardowe"
+
+#: framework/custom-metaboxes.php:82
+#@ truethemes_localize
+msgid "Portfolio Full Size URL  <span style=\"font-weight:normal !important;\"><em>(Image, Flash Video, Youtube Video, etc)</em></span>"
+msgstr "Portfolio Full URL Size <span style=\"font-weight:normal !important;\"><em>(Obrazek, Flash Video, Youtube Video, etc)</em></span>"
+
+#: framework/custom-metaboxes.php:83
+#@ truethemes_localize
+msgid ""
+"<b>Samples:</b><br><br><b>Image:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/project1.jpg<br>\n"
+"<b>YouTube:</b>&nbsp;&nbsp; http://www.youtube.com/watch?v=VKS08be78os<br>\n"
+"<b>Flash:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/design.swf?width=792&amp;height=294<br>\n"
+"<b>Vimeo:</b>&nbsp;&nbsp; http://vimeo.com/8245346<br>\n"
+"<b>iFrame:</b>&nbsp;&nbsp; http://www.apple.com?iframe=true&amp;width=850&amp;height=500<br>"
+msgstr "<b>Próbki:</b> <br><br> <b>Image:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/project1.jpg <br> <b>YouTube:</b>&nbsp;&nbsp; http://www.youtube.com/watch?v=VKS08be78os <br> <b>Flash:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/design.swf?width=792&amp;height=294 <br> <b>Vimeo:</b>&nbsp;&nbsp; http://vimeo.com/8245346 <br> <b>iFrame:</b>&nbsp;&nbsp; http://www.apple.com?iframe=true&amp;width=850&amp;height=500 <br>"
+
+#: framework/custom-metaboxes.php:93
+#@ truethemes_localize
+msgid "Portfolio Description"
+msgstr "Opis Portfolio"
+
+#: framework/custom-metaboxes.php:94
+#@ truethemes_localize
+msgid "<b>Note:</b> This description will be displayed in the JQuery pop-up."
+msgstr "<b>Uwaga:</b> Opis ten będzie wyświetlany w JQuery pop-up."
+
+#: framework/custom-metaboxes.php:100
+#@ truethemes_localize
+msgid "Link This Image"
+msgstr "Połącz ten obraz"
+
+#: framework/custom-metaboxes.php:101
+#@ truethemes_localize
+msgid "Enter a URL if you wish to link this image.<br><b>Sample:</b> &nbsp;http://www.yourdomain.com/about-us"
+msgstr "Wpisz adres URL, jeśli chcesz połączyć ten plik. <br> <b>Sample:</b> http://www.yourdomain.com/about-us"
+
+#: framework/custom-metaboxes.php:111
+#@ truethemes_localize
+msgid "Post Settings"
+msgstr "Dodaj Ustawienia"
+
+#: framework/custom-metaboxes.php:119
+#@ truethemes_localize
+msgid "Featured Media"
+msgstr "Rekomendowane media"
+
+#: framework/custom-metaboxes.php:121
+#@ truethemes_localize
+msgid "Blog Posts can easily feature an Image or Video at the top of each post.<br /><br /><strong>1. Featured Image (normal) -</strong> This is the recommended function if not featuring a Video. Simply use the Wordpress <a href=\"#postimagediv\">Featured Image</a> box on the right side of this screen to upload a featured image.<br /><br /><strong>2. Featured Image (external) -</strong> Use the field below to Feature an image which is located on a different web server.<br /><br /><strong>3. Featured Video -</strong> Use the field below to Feature a Video instead of an image."
+msgstr "Posty blogu można łatwo wyposażone obraz lub film na górze każdego postu. <br /><br /> <strong>1. Prezentowany obraz (normalny) -</strong> Ta funkcja jest zalecana, jeśli nie dysponuje się film. Wystarczy skorzystać z Wordpress <a href=\"#postimagediv\">ZDJĘCIA Prezentowany</a> pole po prawej stronie ekranu, aby przesłać wyróżnioną obraz. <br /><br /> <strong>2. Wybrane zdjęcia (zewnętrzne) -</strong> W polu poniżej do funkcji obrazu, który znajduje się na innym serwerze. <br /><br /> <strong>3. Ciekawa Video -</strong> Użyj pola poniżej, aby oferują wideo zamiast obrazu."
+
+#: framework/custom-metaboxes.php:125
+#@ truethemes_localize
+msgid "Featured Image (external)"
+msgstr "Prezentowany obraz (zewnętrzne)"
+
+#: framework/custom-metaboxes.php:126
+#@ truethemes_localize
+msgid "Enter the full URL of the external image that you'd like to feature.<br /><strong>Sample URL:</strong> http://www.sample-website.com/image.png"
+msgstr "Wprowadź pełny adres URL zewnętrznego wizerunku, które chcesz do funkcji. <br /> <strong>Przykładowy adres URL:</strong> http://www.sample-website.com/image.png"
+
+#: framework/custom-metaboxes.php:132
+#: framework/custom-metaboxes.php:768
+#@ truethemes_localize
+msgid "Featured Video"
+msgstr "Polecane Wideo"
+
+#: framework/custom-metaboxes.php:133
+#@ truethemes_localize
+msgid "Enter the full URL to the video that you'd like to feature.<br /><strong>Sample URL:</strong> http://vimeo.com/70149174"
+msgstr "Wprowadź pełny adres URL do filmu, które chcesz do funkcji. <br /> <strong>Przykładowy adres URL:</strong> http://vimeo.com/70149174"
+
+#: framework/custom-metaboxes.php:147
+#@ truethemes_localize
+msgid "Custom Sub-menu"
+msgstr "Niestandardowy Sub-menu"
+
+#: framework/custom-metaboxes.php:155
+#@ truethemes_localize
+msgid "Sub-menu"
+msgstr "Sub-menu"
+
+#: framework/custom-metaboxes.php:156
+#@ truethemes_localize
+msgid "Display a custom sub-menu by selecting it from the dropdown list below."
+msgstr "Wyświetl custom sub-menu, wybierając go z rozwijanej listy poniżej."
+
+#: framework/custom-metaboxes.php:166
+#@ truethemes_localize
+msgid "Check the box below to completely disable the sub-menu on this page."
+msgstr "Zaznacz pole poniżej, aby całkowicie wyłączyć sub-menu na tej stronie."
+
+#: framework/custom-metaboxes.php:171
+#@ truethemes_localize
+msgid "Disable sub-menu"
+msgstr "Wyłącz podmenu"
+
+#: framework/custom-metaboxes.php:182
+#: framework/custom-metaboxes.php:190
+#@ truethemes_localize
+msgid "Page Settings"
+msgstr "Ustawienia strony"
+
+#: framework/custom-metaboxes.php:195
+#@ truethemes_localize
+msgid "Utility Panel"
+msgstr "Zespół Utility"
+
+#: framework/custom-metaboxes.php:204
+#@ truethemes_localize
+msgid "Page Title"
+msgstr "Tytuł strony"
+
+#: framework/custom-metaboxes.php:205
+#@ truethemes_localize
+msgid "Override the Page Title displayed in the Utility Panel."
+msgstr "Zastąp tytuł strony wyświetlany w Panelu Utility."
+
+#: framework/custom-metaboxes.php:211
+#@ truethemes_localize
+msgid "Searchbar"
+msgstr "Searchbar"
+
+#: framework/custom-metaboxes.php:212
+#@ truethemes_localize
+msgid "Should a searchbar be displayed on this page?"
+msgstr "Jeżeli pasek wyszukiwania są wyświetlane na tej stronie?"
+
+#: framework/custom-metaboxes.php:222
+#@ truethemes_localize
+msgid "Page Comments"
+msgstr "Komentarze Strona"
+
+#: framework/custom-metaboxes.php:223
+#@ truethemes_localize
+msgid "Should a Comments Form be displayed at the bottom of this page?"
+msgstr "Formularz Komentarze powinny być wyświetlane na dole strony?"
+
+#: framework/custom-metaboxes.php:238
+#: framework/custom-metaboxes.php:245
+#@ truethemes_localize
+msgid "Slider Settings"
+msgstr "Suwak Ustawienia"
+
+#: framework/custom-metaboxes.php:246
+#@ truethemes_localize
+msgid "Use these settings to display a Slider on this page. Simply ignore this entire section if not displaying a Slider."
+msgstr "Użyj tych ustawień, aby wyświetlić suwak na tej stronie. Po prostu zignorować całą tę sekcję, jeśli nie wyświetlanie suwaka."
+
+#: framework/custom-metaboxes.php:251
+#@ truethemes_localize
+msgid "Karma jQuery Slider"
+msgstr "Karma jQuery Slider"
+
+#: framework/custom-metaboxes.php:264
+#: framework/custom-metaboxes.php:364
+#: framework/custom-metaboxes.php:572
+#: framework/custom-metaboxes.php:714
+#@ truethemes_localize
+msgid "Category"
+msgstr "Kategoria"
+
+#: framework/custom-metaboxes.php:265
+#@ truethemes_localize
+msgid "Which post category should the Karma jQuery Slider use to populate the slides?<br /><strong>Note:</strong> this section lists categories that were created within the 'Slider Posts' custom post-type"
+msgstr "Do której kategorii należy po Karma użyć jQuery Slider zapełnić slajdy? <br /><strong>Uwaga: Ta</strong> sekcja zawiera listę kategorii, które zostały utworzone w ramach programu &quot;niestandardowych suwak Posty typu&quot; post-"
+
+#: framework/custom-metaboxes.php:272
+#@ truethemes_localize
+msgid "3D CU3ER Slider"
+msgstr "3D CU3ER Slider"
+
+#: framework/custom-metaboxes.php:279
+#@ truethemes_localize
+msgid "Slider Shortcode"
+msgstr "Slider shortcode"
+
+#: framework/custom-metaboxes.php:280
+#@ truethemes_localize
+msgid "Enter a Shortcode if you wish to display custom slider such as LayerSlider or Revolution Slider.<br />Example: [layerslider id=\"1\"]"
+msgstr "Wprowadź wada, jeśli chcesz wyświetlać niestandardowy suwak np. LayerSlider lub suwak Revolution. <br /> Przykład: [layerslider id=\"1\"]"
+
+#: framework/custom-metaboxes.php:286
+#@ truethemes_localize
+msgid "Full Width Mode"
+msgstr "Pelen Szerokość"
+
+#: framework/custom-metaboxes.php:301
+#: framework/custom-metaboxes.php:309
+#@ truethemes_localize
+msgid "Gallery Settings"
+msgstr "Ustawienia Galeria"
+
+#: framework/custom-metaboxes.php:310
+#@ truethemes_localize
+msgid "Use these settings to display a Gallery on this page. Simply ignore this entire section if do not wish for this to be a Gallery page.<br /><br />* Please use the <strong>Page Attributes</strong> box in the right column of this screen to assign the \"Filterable Gallery\" <a href=\"#parent_id\">Template</a> for this Gallery page."
+msgstr "Użyj tych ustawień, aby wyświetlić galerię na tej stronie. Po prostu zignorować całą tę sekcję, jeśli nie chcesz, aby to było strona Gallery. <br /><br /> * Należy użyć pola <strong>atrybuty strony</strong> w prawej kolumnie ekranu przypisać &quot;Galeria&quot; filtrowanie  <a href=\"#parent_id\">szablon</a> dla strony galerii."
+
+#: framework/custom-metaboxes.php:315
+#@ truethemes_localize
+msgid "Page Layout"
+msgstr "Układ strony"
+
+#: framework/custom-metaboxes.php:330
+#@ truethemes_localize
+msgid "Image Frame Style"
+msgstr "Styl ramki obrazu"
+
+#: framework/custom-metaboxes.php:342
+#: framework/custom-metaboxes.php:597
+#: framework/custom-metaboxes.php:646
+#: framework/custom-metaboxes.php:658
+#: framework/custom-metaboxes.php:670
+#: framework/custom-metaboxes.php:682
+#: framework/custom-metaboxes.php:694
+#@ truethemes_localize
+msgid "Title"
+msgstr "Tytuł"
+
+#: framework/custom-metaboxes.php:343
+#@ truethemes_localize
+msgid "Would you like to display the Title below each gallery post?"
+msgstr "Czy chciałbyś, aby wyświetlić tytuł poniżej każdego postu galerii?"
+
+#: framework/custom-metaboxes.php:353
+#: framework/custom-metaboxes.php:603
+#@ truethemes_localize
+msgid "Description"
+msgstr "Opis"
+
+#: framework/custom-metaboxes.php:354
+#@ truethemes_localize
+msgid "Would you like to display the Description below each gallery post?"
+msgstr "Czy chciałbyś, aby wyświetlić opis poniżej każdego postu galerii?"
+
+#: framework/custom-metaboxes.php:365
+#@ truethemes_localize
+msgid "Which post category should be used to populate the gallery items? (please select the <strong>parent</strong> category)"
+msgstr "Która kategoria post powinny być wykorzystywane do wypełnienia elementów galerii? (Wybierz <strong>kategorię</strong> główną)"
+
+#: framework/custom-metaboxes.php:373
+#@ truethemes_localize
+msgid "Enter the text for the \"All Categories\" filtering link."
+msgstr "Wprowadź tekst dla &quot;Wszystkie kategorie&quot; link filtrowania."
+
+#: framework/custom-metaboxes.php:380
+#: framework/custom-metaboxes.php:402
+#@ truethemes_localize
+msgid "Item Count"
+msgstr "Liczyć Item"
+
+#: framework/custom-metaboxes.php:381
+#@ truethemes_localize
+msgid "How many gallery items should be displayed? (leave blank to show all items)"
+msgstr "Ile elementów powinna być wyświetlona galeria? (Pozostaw puste, aby wyświetlić wszystkie pozycje)"
+
+#: framework/custom-metaboxes.php:387
+#@ truethemes_localize
+msgid "Non-Filterable"
+msgstr "Non-filtrowanie"
+
+#: framework/custom-metaboxes.php:388
+#@ truethemes_localize
+msgid "Use these settings to create a non-filterable Gallery from items created using Normal Posts. <br />Please ignore Filterable Settings and ensure you've assigned a \"Portfolio\" <a href=\"#parent_id\">Page Template</a> to this page for proper rendering."
+msgstr "Użyj tych ustawień do tworzenia galerii non-odsączyć z elementów utworzonych przy użyciu zwykłych postów. <br /> Proszę zignorować filtrowanie ustawień i zagwarantowania został przypisany &quot;portfolio&quot; <a href=\"#parent_id\">szablon strony</a> do tej strony do prawidłowego świadczenia."
+
+#: framework/custom-metaboxes.php:395
+#@ truethemes_localize
+msgid "Which post category should be used to populate the gallery items?"
+msgstr "Która kategoria post powinny być wykorzystywane do wypełnienia elementów galerii?"
+
+#: framework/custom-metaboxes.php:403
+#@ truethemes_localize
+msgid "How many gallery items should be displayed?"
+msgstr "Ile elementów powinna być wyświetlona galeria?"
+
+#: framework/custom-metaboxes.php:414
+#@ truethemes_localize
+msgid "Page Styling Options"
+msgstr "Opcje Stylizacja Page"
+
+#: framework/custom-metaboxes.php:422
+#@ truethemes_localize
+msgid "Styling Options"
+msgstr "Opcje Stylizacja"
+
+#: framework/custom-metaboxes.php:423
+#@ truethemes_localize
+msgid "These styling options enable you to choose a unique color scheme exclusively for this page."
+msgstr "Te opcje stylizacji pozwalają wybrać unikalną kolorystykę wyłącznie dla tej strony."
+
+#: framework/custom-metaboxes.php:428
+#@ truethemes_localize
+msgid "Primary"
+msgstr "Podstawowy"
+
+#: framework/custom-metaboxes.php:468
+#@ truethemes_localize
+msgid "Secondary"
+msgstr "Wtórny"
+
+#: framework/custom-metaboxes.php:507
+#@ truethemes_localize
+msgid "Background"
+msgstr "Tło"
+
+#: framework/custom-metaboxes.php:508
+#@ truethemes_localize
+msgid "These background settings are exclusive to this page and will only visible in the boxed layout design."
+msgstr "Te ustawienia tła są wyłącznie dla tej strony i będzie widoczny tylko w wersji pudełkowej projektowania układu."
+
+#: framework/custom-metaboxes.php:513
+#@ truethemes_localize
+msgid "Body BG Color"
+msgstr "Kolor BG ciała"
+
+#: framework/custom-metaboxes.php:519
+#@ truethemes_localize
+msgid "Body BG Image"
+msgstr "Obraz BG ciała"
+
+#: framework/custom-metaboxes.php:525
+#@ truethemes_localize
+msgid "BG Image Position"
+msgstr "Pozycja obrazu BG"
+
+#: framework/custom-metaboxes.php:540
+#@ truethemes_localize
+msgid "BG Image Repeat"
+msgstr "Powtórz obraz BG"
+
+#: framework/custom-metaboxes.php:552
+#@ truethemes_localize
+msgid "BG Image Fixed"
+msgstr "Obraz BG Naprawiono"
+
+#: framework/custom-metaboxes.php:553
+#@ truethemes_localize
+msgid "Check this box to set the BG Image to Fixed."
+msgstr "Zaznacz to pole, aby ustawić obraz BG na stałe."
+
+#: framework/custom-metaboxes.php:564
+#@ truethemes_localize
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: framework/custom-metaboxes.php:573
+#@ truethemes_localize
+msgid "Use the <strong>Categories box</strong> in the right column of this screen to define a category for this gallery post. (this category will be used for filtering.)"
+msgstr "Użyj <strong>pola kategorie</strong> w prawej kolumnie tego ekranu, aby określić kategorię dla tego postu galerii. (W tej kategorii są stosowane do filtrowania.)"
+
+#: framework/custom-metaboxes.php:578
+#@ truethemes_localize
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: framework/custom-metaboxes.php:579
+#@ truethemes_localize
+msgid "Thumbnails are the images displayed in a grid layout on the gallery page."
+msgstr "Miniatury są obrazy wyświetlane w układzie siatki na stronie galerii."
+
+#: framework/custom-metaboxes.php:584
+#@ truethemes_localize
+msgid "Thumbnail Image"
+msgstr "Miniatura"
+
+#: framework/custom-metaboxes.php:591
+#@ truethemes_localize
+msgid "Content"
+msgstr "Zawartość"
+
+#: framework/custom-metaboxes.php:592
+#@ truethemes_localize
+msgid "This content is displayed below the thumbnail. Simply leave blank if prefer not to display content."
+msgstr "Ta treść jest wyświetlana poniżej miniatury. Wystarczy pozostawić puste, jeśli nie wolą, aby wyświetlić zawartość."
+
+#: framework/custom-metaboxes.php:610
+#@ truethemes_localize
+msgid "Page Linking"
+msgstr "Strona z linkami"
+
+#: framework/custom-metaboxes.php:611
+#@ truethemes_localize
+msgid "Use this section to link this gallery post to a Page rather than a Lightbox. Simply ignore this section if you prefer Lightbox."
+msgstr "W tej sekcji należy połączyć ten post galerię na stronie, a nie Lightbox. Po prostu zignorować tę sekcję, jeśli wolisz Lightbox."
+
+#: framework/custom-metaboxes.php:616
+#@ truethemes_localize
+msgid "Page URL"
+msgstr "Adres strony"
+
+#: framework/custom-metaboxes.php:617
+#@ truethemes_localize
+msgid "Enter a URL if you prefer to link this gallery post to a page."
+msgstr "Wpisz adres URL, jeśli wolisz, aby połączyć ten post galerię na stronie."
+
+#: framework/custom-metaboxes.php:624
+#@ truethemes_localize
+msgid "Open Page Link in"
+msgstr "Otwórz Link do strony w"
+
+#: framework/custom-metaboxes.php:634
+#@ truethemes_localize
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: framework/custom-metaboxes.php:640
+#@ truethemes_localize
+msgid "Lightbox Item 1"
+msgstr "Przedmiot Lightbox 1"
+
+#: framework/custom-metaboxes.php:652
+#@ truethemes_localize
+msgid "Lightbox Item 2"
+msgstr "Przedmiot Lightbox 2"
+
+#: framework/custom-metaboxes.php:664
+#@ truethemes_localize
+msgid "Lightbox Item 3"
+msgstr "Przedmiot Lightbox 3"
+
+#: framework/custom-metaboxes.php:676
+#@ truethemes_localize
+msgid "Lightbox Item 4"
+msgstr "Przedmiot Lightbox 4"
+
+#: framework/custom-metaboxes.php:688
+#@ truethemes_localize
+msgid "Lightbox Item 5"
+msgstr "Przedmiot Lightbox 5"
+
+#: framework/custom-metaboxes.php:706
+#@ truethemes_localize
+msgid "Slide Settings"
+msgstr "Ustawienia slajdów"
+
+#: framework/custom-metaboxes.php:715
+#@ truethemes_localize
+msgid "Use the <strong>Categories box</strong> in the right column of this screen to define a category for this slider post."
+msgstr "Użyj <strong>pola kategorie</strong> w prawej kolumnie tego ekranu, aby określić kategorię dla tego postu suwaka."
+
+#: framework/custom-metaboxes.php:720
+#: framework/custom-metaboxes.php:740
+#@ truethemes_localize
+msgid "Featured Image"
+msgstr "Prezentowany pliku"
+
+#: framework/custom-metaboxes.php:721
+#@ truethemes_localize
+msgid "Setup a featured image for this slide. <a href=\"#featured-video\">Skip this section and scroll down</a> to display a Featured Video instead."
+msgstr "Ustaw wyróżnioną zdjęcie tego slajdu. <a href=\"#featured-video\">Pomiń ten punkt i przejdź</a> do wyświetlania Prezentowany film zamiast."
+
+#: framework/custom-metaboxes.php:728
+#@ truethemes_localize
+msgid "All images automatically re-sized to the dimensions below:<br /><br /><strong>jQuery 1 Slider - Image Dimensions:</strong><br />Normal Image: 404 x 256<br />Full-width Image: 940 x 283<br /><br /><strong>jQuery 2 Slider - Image Dimensions:</strong><br />Normal Image: 436 x 270<br />Full-width Image: 840 x 270<br />Full-bleed Image: 920 x 358<br /><br /><strong>jQuery 3 Slider - Image Dimensions:</strong><br />Normal Image: 436 x 270<br />Full-width Image: 960 x 350"
+msgstr "Wszystkie obrazy automatycznie ponownie wielkości do wymiarów poniżej: <br /><br /> <strong>jQuery 1 Slider - wymiary obrazu:</strong> <br /> Normal Image: 404 x 256 <br /> Obraz Full-width: 940 x 283 <br /><br /> <strong>jQuery 2. Slider - wymiary obrazu:</strong> <br /> Normal Image: 436 x 270 <br /> Obraz Full-width: 840 x 270 <br /> Full-krwawić Image: 920 x 358 <br /><br /> <strong>jQuery 3 Slider - wymiary obrazu:</strong> <br /> Normal Image: 436 x 270 <br /> Obraz Full-width: 960 x 350"
+
+#: framework/custom-metaboxes.php:746
+#@ truethemes_localize
+msgid "Image Linking"
+msgstr "Obrazek z linkami"
+
+#: framework/custom-metaboxes.php:747
+#@ truethemes_localize
+msgid "Turn this image into a clickable link by entering the full URL here."
+msgstr "Włącz ten obraz w łączem wpisując pełny adres URL tutaj."
+
+#: framework/custom-metaboxes.php:753
+#@ truethemes_localize
+msgid "ALT Text"
+msgstr "Tekst ALT"
+
+#: framework/custom-metaboxes.php:754
+#@ truethemes_localize
+msgid "Add ALT text to this image to help boost your website's SEO."
+msgstr "Dodaj tekst alternatywny do tego obrazu, aby pomóc zwiększyć witryny SEO."
+
+#: framework/custom-metaboxes.php:761
+#@ truethemes_localize
+msgid "<a name=\"featured-video\"></a>Featured Video"
+msgstr "<a name=\"featured-video\"></a> Polecane Wideo"
+
+#: framework/custom-metaboxes.php:762
+#@ truethemes_localize
+msgid "Enter a YouTube or Vimeo URL below. Full list of supported video services listed at: <a href=\"http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+msgstr "Wprowadź adres URL YouTube lub Vimeo poniżej. Pełna lista obsługiwanych usług wideo wymienionych na:<a href=\"http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+
+#: framework/custom-metaboxes.php:770
+#@ truethemes_localize
+msgid "<strong>Sample URL:</strong> http://vimeo.com/70149174"
+msgstr "<strong>Przykładowy adres URL:</strong> http://vimeo.com/70149174"
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:28
+#@ truethemes_localize
+msgid "Display a 3D tag cloud on your site."
+msgstr "Wyświetlacz 3D chmury tagów na swojej stronie."
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:29
+#@ truethemes_localize
+msgid "CUSTOM - 3D Tag Cloud"
+msgstr "CUSTOM - 3D Tag Cloud"
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:84
+#: framework/extended/seo-module/seo_module.php:452
+#: framework/extended/seo-module/seo_module_class.php:1240
+#: framework/extended/seo-module/seo_module_class.php:1297
+#: framework/widgets.php:172
+#: framework/widgets.php:321
+#: framework/widgets.php:415
+#: framework/widgets.php:489
+#: framework/widgets.php:559
+#@ truethemes_localize
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:86
+#@ truethemes_localize
+msgid "Speed:"
+msgstr "Speed:"
+
+#: framework/extended/grunion-contact-form/admin.php:86
+#@ truethemes_localize
+msgid "From"
+msgstr "Z"
+
+#: framework/extended/grunion-contact-form/admin.php:87
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:832
+#@ truethemes_localize
+msgid "Message"
+msgstr "Wiadomość"
+
+#: framework/extended/grunion-contact-form/admin.php:88
+#@ truethemes_localize
+msgid "Date"
+msgstr "Data"
+
+#: framework/extended/grunion-contact-form/admin.php:158
+#@ default
+msgid "Resore this item from the Trash"
+msgstr "Resore ten element z Kosza"
+
+#: framework/extended/grunion-contact-form/admin.php:160
+#@ truethemes_localize
+msgid "Restore"
+msgstr "Przywracać"
+
+#: framework/extended/grunion-contact-form/admin.php:163
+#: framework/extended/grunion-contact-form/admin.php:262
+#@ truethemes_localize
+msgid "Delete this item permanently"
+msgstr "Usuń ten przedmiot na stałe"
+
+#: framework/extended/grunion-contact-form/admin.php:165
+#: framework/extended/grunion-contact-form/admin.php:264
+#@ truethemes_localize
+msgid "Delete Permanently"
+msgstr "Usuń trwale"
+
+#: framework/extended/grunion-contact-form/admin.php:196
+#@ truethemes_localize
+msgid "Mark this message as spam"
+msgstr "Oznacz wiadomość jako spam"
+
+#: framework/extended/grunion-contact-form/admin.php:203
+#: framework/extended/grunion-contact-form/admin.php:205
+#: framework/extended/grunion-contact-form/admin.php:497
+#@ truethemes_localize
+msgid "Trash"
+msgstr "Kosz"
+
+#: framework/extended/grunion-contact-form/admin.php:256
+#@ truethemes_localize
+msgid "Mark this message as NOT spam"
+msgstr "Oznacz wiadomość jako nie spam"
+
+#: framework/extended/grunion-contact-form/admin.php:295
+#@ truethemes_localize
+msgid "Y-m-d @ g:i:s A"
+msgstr "Y-m-d @ g:i:s A"
+
+#: framework/extended/grunion-contact-form/admin.php:419
+#@ truethemes_localize
+msgid "You are not allowed to manage this item."
+msgstr "Nie masz uprawnień do zarządzania ten przedmiot."
+
+#: framework/extended/grunion-contact-form/admin.php:453
+#@ truethemes_localize
+msgid "You are not allowed to move this item out of the Trash."
+msgstr "Nie możesz przenieść ten element z Kosza."
+
+#: framework/extended/grunion-contact-form/admin.php:456
+#@ truethemes_localize
+msgid "Error in restoring from Trash."
+msgstr "Błąd w przywracanie z Kosza."
+
+#: framework/extended/grunion-contact-form/admin.php:460
+#@ truethemes_localize
+msgid "You are not allowed to move this item to the Trash."
+msgstr "Nie możesz przenieść ten element do Kosza."
+
+#: framework/extended/grunion-contact-form/admin.php:463
+#@ truethemes_localize
+msgid "Error in moving to Trash."
+msgstr "Błąd w ruchu do kosza."
+
+#: framework/extended/grunion-contact-form/admin.php:487
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:831
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+#@ truethemes_localize
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: framework/extended/grunion-contact-form/admin.php:510
+#@ truethemes_localize
+msgid "Spam"
+msgstr "Spam"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:53
+#: framework/extended/grunion-contact-form/grunion-form-view.php:135
+#: framework/theme-functions.php:487
+#@ default
+#@ truethemes_localize
+msgid "Name"
+msgstr "Nazwa"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:54
+#@ default
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:55
+#: framework/extended/grunion-contact-form/grunion-form-view.php:139
+#: framework/theme-functions.php:495
+#@ default
+#@ truethemes_localize
+msgid "Website"
+msgstr "Witryna internetowa"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:58
+#@ default
+msgid "Subject"
+msgstr "Przedmiot"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:129
+#@ default
+msgid "Yes"
+msgstr "Tak"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:171
+#, php-format
+#@ truethemes_localize
+msgid "%s requires a valid email address"
+msgstr "%s prawidłowy adres e-mail"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:178
+#, php-format
+#@ truethemes_localize
+msgid "%s is required"
+msgstr "%s jest wymagane"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:375
+#@ truethemes_localize
+msgid "Invalid CAPTCHA"
+msgstr "Nieprawidłowy CAPTCHA"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:562
+#@ truethemes_localize
+msgid "l F j, Y \\a\\t g:i a"
+msgstr "l F j, Y \\a\\t g:i a"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:833
+#@ truethemes_localize
+msgid "Search Message"
+msgstr "Wiadomość Szukaj"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:834
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:835
+#@ truethemes_localize
+msgid "No message found"
+msgstr "Nie znaleziono wiadomości"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:850
+#, php-format
+#@ truethemes_localize
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
+msgstr[2] ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:874
+#@ truethemes_localize
+msgid "Add a custom form"
+msgstr "Dodaj niestandardowy formularz"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:110
+#@ truethemes_localize
+msgid "Can I add more fields?"
+msgstr "Czy mogę dodać więcej pól?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+#@ truethemes_localize
+msgid "Sure thing."
+msgstr "Jasne."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+#@ truethemes_localize
+msgid "Click here"
+msgstr "Kliknij tutaj"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+#@ truethemes_localize
+msgid "to add a new text box, textarea, radio, checkbox, or dropdown field."
+msgstr "aby dodać nowe pole tekstowe, textarea, radio, pole wyboru lub rozwijanego pola."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:112
+#@ truethemes_localize
+msgid "Can I view my messages within WordPress?"
+msgstr "Czy można wyświetlać wiadomości w obrębie WordPress?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+#@ truethemes_localize
+msgid "Yep, you can read your messages at any time by clicking the"
+msgstr "Tak, można przeczytać wiadomości w każdej chwili, klikając"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+#@ truethemes_localize
+msgid "link in the main admin menu."
+msgstr "Informacje w menu głównym administratora."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:114
+#@ truethemes_localize
+msgid "Can I specify the Email Address where this form will get sent?"
+msgstr "Czy mogę podać adres e-mail, w którym ta forma będzie wysyłane?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:115
+#@ truethemes_localize
+msgid "Yep. Simply click the \"Email Notifications\" tab at the top of this window."
+msgstr "Tak. Wystarczy kliknąć na &quot;informację&quot; kartę na górze tego okna."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:125
+#@ truethemes_localize
+msgid "Edit this new field"
+msgstr "Edytuj nowe pole"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:127
+#@ truethemes_localize
+msgid "Label"
+msgstr "Etykieta"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:130
+#@ truethemes_localize
+msgid "Field type"
+msgstr "Rodzaj pola"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:132
+#@ truethemes_localize
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:133
+#@ truethemes_localize
+msgid "Drop down"
+msgstr "Spadać w dół"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:134
+#: framework/theme-functions.php:491
+#@ truethemes_localize
+msgid "Email"
+msgstr "Email"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:136
+#@ truethemes_localize
+msgid "Radio"
+msgstr "Radio"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:137
+#@ truethemes_localize
+msgid "Text"
+msgstr "Tekst"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:138
+#@ truethemes_localize
+msgid "Textarea"
+msgstr "Textarea"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:145
+#@ truethemes_localize
+msgid "Options"
+msgstr "Opcje"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:149
+#@ truethemes_localize
+msgid "Add another option"
+msgstr "Dodaj inną opcję"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:156
+#@ truethemes_localize
+msgid "Required?"
+msgstr "Wymagany?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:166
+#@ truethemes_localize
+msgid "Here's what your form will look like"
+msgstr "Oto, co formularz będzie wyglądać"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:171
+#@ truethemes_localize
+msgid "Add a new field"
+msgstr "Dodaj nowe pole"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:182
+#@ truethemes_localize
+msgid "Email settings"
+msgstr "Ustawienia poczty elektronicznej"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:184
+#@ truethemes_localize
+msgid "Enter your email address"
+msgstr "Wpisz swój adres e-mail"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:187
+#@ truethemes_localize
+msgid "What should the subject line be?"
+msgstr "Co należy temacie być?"
+
+#: framework/extended/multiple_sidebars.php:63
+#@ truethemes_localize
+msgid "Custom Sidebar"
+msgstr "Niestandardowe Sidebar"
+
+#: framework/extended/multiple_sidebars.php:225
+#@ truethemes_localize
+msgid "Sidebars"
+msgstr "Paski"
+
+#: framework/extended/multiple_sidebars.php:227
+#@ truethemes_localize
+msgid "Instructions:"
+msgstr "Instrukcje:"
+
+#: framework/extended/multiple_sidebars.php:229
+#@ truethemes_localize
+msgid "Step 1:"
+msgstr "Etap 1:"
+
+#: framework/extended/multiple_sidebars.php:229
+#@ truethemes_localize
+msgid "Create a new Sidebar by clicking the \"Add New Sidebar\" button below. Give the sidebar a name and click \"OK\"."
+msgstr "Tworzenie nowego paska bocznego, klikając przycisk &quot;Sidebar&quot; Dodaj nowy przycisk poniżej. Daj pasku bocznym nazwę i kliknij przycisk &quot;OK&quot;."
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "Step 2:"
+msgstr "Etap 2:"
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "Add Widgets to this Sidebar by exiting this page and clicking on"
+msgstr "Dodaj widżety do tego Sidebar zamykając tę ​​stronę i klikając na"
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "Appearance > Widgets"
+msgstr "Wygląd > Widgety"
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "The Sidebar you just created will be located on the right side of the Widgets page. Simply drag-and-drop your desired Widgets into the Sidebar."
+msgstr "Sidebar właśnie utworzony będzie zlokalizowany po prawej stronie ekranu widgety. Po prostu przeciągnij i upuść wybrane widgety w pasku bocznym."
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "Step 3:"
+msgstr "Etap 3:"
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "Assign the Sidebar to a page by"
+msgstr "Przypisywanie paska bocznego na stronie przez"
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "editing your desired page"
+msgstr "edycji żądaną stronę"
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "and choosing the newly created Sidebar from within the Custom Sidebar box located on the right side of the Page Editing screen."
+msgstr "i wybierając pasek boczny z nowo utworzonego w polu Niestandardowe Sidebar znajduje się po prawej stronie ekranu edycji strony."
+
+#: framework/extended/multiple_sidebars.php:270
+#@ truethemes_localize
+msgid "Add New Sidebar"
+msgstr "Dodaj nowy pasek boczny"
+
+#: framework/extended/multiple_sidebars.php:312
+#@ truethemes_localize
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Display a custom sidebar by selecting it from the dropdown list below."
+msgstr "Wyświetlanie niestandardowego paska bocznego, wybierając go z rozwijanej listy poniżej."
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Please note:"
+msgstr "Proszę zwrócić uwagę:"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "this page must be using a sidebar-ready page template in order to properly display a sidebar."
+msgstr "Ta strona musi używać sidebar-gotowy szablon strony w celu prawidłowego wyświetlania paska bocznego."
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "(ie. \"Left Sidebar\" page template)"
+msgstr "(Np. &quot;Left Sidebar&quot; szablon strony)"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Need to create a new Sidebar?"
+msgstr "Potrzebujesz, aby utworzyć nowy pasek boczny?"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Appearance > Sidebars"
+msgstr "Wygląd > Paski"
+
+#: framework/extended/seo-module/seo_module.php:292
+#@ truethemes_localize
+msgid "SEO Title"
+msgstr "SEO Title"
+
+#: framework/extended/seo-module/seo_module.php:293
+#@ truethemes_localize
+msgid "SEO Keywords"
+msgstr "Słowa kluczowe SEO"
+
+#: framework/extended/seo-module/seo_module.php:294
+#@ truethemes_localize
+msgid "SEO Description"
+msgstr "Opis SEO"
+
+#: framework/extended/seo-module/seo_module.php:400
+#: framework/extended/seo-module/seo_module.php:406
+#: framework/extended/seo-module/seo_module.php:407
+#: functions.php:206
+#@ truethemes_localize
+msgid "SEO Settings"
+msgstr "SEO Settings"
+
+#: framework/extended/seo-module/seo_module.php:438
+#: framework/extended/seo-module/seo_module_class.php:1289
+#@ truethemes_localize
+msgid "Click here for Support"
+msgstr "Kliknij tutaj, aby wsparcie"
+
+#: framework/extended/seo-module/seo_module.php:455
+#@ truethemes_localize
+msgid " characters. Most search engines use a maximum of 60 chars for the title."
+msgstr "znaków. Większość wyszukiwarek użyć maksymalnie 60 znaków w tytule."
+
+#: framework/extended/seo-module/seo_module.php:460
+#: framework/extended/seo-module/seo_module_class.php:1301
+#@ truethemes_localize
+msgid "Description:"
+msgstr "Opis:"
+
+#: framework/extended/seo-module/seo_module.php:465
+#: framework/extended/seo-module/seo_module_class.php:1305
+#@ truethemes_localize
+msgid " characters. Most search engines use a maximum of 160 chars for the description."
+msgstr "znaków. Większość wyszukiwarek użyć maksymalnie 160 znaków opisu."
+
+#: framework/extended/seo-module/seo_module.php:470
+#: framework/extended/seo-module/seo_module_class.php:1244
+#: framework/extended/seo-module/seo_module_class.php:1309
+#@ truethemes_localize
+msgid "Keywords (comma separated):"
+msgstr "Słowa kluczowe (oddzielone przecinkami):"
+
+#: framework/extended/seo-module/seo_module.php:476
+#: framework/extended/seo-module/seo_module_class.php:1324
+#@ truethemes_localize
+msgid "Title Attribute:"
+msgstr "Atrybut Title:"
+
+#: framework/extended/seo-module/seo_module.php:481
+#: framework/extended/seo-module/seo_module_class.php:1328
+#@ truethemes_localize
+msgid "Menu Label:"
+msgstr "Label Menu:"
+
+#: framework/extended/seo-module/seo_module.php:487
+#: framework/extended/seo-module/seo_module_class.php:1316
+#@ truethemes_localize
+msgid "Disable on this page/post:"
+msgstr "Wyłącz na tej stronie / postu:"
+
+#: framework/extended/seo-module/seo_module_class.php:1236
+#: framework/site-options.php:92
+#@ truethemes_localize
+msgid "SEO Module"
+msgstr "SEO Module"
+
+#: framework/extended/seo-module/seo_module_class.php:1276
+#: framework/extended/seo-module/seo_module_class.php:1283
+#@ truethemes_localize
+msgid "All in One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: framework/extended/seo-module/seo_module_class.php:1391
+#@ truethemes_localize
+msgid "SEO Settings Reset."
+msgstr "SEO Kasowanie ustawień."
+
+#: framework/extended/seo-module/seo_module_class.php:1437
+#@ truethemes_localize
+msgid "SEO Settings Updated."
+msgstr "Ustawienia SEO aktualizacji."
+
+#: framework/extended/seo-module/seo_module_class.php:1534
+#@ truethemes_localize
+msgid "Plugin Status:"
+msgstr "Stan Plugin:"
+
+#: framework/extended/seo-module/seo_module_class.php:1538
+#@ truethemes_localize
+msgid "Enabled"
+msgstr "Włączone"
+
+#: framework/extended/seo-module/seo_module_class.php:1539
+#@ truethemes_localize
+msgid "Disabled"
+msgstr "Niepełnosprawny"
+
+#: framework/extended/seo-module/seo_module_class.php:1542
+#@ truethemes_localize
+msgid "All in One SEO Pack must be enabled for use."
+msgstr "All in One SEO Pack musi być włączona."
+
+#: framework/extended/seo-module/seo_module_class.php:1551
+#@ truethemes_localize
+msgid "Home Title:"
+msgstr "Tytuł Home:"
+
+#: framework/extended/seo-module/seo_module_class.php:1558
+#@ truethemes_localize
+msgid "The &lt;title&gt; of your homepage. This is independent of any other option. If not set, the default blog title will get used."
+msgstr "&lt;title&gt; Od strony głównej. Jest to niezależne od innych opcji. Jeśli nie jest ustawiony, title blog domyślnie będzie przyzwyczaić."
+
+#: framework/extended/seo-module/seo_module_class.php:1567
+#@ truethemes_localize
+msgid "Home Description:"
+msgstr "Opis domu:"
+
+#: framework/extended/seo-module/seo_module_class.php:1574
+#@ truethemes_localize
+msgid "The &lt;meta&gt; description for your homepage. Independent of any other options, the default is no &lt;meta&gt; description at all if this is not set."
+msgstr "Opis &lt;meta&gt; do strony głównej. Niezależnie od jakichkolwiek innych opcji, domyślnie ma opisu &lt;meta&gt; w ogóle, jeśli to nie jest ustawione."
+
+#: framework/extended/seo-module/seo_module_class.php:1583
+#@ truethemes_localize
+msgid "Home Keywords (comma separated):"
+msgstr "Dom Słowa kluczowe (oddzielone przecinkami):"
+
+#: framework/extended/seo-module/seo_module_class.php:1590
+#@ truethemes_localize
+msgid "A comma separated list of your most important keywords for your site that will be written as &lt;meta&gt; keywords on your homepage."
+msgstr "Oddzielone przecinkami listę swoich najważniejszych słów kluczowych dla witryny, które będą zapisywane jako słów kluczowych &lt;meta&gt; na swojej stronie głównej."
+
+#: framework/extended/seo-module/seo_module_class.php:1599
+#@ truethemes_localize
+msgid "Canonical URLs:"
+msgstr "Canonical URL:"
+
+#: framework/extended/seo-module/seo_module_class.php:1606
+#@ truethemes_localize
+msgid "This option will automatically generate Canonical URLS for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>Google</a>."
+msgstr "Opcja ta automatycznie generuje adresy URL kanonicznego dla całej instalacji WordPressa. Pomoże to uniknąć powielania treści Kary przez <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>Google</a>."
+
+#: framework/extended/seo-module/seo_module_class.php:1615
+#@ truethemes_localize
+msgid "Rewrite Titles:"
+msgstr "Przepisz Tytuły:"
+
+#: framework/extended/seo-module/seo_module_class.php:1622
+#@ truethemes_localize
+msgid "This is about the &lt;title&gt; tag within your HTML &lt;head&gt; and not your WordPress Post Title or Page Title. <br/>This is what you see in your browser's window title bar. <br/>This is Not visible on a page, only in the window title bar and in the source. <br/>If set, all page, post, category, search and archive page titles get rewritten. <br/> You can specify the format for most of them."
+msgstr "To jest o &lt;title&gt; w HTML &lt;head&gt; a nie Twój tytuł postu WordPress lub tytuł strony. <br/> To, co widzisz w przeglądarce pasku tytułu okna. <br/> To nie jest widoczny na stronie, tylko na pasku tytułu okna i źródła. <br/> Jeśli ustawione, wszystkie strony, poczta, kategorii, wyszukiwanie i archiwizowanie tytuły strona Pobierz przepisany. <br/> Można określić format dla większości z nich."
+
+#: framework/extended/seo-module/seo_module_class.php:1631
+#@ truethemes_localize
+msgid "Post Title Format:"
+msgstr "Napisz format Tytuł:"
+
+#: framework/extended/seo-module/seo_module_class.php:1638
+#: framework/extended/seo-module/seo_module_class.php:1665
+#: framework/extended/seo-module/seo_module_class.php:1690
+#: framework/extended/seo-module/seo_module_class.php:1712
+#: framework/extended/seo-module/seo_module_class.php:1733
+#: framework/extended/seo-module/seo_module_class.php:1754
+#: framework/extended/seo-module/seo_module_class.php:1775
+#: framework/extended/seo-module/seo_module_class.php:1797
+#: framework/extended/seo-module/seo_module_class.php:1821
+#@ truethemes_localize
+msgid "The following macros are supported:"
+msgstr "Poniższe makra są obsługiwane:"
+
+#: framework/extended/seo-module/seo_module_class.php:1640
+#: framework/extended/seo-module/seo_module_class.php:1667
+#: framework/extended/seo-module/seo_module_class.php:1692
+#: framework/extended/seo-module/seo_module_class.php:1714
+#: framework/extended/seo-module/seo_module_class.php:1735
+#: framework/extended/seo-module/seo_module_class.php:1756
+#: framework/extended/seo-module/seo_module_class.php:1777
+#: framework/extended/seo-module/seo_module_class.php:1799
+#, php-format
+#@ truethemes_localize
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Twój tytuł blog"
+
+#: framework/extended/seo-module/seo_module_class.php:1641
+#: framework/extended/seo-module/seo_module_class.php:1668
+#: framework/extended/seo-module/seo_module_class.php:1693
+#: framework/extended/seo-module/seo_module_class.php:1715
+#: framework/extended/seo-module/seo_module_class.php:1736
+#: framework/extended/seo-module/seo_module_class.php:1757
+#: framework/extended/seo-module/seo_module_class.php:1778
+#: framework/extended/seo-module/seo_module_class.php:1800
+#, php-format
+#@ truethemes_localize
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Twój opis blog"
+
+#: framework/extended/seo-module/seo_module_class.php:1642
+#, php-format
+#@ truethemes_localize
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Oryginalny tytuł postu"
+
+#: framework/extended/seo-module/seo_module_class.php:1643
+#, php-format
+#@ truethemes_localize
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - (main) kategoria postu"
+
+#: framework/extended/seo-module/seo_module_class.php:1644
+#, php-format
+#@ truethemes_localize
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - Alias ​​dla %category_title%"
+
+#: framework/extended/seo-module/seo_module_class.php:1645
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - tego posta Autora &#39;logowanie"
+
+#: framework/extended/seo-module/seo_module_class.php:1646
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - tego posta Autora &#39;nicename"
+
+#: framework/extended/seo-module/seo_module_class.php:1647
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - tego posta Autora &#39;imię (kapitalizowane)"
+
+#: framework/extended/seo-module/seo_module_class.php:1648
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - tego posta Autora &#39;nazwisko (kapitalizowane)"
+
+#: framework/extended/seo-module/seo_module_class.php:1658
+#@ truethemes_localize
+msgid "Page Title Format:"
+msgstr "Format Tytuł strony:"
+
+#: framework/extended/seo-module/seo_module_class.php:1669
+#, php-format
+#@ truethemes_localize
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Oryginalny tytuł strony"
+
+#: framework/extended/seo-module/seo_module_class.php:1670
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Ta strona Autora &#39;logowanie"
+
+#: framework/extended/seo-module/seo_module_class.php:1671
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Ta strona Autora &#39;nicename"
+
+#: framework/extended/seo-module/seo_module_class.php:1672
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Ta strona Autora &#39;imię (kapitalizowane)"
+
+#: framework/extended/seo-module/seo_module_class.php:1673
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Ta strona Autora &#39;nazwisko (kapitalizowane)"
+
+#: framework/extended/seo-module/seo_module_class.php:1683
+#@ truethemes_localize
+msgid "Category Title Format:"
+msgstr "Format Tytuł Kategoria:"
+
+#: framework/extended/seo-module/seo_module_class.php:1694
+#, php-format
+#@ truethemes_localize
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Oryginalny tytuł kategorii"
+
+#: framework/extended/seo-module/seo_module_class.php:1695
+#, php-format
+#@ truethemes_localize
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - opis kategorii"
+
+#: framework/extended/seo-module/seo_module_class.php:1705
+#@ truethemes_localize
+msgid "Archive Title Format:"
+msgstr "Format Tytuł Archiwum:"
+
+#: framework/extended/seo-module/seo_module_class.php:1716
+#, php-format
+#@ truethemes_localize
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Oryginalny tytuł archiwum podane przez WordPress, np. &quot;2007&quot; lub &quot;2007 sierpień&quot;"
+
+#: framework/extended/seo-module/seo_module_class.php:1726
+#@ truethemes_localize
+msgid "Tag Title Format:"
+msgstr "Format Title Tag:"
+
+#: framework/extended/seo-module/seo_module_class.php:1737
+#, php-format
+#@ truethemes_localize
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - nazwa tagu"
+
+#: framework/extended/seo-module/seo_module_class.php:1747
+#@ truethemes_localize
+msgid "Search Title Format:"
+msgstr "Format Title Search:"
+
+#: framework/extended/seo-module/seo_module_class.php:1758
+#, php-format
+#@ truethemes_localize
+msgid "%search% - What was searched for"
+msgstr "%search% - co było wyszukiwane"
+
+#: framework/extended/seo-module/seo_module_class.php:1768
+#@ truethemes_localize
+msgid "Description Format:"
+msgstr "Format Opis:"
+
+#: framework/extended/seo-module/seo_module_class.php:1779
+#, php-format
+#@ truethemes_localize
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Oryginalny opis określonych przez wtyczki, np. fragment, jeśli jest ustawiony lub auto-generated jeden, jeśli ta opcja jest ustawiona"
+
+#: framework/extended/seo-module/seo_module_class.php:1780
+#, php-format
+#@ truethemes_localize
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - tytuł oryginalny wordpress, np. post_title postow"
+
+#: framework/extended/seo-module/seo_module_class.php:1790
+#@ truethemes_localize
+msgid "404 Title Format:"
+msgstr "404 Tytuł Format:"
+
+#: framework/extended/seo-module/seo_module_class.php:1801
+#, php-format
+#@ truethemes_localize
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - oryginalna ścieżka URL, takich jak \"/url-that-does-not-exist/\""
+
+#: framework/extended/seo-module/seo_module_class.php:1802
+#, php-format
+#@ truethemes_localize
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - ścieżka URL w postaci czytelnej dla człowieka, takie jak &quot;adres URL, który nie istnieje&quot;"
+
+#: framework/extended/seo-module/seo_module_class.php:1803
+#, php-format
+#@ truethemes_localize
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Dodatkowe wejście title 404 &quot;"
+
+#: framework/extended/seo-module/seo_module_class.php:1813
+#@ truethemes_localize
+msgid "Paged Format:"
+msgstr "Paged Format:"
+
+#: framework/extended/seo-module/seo_module_class.php:1820
+#@ truethemes_localize
+msgid "This string gets appended/prepended to titles when they are for paged index pages (like home or archive pages)."
+msgstr "Ciąg ten zostanie dołączony / poprzedzany tytułów, gdy są one na stronicowych stron indeksu (jak w domu lub stron archiwalnych)."
+
+#: framework/extended/seo-module/seo_module_class.php:1823
+#, php-format
+#@ truethemes_localize
+msgid "%page% - The page number"
+msgstr "%page% - numer strony"
+
+#: framework/extended/seo-module/seo_module_class.php:1833
+#@ truethemes_localize
+msgid "SEO for Custom Post Types:"
+msgstr "SEO na niestandardowe typy post:"
+
+#: framework/extended/seo-module/seo_module_class.php:1840
+#@ truethemes_localize
+msgid "Check this if you want your enable AIOSEOP support for Custom Post Types on this site."
+msgstr "Sprawdź to, jeśli chcesz włączyć obsługę AIOSEOP z własnym typem post na tej stronie."
+
+#: framework/extended/seo-module/seo_module_class.php:1851
+#@ truethemes_localize
+msgid "Custom Post Types for SEO Column Support:"
+msgstr "Typy niestandardowe post o wsparcie SEO kolumna:"
+
+#: framework/extended/seo-module/seo_module_class.php:1871
+#@ truethemes_localize
+msgid "Choose which post types you want to have SEO columns on the edit.php screen. You can select as many as you like."
+msgstr "Wybierz, który po typy chcesz mieć kolumny SEO na edit.php ekranie. Możesz wybrać, jak wiele, jak chcesz."
+
+#: framework/extended/seo-module/seo_module_class.php:1881
+#@ truethemes_localize
+msgid "Use Categories for META keywords:"
+msgstr "Użyj Kategorie dla Meta Keywords:"
+
+#: framework/extended/seo-module/seo_module_class.php:1888
+#@ truethemes_localize
+msgid "Check this if you want your categories for a given post used as the META keywords for this post (in addition to any keywords and tags you specify on the post edit page)."
+msgstr "Sprawdź to, jeśli chcesz się kategorię dla danego stanowiska używany jako meta słowa kluczowe dla tego postu (oprócz wszelkich słów kluczowych i znaczników można określić na po stronie edycji)."
+
+#: framework/extended/seo-module/seo_module_class.php:1897
+#@ truethemes_localize
+msgid "Use Tags for META keywords:"
+msgstr "Używać znaczników słów kluczowych META:"
+
+#: framework/extended/seo-module/seo_module_class.php:1904
+#@ truethemes_localize
+msgid "Check this if you want your tags for a given post used as the META keywords for this post (in addition to any keywords you specify on the post edit page)."
+msgstr "Sprawdź to, jeśli chcesz tagów dla danego stanowiska używany jako słów kluczowych META dla tego postu (oprócz słów kluczowych, można określić na po stronie edycji)."
+
+#: framework/extended/seo-module/seo_module_class.php:1914
+#@ truethemes_localize
+msgid "Dynamically Generate Keywords for Posts Page:"
+msgstr "Dynamiczne generowanie Słowa kluczowe dla strony postów:"
+
+#: framework/extended/seo-module/seo_module_class.php:1921
+#@ truethemes_localize
+msgid "Check this if you want your keywords on a custom posts page (set it in options->reading) to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Sprawdź to, jeśli chcesz, aby Twoje słowa kluczowe w niestandardowej strony wiadomości (ustaw go w Opcje-> czytania) do dynamicznie tworzonych od słów kluczowych słupków pokazano na tej stronie. Jeżeli niezaznaczone, użyć słów kluczowych wymienionych w ekranie edycji strony dla strony postów."
+
+#: framework/extended/seo-module/seo_module_class.php:1930
+#@ truethemes_localize
+msgid "Use noindex for Categories:"
+msgstr "Użyj noindex dla kategorii:"
+
+#: framework/extended/seo-module/seo_module_class.php:1937
+#@ truethemes_localize
+msgid "Check this for excluding category pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Sprawdź to za wyjątkiem kategorii Strony z robotom. Przydatne dla uniknięcia duplikaty."
+
+#: framework/extended/seo-module/seo_module_class.php:1946
+#@ truethemes_localize
+msgid "Use noindex for Archives:"
+msgstr "Użyj noindex do archiwum:"
+
+#: framework/extended/seo-module/seo_module_class.php:1953
+#@ truethemes_localize
+msgid "Check this for excluding archive pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Sprawdź to za wyjątkiem stron archiwalnych z robotom. Przydatne dla uniknięcia duplikaty."
+
+#: framework/extended/seo-module/seo_module_class.php:1962
+#@ truethemes_localize
+msgid "Use noindex for Tag Archives:"
+msgstr "Użyj noindex dla Tag Archives:"
+
+#: framework/extended/seo-module/seo_module_class.php:1969
+#@ truethemes_localize
+msgid "Check this for excluding tag pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Sprawdź to za wyjątkiem stron indeksowały znaczników. Przydatne dla uniknięcia duplikaty."
+
+#: framework/extended/seo-module/seo_module_class.php:1978
+#@ truethemes_localize
+msgid "Autogenerate Descriptions:"
+msgstr "Autogenerować Opisy:"
+
+#: framework/extended/seo-module/seo_module_class.php:1984
+#@ truethemes_localize
+msgid "Check this and your META descriptions will get autogenerated if there's no excerpt."
+msgstr "Sprawdź to i wasze opisy META będzie się wygenerowany automatycznie, jeśli nie ma podgląd."
+
+#: framework/extended/seo-module/seo_module_class.php:1993
+#@ truethemes_localize
+msgid "Capitalize Category Titles:"
+msgstr "Zainwestuj Tytuły Kategoria:"
+
+#: framework/extended/seo-module/seo_module_class.php:2000
+#@ truethemes_localize
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr "Sprawdź to i tytuły Kategoria będzie pierwszą literę każdego kapitalizowane słowa."
+
+#: framework/extended/seo-module/seo_module_class.php:2010
+#@ truethemes_localize
+msgid "Exclude Pages:"
+msgstr "Wykluczanie stron:"
+
+#: framework/extended/seo-module/seo_module_class.php:2018
+#@ truethemes_localize
+msgid "Enter any comma separated pages here to be excluded by SEO Module.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/,/contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is give forum or /forum or /forum/ or and any URL with the word \"forum\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage will be excluded from SEO Module."
+msgstr "Wprowadź żadnych stron oddzielane przecinkami tu być wyłączone przez SEO Module. Jest to pomocne przy użyciu wtyczek, które generują własne non-WordPress dynamicznych stron. Ex: <em>/forum /,/ contact/</em> Na przykład, jeśli chcesz wykluczyć wirtualne strony generowane przez plugin forum, wszystko co musisz zrobić, to dać forum lub / forum lub / forum / lub oraz adres URL ze słowem &quot;forum &quot;w nim, takich jak http://mysite.com/forum lub http://mysite.com/forum/someforumpage zostaną wykluczone z modułem SEO."
+
+#: framework/extended/seo-module/seo_module_class.php:2028
+#@ truethemes_localize
+msgid "Additional Post Headers:"
+msgstr "Dodatkowe nagłówki post:"
+
+#: framework/extended/seo-module/seo_module_class.php:2035
+#@ truethemes_localize
+msgid "What you enter here will be copied verbatim to your header on post pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Co tutaj wpiszesz zostanie dosłownie nagłówku na stanowisko stron. Możesz podać wszelkie dodatkowe nagłówki chcesz tutaj, nawet odwołania do arkuszy stylów."
+
+#: framework/extended/seo-module/seo_module_class.php:2044
+#@ truethemes_localize
+msgid "Additional Page Headers:"
+msgstr "Dodatkowe Nagłówki:"
+
+#: framework/extended/seo-module/seo_module_class.php:2051
+#@ truethemes_localize
+msgid "What you enter here will be copied verbatim to your header on pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Co tutaj wpiszesz zostanie dosłownie nagłówku na stronach. Możesz podać wszelkie dodatkowe nagłówki chcesz tutaj, nawet odwołania do arkuszy stylów."
+
+#: framework/extended/seo-module/seo_module_class.php:2060
+#@ truethemes_localize
+msgid "Additional Home Headers:"
+msgstr "Dodatkowe nagłówki Strona główna:"
+
+#: framework/extended/seo-module/seo_module_class.php:2067
+#@ truethemes_localize
+msgid "What you enter here will be copied verbatim to your header on the home page. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Co tutaj wpiszesz zostanie dosłownie nagłówku na stronie głównej. Możesz podać wszelkie dodatkowe nagłówki chcesz tutaj, nawet odwołania do arkuszy stylów."
+
+#: framework/extended/seo-module/seo_module_class.php:2077
+#@ truethemes_localize
+msgid "Click for Help!"
+msgstr "Kliknij Pomocy!"
+
+#: framework/extended/seo-module/seo_module_class.php:2078
+#@ truethemes_localize
+msgid "Log important events:"
+msgstr "Zaloguj ważne wydarzenia:"
+
+#: framework/extended/seo-module/seo_module_class.php:2085
+#@ truethemes_localize
+msgid "Check this and SEO pack will create a log of important events (all_in_one_seo_pack.log) in its plugin directory which might help debugging it. Make sure this directory is writable."
+msgstr "Sprawdź to i SEO Pack stworzy dziennik ważnych wydarzeń (all_in_one_seo_pack.log) w swoim katalogu wtyczek, które mogą pomóc debugowania. Upewnij się, że ten katalog jest zapisywalny."
+
+#: framework/extended/seo-module/seo_module_class.php:2101
+#@ truethemes_localize
+msgid "Update Settings"
+msgstr "Ustawienia aktualizacji"
+
+#: framework/extended/seo-module/seo_module_class.php:2102
+#@ truethemes_localize
+msgid "Reset Settings to Defaults"
+msgstr "Przywróć ustawienia domyślne"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: framework/extended/tgm-plugin-activation/example.php:86
+#: functions.php:740
+#@ tgmpa
+#@ truethemes_localize
+msgid "Install Required Plugins"
+msgstr "Instalacja wymaganych wtyczek"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: framework/extended/tgm-plugin-activation/example.php:87
+#: functions.php:741
+#@ tgmpa
+#@ truethemes_localize
+msgid "Install Plugins"
+msgstr "Instalowanie wtyczek"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: framework/extended/tgm-plugin-activation/example.php:88
+#: functions.php:742
+#, php-format
+#@ tgmpa
+#@ truethemes_localize
+msgid "Installing Plugin: %s"
+msgstr "Instalacja wtyczki: %s"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr "Coś poszło nie tak."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:159
+#: framework/extended/tgm-plugin-activation/example.php:90
+#: functions.php:744
+#, php-format
+#@ truethemes_localize
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Temat ten wymaga następujące wtyczki: %1$s."
+msgstr[1] "Temat ten wymaga następujących wtyczek: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:160
+#: framework/extended/tgm-plugin-activation/example.php:91
+#: functions.php:745
+#, php-format
+#@ truethemes_localize
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ten motyw zaleca następujące wtyczki: %1$s."
+msgstr[1] "Ten motyw zaleca następujące wtyczki: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:161
+#: framework/extended/tgm-plugin-activation/example.php:92
+#: functions.php:746
+#, php-format
+#@ truethemes_localize
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Przykro nam, ale nie masz odpowiednich uprawnień, aby zainstalować wtyczkę %s. Skontaktuj się z administratorem strony, aby uzyskać pomoc w sprawie uzyskania plugin zainstalowany."
+msgstr[1] "Przykro nam, ale nie masz odpowiednich uprawnień, aby zainstalować %s wtyczek. Skontaktuj się z administratorem strony, aby uzyskać pomoc w sprawie uzyskania plugins zainstalowane."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:162
+#: framework/extended/tgm-plugin-activation/example.php:93
+#: functions.php:747
+#, php-format
+#@ truethemes_localize
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Poniższy wymagany plugin jest obecnie nieaktywna: %1$s."
+msgstr[1] "Poniższe wymagane wtyczki są obecnie nieaktywna: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:163
+#: framework/extended/tgm-plugin-activation/example.php:94
+#: functions.php:748
+#, php-format
+#@ truethemes_localize
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Poniżej zalecane plugin jest obecnie nieaktywna: %1$s."
+msgstr[1] "Poniższe polecane wtyczki są obecnie nieaktywna: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: framework/extended/tgm-plugin-activation/example.php:95
+#: functions.php:749
+#, php-format
+#@ truethemes_localize
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Przykro nam, ale nie masz odpowiednich uprawnień, aby aktywować %s wtyczkę. Skontaktuj się z administratorem strony, aby uzyskać pomoc w sprawie uzyskania plugin włączony."
+msgstr[1] "Przykro nam, ale nie masz odpowiednich uprawnień, aby aktywować %s wtyczek. Skontaktuj się z administratorem strony, aby uzyskać pomoc w sprawie uzyskania plugins aktywowany."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: framework/extended/tgm-plugin-activation/example.php:96
+#: functions.php:750
+#, php-format
+#@ truethemes_localize
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Następujące wtyczki musi zostać zaktualizowany do najnowszej wersji, aby zapewnić maksymalną zgodność z tym tematem: %1$s."
+msgstr[1] "Następujące wtyczki muszą być aktualizowane do ich najnowszej wersji, aby zapewnić maksymalną zgodność z tym tematem: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: framework/extended/tgm-plugin-activation/example.php:97
+#: functions.php:751
+#, php-format
+#@ truethemes_localize
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Przykro nam, ale nie masz odpowiednich uprawnień, aby zaktualizować %s wtyczkę. Skontaktuj się z administratorem strony, aby uzyskać pomoc w sprawie uzyskania plugin aktualizacji."
+msgstr[1] "Przykro nam, ale nie masz odpowiednich uprawnień, aby zaktualizować %s wtyczek. Skontaktuj się z administratorem strony, aby uzyskać pomoc w sprawie uzyskania plugins aktualizacji."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+#: framework/extended/tgm-plugin-activation/example.php:98
+#: functions.php:752
+#@ truethemes_localize
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Rozpocznij instalację wtyczki"
+msgstr[1] "Rozpocznij instalację wtyczek"
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: framework/extended/tgm-plugin-activation/example.php:99
+#: functions.php:753
+#@ truethemes_localize
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Aktywuj zainstalowaną wtyczkę"
+msgstr[1] "Aktywuj zainstalowanych wtyczek"
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: framework/extended/tgm-plugin-activation/example.php:100
+#: functions.php:754
+#@ tgmpa
+#@ truethemes_localize
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do Instalatora Plugins Wymagany"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr "Powrót do deski rozdzielczej"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1840
+#: framework/extended/tgm-plugin-activation/example.php:101
+#: functions.php:755
+#@ tgmpa
+#@ truethemes_localize
+msgid "Plugin activated successfully."
+msgstr "Plugin aktywowany pomyślnie."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie pluginy zainstalowany i aktywowany pomyślnie. %1$s"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr "Zamknij ten anons"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr "External Link"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr "Prywatny Repository"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr "Paczkowanych"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr "Wymagany"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr "Zalecane"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr "Nie zainstalowany"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr "Zainstalowane, ale nie aktywne"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Brak wtyczki do instalacji lub aktywacji. <a href=\"%1$s\" title=\"Powrót do pulpitu nawigacyjnego\">Powrót do pulpitu nawigacyjnego</a>"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr "Źródło"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Type"
+msgstr "Typ"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1294
+#@ tgmpa
+msgid "Status"
+msgstr "Status"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr "Zainstalować"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr "Aktywować"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1538
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Poniższy plugin został aktywowany pomyślnie:"
+msgstr[1] "Następujące wtyczki zostały aktywowane z powodzeniem:"
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr "Zainstaluj pakiet nie jest dostępny."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Pobieranie pakiet <span class=\"code\">%s</span>&#8230;"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowanie pakietu ..."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr "Instalacja wtyczki ..."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr "Plugin install nie."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr "Plugin zainstalowany pomyślnie."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr "Aktywacja wtyczki nie powiodło się."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces instalacji i aktywacji wyjścia. Proces ten może potrwać od kilku wpisów, więc proszę o cierpliwość."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s zainstalowany i aktywowany pomyślnie."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr "Ukryj szczegóły"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały zakończone."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i aktywowanie Wtyczka %1$s (%2$d/%3$d)"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces instalacji rozpoczyna. Proces ten może potrwać od kilku wpisów, więc proszę o cierpliwość."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił błąd podczas instalacji %1$s: <strong>%2$s</strong>."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodło się."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr "%1$s pomyślnie zainstalowany."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalacja Wtyczka %1$s (%2$d/%3$d)"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr "Powrót do pulpitu nawigacyjnego"
+
+#: framework/extended/tgm-plugin-activation/example.php:89
+#: functions.php:743
+#@ truethemes_localize
+msgid "Something went wrong with the plugin API."
+msgstr "Coś poszło nie tak z API wtyczek."
+
+#: framework/extended/tgm-plugin-activation/example.php:102
+#: functions.php:756
+#, php-format
+#@ truethemes_localize
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Wszystkie pluginy zainstalowany i aktywowany pomyślnie. %s"
+
+#: framework/extended/woocommerce.php:178
+#@ truethemes_localize
+msgid "Products tagged &ldquo;"
+msgstr "Produkty oznaczone &ldquo;"
+
+#: framework/extended/woocommerce.php:201
+#: framework/extended/woocommerce.php:286
+#@ truethemes_localize
+msgid "Search results for &ldquo;"
+msgstr "Wyniki wyszukiwania dla &ldquo;"
+
+#: framework/extended/woocommerce.php:250
+#@ truethemes_localize
+msgid "Error 404"
+msgstr "Błąd 404"
+
+#: framework/extended/woocommerce.php:290
+#@ truethemes_localize
+msgid "Posts tagged &ldquo;"
+msgstr "Posty oznaczone &ldquo;"
+
+#: framework/extended/woocommerce.php:295
+#@ truethemes_localize
+msgid "Author:"
+msgstr "Autor:"
+
+#: framework/extended/woocommerce.php:301
+#@ truethemes_localize
+msgid "Page"
+msgstr "Strona"
+
+#: framework/extended/wp-pagenavi.php:189
+#, php-format
+#@ truethemes_localize
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+
+#: framework/extended/wp-pagenavi.php:192
+#: framework/extended/wp-pagenavi.php:195
+#@ truethemes_localize
+msgid "&laquo;"
+msgstr "«"
+
+#: framework/extended/wp-pagenavi.php:193
+#: framework/extended/wp-pagenavi.php:194
+#@ truethemes_localize
+msgid "&raquo;"
+msgstr "»"
+
+#: framework/extended/wp-pagenavi.php:196
+#: framework/extended/wp-pagenavi.php:197
+#@ truethemes_localize
+msgid "..."
+msgstr "..."
+
+#: framework/shortcodes.php:1020
+#: framework/shortcodes.php:1071
+#@ truethemes_localize
+msgid "No related posts found"
+msgstr "Brak pokrewnych postów znaleźć"
+
+#: framework/site-options.php:81
+#@ truethemes_localize
+msgid "General"
+msgstr "Ogólny"
+
+#: framework/site-options.php:85
+#@ truethemes_localize
+msgid "Activate Karma 4.0"
+msgstr "Aktywuj Karma 4.0"
+
+#: framework/site-options.php:86
+#@ truethemes_localize
+msgid "Check this box to activate Karma 4.0. This setting is meant for first-time Karma 4.0 users. This will improve your theme experience by cleaning up any old page templates and settings that are no longer needed.<br /><br /><em>(Users upgrading from older versions of Karma should not check this box. You will need the old page templates and settings for proper functioning of your website.)</em>"
+msgstr "Zaznacz to pole wyboru, aby włączyć Karma 4,0. Ta opcja jest przeznaczona dla początkujących użytkowników 4,0 karmy. Będzie to dla Ciebie zrobić motyw poprzez czyszczenie wszystkich starych szablonów stron i ustawień, które nie są już potrzebne. <br /><br /> <em>(Użytkownicy aktualizujący z starszych wersji Karmy nie zaznaczaj tego pola. Musisz starych szablonów stron i ustawienia dla prawidłowego funkcjonowania witryny.)</em>"
+
+#: framework/site-options.php:93
+#@ truethemes_localize
+msgid "Check this box to enable a fully optimized SEO Module for this theme. <em>Please disable all other SEO plugins before activating to prevent any possible conflicts.</em>"
+msgstr "Zaznacz to pole, aby włączyć się w pełni zoptymalizowany moduł SEO dla tego tematu. <em>Proszę wyłączyć wszystkie inne wtyczki SEO przed aktywacją, aby zapobiec ewentualnym konfliktom.</em>"
+
+#: framework/site-options.php:99
+#@ truethemes_localize
+msgid "Meta Boxes"
+msgstr "Meta Boxes"
+
+#: framework/site-options.php:100
+#@ truethemes_localize
+msgid "This functionality hides meta boxes in the Dashboard to help Wordpress feel more like a CMS. This includes: Comments, Discussion, Trackbacks, Custom Fields, Author, and Slug. <em>Un-check this box to disable this functionality.</em>"
+msgstr "Funkcjonalność ta ukrywa pola meta w Dashboard pomóc Wordpress czują się bardziej jak CMS. Obejmuje to: Komentarze, dyskusja, Śladów, dodatkowe pola, autora i Slug <em>Usuń zaznaczenie tego pola wyboru, aby wyłączyć tę funkcję..</em>"
+
+#: framework/site-options.php:106
+#@ truethemes_localize
+msgid "Inline Editing"
+msgstr "Inline Editing"
+
+#: framework/site-options.php:107
+#@ truethemes_localize
+msgid "This functionality adds an inline-editing button to all pages & posts so that logged-in administrators can quickly and easily edit their website. <em>Un-check this box to disable this functionality.</em>"
+msgstr "Ta funkcja dodaje przycisk do edycji inline do wszystkich stron i urzędów, aby zalogować się jako administrator, można szybko i łatwo edytować ich stronę. <em>Usuń zaznaczenie tego pola wyboru, aby wyłączyć tę funkcję.</em>"
+
+#: framework/site-options.php:113
+#@ truethemes_localize
+msgid "Custom CSS Code"
+msgstr "Własny kod CSS"
+
+#: framework/site-options.php:114
+#@ truethemes_localize
+msgid "Use this area to add custom CSS code to your website.<br /><br />This code will automatically be inserted between &lt;style&gt; tags"
+msgstr "Użyj tego miejsca, aby dodać własny kod CSS na swojej stronie internetowej. <br /><br /> Kod ten zostanie automatycznie wstawiony pomiędzy znacznikami &lt;style&gt;"
+
+#: framework/site-options.php:119
+#@ truethemes_localize
+msgid "Custom Scripts &lt;/head&gt;"
+msgstr "Skrypty &lt;/head&gt;"
+
+#: framework/site-options.php:120
+#@ truethemes_localize
+msgid "Use this section to add custom scripts to your website.<br /><br />The scripts entered in this field will be placed before the &lt;/head&gt; tag."
+msgstr "W tej sekcji można dodawać własne skrypty na swojej stronie internetowej. <br /><br /> Skrypty wpisane w tym polu zostanie umieszczony przed &lt;/head&gt; "
+
+#: framework/site-options.php:125
+#@ truethemes_localize
+msgid "Custom Scripts &lt;/body&gt;"
+msgstr "Skrypty &lt;/ body&gt;"
+
+#: framework/site-options.php:126
+#@ truethemes_localize
+msgid "Use this section to add custom scripts to your website.<br /><br />The scripts entered in this field will be placed before the &lt;/body&gt; tag."
+msgstr "W tej sekcji można dodawać własne skrypty na swojej stronie internetowej. <br /><br /> Skrypty wpisane w tym polu zostanie umieszczony przed &lt;/body&gt; "
+
+#: framework/site-options.php:134
+#@ truethemes_localize
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#: framework/site-options.php:135
+#@ truethemes_localize
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr "Wklej Google Analytics (lub inne) Kod śledzenia tutaj."
+
+#: framework/site-options.php:140
+#@ truethemes_localize
+msgid "<strong>Boxed Layout</strong><br />Use the settings below to switch to a Boxed Layout Design."
+msgstr "<strong>Boxed Layout</strong> <br /> Użyj ustawień poniżej, aby przejść do wersji pudełkowej projektowania układu."
+
+#: framework/site-options.php:145
+#@ truethemes_localize
+msgid "Boxed Layout"
+msgstr "Boxed Layout"
+
+#: framework/site-options.php:146
+#@ truethemes_localize
+msgid "Check this box to swtich to a Boxed Layout Design."
+msgstr "Zaznacz to pole, aby swtich do pudełkowej projektowania układu."
+
+#: framework/site-options.php:152
+#@ truethemes_localize
+msgid "Boxed Layout - Drop Shadow"
+msgstr "Boxed Layout - Cień"
+
+#: framework/site-options.php:153
+#@ truethemes_localize
+msgid "Set the opacity of the Boxed Layout drop shadow.<br /><br /><em>Values from: 0.1 - 1.0</em>"
+msgstr "Ustaw krycie Boxed cienia układu. <br /><br /> <em>Wartości z: 0.1 - 1.0</em>"
+
+#: framework/site-options.php:159
+#@ truethemes_localize
+msgid "Boxed Layout - Body Background Color"
+msgstr "Boxed Layout - Kolor tła ciała"
+
+#: framework/site-options.php:160
+#@ truethemes_localize
+msgid "Specify a background color for your website. This gets applied to the &lt;body&gt; element of the website."
+msgstr "Określa kolor tła dla witryny. Ten zostanie zastosowany do &lt;body&gt; strony internetowej."
+
+#: framework/site-options.php:165
+#@ truethemes_localize
+msgid "Boxed Layout - Body Background Image"
+msgstr "Boxed Layout - Background Image ciała"
+
+#: framework/site-options.php:166
+#@ truethemes_localize
+msgid "Choose a custom background image for your website. <br /><br />You can also upload a custom background image using the option below."
+msgstr "Wybierz własny obraz tła witryny. <br /><br /> Można również przesłać własny obraz tła, korzystając z opcji poniżej."
+
+#: framework/site-options.php:194
+#@ truethemes_localize
+msgid "Boxed Layout - Body Background Image Upload"
+msgstr "Boxed Layout - Tło Załaduj obraz ciała"
+
+#: framework/site-options.php:195
+#@ truethemes_localize
+msgid "Use this section if you prefer to upload a custom background image for your website. <br /><br />Free backgrounds can be downloaded from <a href=\"http://www.subtlepatterns.com\" target=\"_blank\">www.subtlepatterns.com</a>"
+msgstr "W tej sekcji, jeśli wolisz, aby przesłać własny obraz tła witryny. <br /><br /> Darmowe tła można pobrać z <a href=\"http://www.subtlepatterns.com\" target=\"_blank\">www.subtlepatterns.com</a>"
+
+#: framework/site-options.php:201
+#@ truethemes_localize
+msgid "Boxed Layout - Background Image Position"
+msgstr "Boxed Layout - Pozycja Background Image"
+
+#: framework/site-options.php:202
+#@ truethemes_localize
+msgid "Set the background-position property for the custom background image."
+msgstr "Ustaw background-position nieruchomości niestandardowego tła."
+
+#: framework/site-options.php:216
+#@ truethemes_localize
+msgid "Boxed Layout - Background Image Repeat"
+msgstr "Boxed Layout - Background Image Repeat"
+
+#: framework/site-options.php:217
+#@ truethemes_localize
+msgid "Set the background-repeat property for the custom background image."
+msgstr "Ustaw background-repeat nieruchomości do niestandardowego tła."
+
+#: framework/site-options.php:228
+#@ truethemes_localize
+msgid "Boxed Layout - Fixed Background Image"
+msgstr "Boxed Layout - Fixed Background Image"
+
+#: framework/site-options.php:229
+#@ truethemes_localize
+msgid "Check this box to make the body background image fixed."
+msgstr "Zaznacz to pole wyboru, aby obraz tła ciało stałe."
+
+#: framework/site-options.php:240
+#@ truethemes_localize
+msgid "Mobile"
+msgstr "Ruchomy"
+
+#: framework/site-options.php:244
+#@ truethemes_localize
+msgid "Disable Responsive Design"
+msgstr "Wyłącz czułe Projekt"
+
+#: framework/site-options.php:245
+#@ truethemes_localize
+msgid "Check this box to disable Karma's responsive design. A Responsive Design makes your website mobile-friendly by adjusting the page layout according to the mobile device."
+msgstr "Zaznacz to pole wyboru, aby wyłączyć reagujących projekt karmę za. Elastyczny design sprawia, że ​​Twoja strona mobile-friendly, dostosowując układ strony, zgodnie z urządzenia mobilnego."
+
+#: framework/site-options.php:251
+#@ truethemes_localize
+msgid "Responsive - Main Menu - Text"
+msgstr "Wrażliwa - Main Menu - Text"
+
+#: framework/site-options.php:252
+#@ truethemes_localize
+msgid "This text is displayed next to the mobile menu button."
+msgstr "Ten tekst jest wyświetlany obok telefonu przycisku menu."
+
+#: framework/site-options.php:258
+#@ truethemes_localize
+msgid "Responsive - Main Menu - Disable Subpages"
+msgstr "Wrażliwa - Main Menu - Wyłącz podstron"
+
+#: framework/site-options.php:259
+#@ truethemes_localize
+msgid "Check this box to disable subpages in the mobile menu."
+msgstr "Zaznacz to pole wyboru, aby wyłączyć podstron w telefonie menu."
+
+#: framework/site-options.php:265
+#@ truethemes_localize
+msgid "Responsive - Sub Menu - Dropdown Text"
+msgstr "Wrażliwa - Sub Menu - rozwijane Tekst"
+
+#: framework/site-options.php:266
+#@ truethemes_localize
+msgid "The left-nav and right-nav menu converts to a dropdown list on small mobile devices. This text is displayed within the dropwn list."
+msgstr "Lewo-i prawo-nav nav menu konwertuje do listy rozwijanej na małych urządzeniach przenośnych. Ten tekst jest wyświetlany na liście dropwn."
+
+#: framework/site-options.php:272
+#@ truethemes_localize
+msgid "Apple Touch Icon"
+msgstr "Jabłko dotykowy Icon"
+
+#: framework/site-options.php:274
+#@ truethemes_localize
+msgid "An Apple Touch Icon gets displayed on a users mobile device when they save your website to their home screen. Upload the various icons below. <br /><br />Need help creating icons? <a href=\"http://iconifier.net/\" target=\"_blank\">Free online icon generator tool</a>"
+msgstr "Jabłko dotykowy Icon zostanie wyświetlony na urządzeniu mobilnym użytkownicy kiedy zapisać stronę internetową do ich ekranu głównego. Prześlij różne ikony poniżej. <br /><br /> Potrzebujesz pomocy tworzenia ikon? <a href=\"http://iconifier.net/\" target=\"_blank\">Darmowe narzędzie online generator icon</a>"
+
+#: framework/site-options.php:278
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPhone"
+msgstr "Jabłko dotykowy Icon - iPhone"
+
+#: framework/site-options.php:279
+#@ truethemes_localize
+msgid "57px x 57px"
+msgstr "57px x 57px"
+
+#: framework/site-options.php:284
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPhone (Retina)"
+msgstr "Jabłko dotykowy Icon - iPhone&#39;a (Retina)"
+
+#: framework/site-options.php:285
+#@ truethemes_localize
+msgid "114px x 114px"
+msgstr "114px x 114px"
+
+#: framework/site-options.php:290
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPad"
+msgstr "Jabłko dotykowy Icon - iPad"
+
+#: framework/site-options.php:291
+#@ truethemes_localize
+msgid "72px x 72px"
+msgstr "72px x 72px"
+
+#: framework/site-options.php:296
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPad (Retina)"
+msgstr "Jabłko dotykowy Icon - iPad (siatkówka)"
+
+#: framework/site-options.php:297
+#@ truethemes_localize
+msgid "144px x 144px"
+msgstr "144px x 144px"
+
+#: framework/site-options.php:306
+#@ truethemes_localize
+msgid "Color Scheme"
+msgstr "Schemat kolorów"
+
+#: framework/site-options.php:310
+#@ truethemes_localize
+msgid "Primary Website Color Scheme"
+msgstr "Primary Color Scheme WWW"
+
+#: framework/site-options.php:311
+#@ truethemes_localize
+msgid "Please select the primary color scheme for your website. (header and footer color scheme)"
+msgstr "Proszę wybrać podstawowy schemat kolorów dla witryny. (Nagłówek i stopka kolorystyka)"
+
+#: framework/site-options.php:349
+#@ truethemes_localize
+msgid "Secondary Website Color Scheme"
+msgstr "Secondary Color Scheme WWW"
+
+#: framework/site-options.php:350
+#@ truethemes_localize
+msgid "Select a secondary color scheme only if you wish to override the default secondary color. (this styles all of the content elements - ie. left nav, utility bar, link color, etc)"
+msgstr "Wybierz schemat kolorów wtórnego tylko jeśli chcesz zastąpić domyślny dodatkowy kolor. (To style wszystkie elementy treści -. Czyli lewy nav, pasek narzędziowy, kolor łącza, itp.)"
+
+#: framework/site-options.php:390
+#@ truethemes_localize
+msgid "Custom - Primary Website Color Scheme"
+msgstr "Niestandardowe - Primary Color Scheme WWW"
+
+#: framework/site-options.php:391
+#@ truethemes_localize
+msgid "Check this box to activate a Custom Primary Website Color Scheme. This refers to the color of all items within the header and footer areas. <em>(colors will be defined below)</em>."
+msgstr "Zaznacz to pole wyboru, aby włączyć niestandardowy Podstawowy schemat kolorów witryny. To odnosi się do barwy wszystkich elementów w nagłówku i w obszarze stopki. <em>(Kolory zostaną zdefiniowane poniżej).</em>"
+
+#: framework/site-options.php:397
+#@ truethemes_localize
+msgid "Custom - Secondary Website Color Scheme"
+msgstr "Niestandardowe - Secondary Color Scheme WWW"
+
+#: framework/site-options.php:398
+#@ truethemes_localize
+msgid "Check this box to activate a Custom Secondary Website Color Scheme. This refers to all items within the content area of your website: utility panel, left/right nav active states, link colors, etc. <em>(colors will be defined below)</em>."
+msgstr "Zaznacz to pole wyboru, aby włączyć niestandardowy Drugi kolorystyki witryny. To odnosi się do wszystkich elementów w obszarze zawartości swojej stronie: panel narzędziowy, lewy / prawy nav aktywnych stwierdza, kolory łącza, itp. <em>(kolory będą z definicją poniżej).</em>"
+
+#: framework/site-options.php:404
+#@ truethemes_localize
+msgid "<strong>Custom - Primary Website Color Scheme:</strong>"
+msgstr "<strong>Niestandardowe - Primary Color Scheme WWW:</strong>"
+
+#: framework/site-options.php:409
+#@ truethemes_localize
+msgid "Top Toolbar - Background Color"
+msgstr "Top Toolbar - Kolor tła"
+
+#: framework/site-options.php:410
+#@ truethemes_localize
+msgid "Specify a background color for the toolbar. The toolbar is the solid-colored bar at the top of the header."
+msgstr "Określa kolor tła dla paska narzędzi. Pasek jest jednolitym kolorem pasek w górnej części nagłówka."
+
+#: framework/site-options.php:415
+#@ truethemes_localize
+msgid "Header/Footer - Gradient Color - Light"
+msgstr "Nagłówek / Stopka - Gradient Kolor - Light"
+
+#: framework/site-options.php:416
+#: framework/site-options.php:486
+#@ truethemes_localize
+msgid "Specify the lighter color of the custom gradient."
+msgstr "Określ jaśniejszy kolor niestandardowy gradientu."
+
+#: framework/site-options.php:421
+#@ truethemes_localize
+msgid "Header/Footer - Gradient Color - Dark"
+msgstr "Nagłówek / Stopka - Gradient Kolor - Dark"
+
+#: framework/site-options.php:422
+#: framework/site-options.php:492
+#@ truethemes_localize
+msgid "Specify the darker color of the custom gradient."
+msgstr "Określ ciemniejszy kolor niestandardowy gradientu."
+
+#: framework/site-options.php:427
+#@ truethemes_localize
+msgid "Header/Footer - Top Border Color"
+msgstr "Nagłówek / Stopka - Top Kolor ramki"
+
+#: framework/site-options.php:428
+#@ truethemes_localize
+msgid "The Header and Footer have a subtle 1px top border. This color should be slightly lighter than the color used for \"Gradient Color - Light\"."
+msgstr "Nagłówek i stopka mają subtelny 1px górną granicę. Kolor ten powinien być nieco jaśniejszy od koloru używanego do &quot;gradient kolorów - Light&quot;."
+
+#: framework/site-options.php:433
+#@ truethemes_localize
+msgid "Footer - Text Color"
+msgstr "Stopka - Kolor tekstu"
+
+#: framework/site-options.php:434
+#@ truethemes_localize
+msgid "Specify the color of all text displayed within the Footer.<br />#DDDDDD works great color for most color schemes."
+msgstr "Określ kolor całego tekstu wyświetlanego w stopce. <br /> #DDDDDD działa świetnie kolor dla większości schematów kolorów."
+
+#: framework/site-options.php:439
+#@ truethemes_localize
+msgid "Footer Bottom - Background Color"
+msgstr "Stopka Dół - Kolor tła"
+
+#: framework/site-options.php:440
+#@ truethemes_localize
+msgid "The footer-bottom is the the bottommost area that contains the footer menu and copyright information."
+msgstr "Footer-bottom jest najniższy obszar, który zawiera stopkę menu i informacje o prawach autorskich."
+
+#: framework/site-options.php:445
+#@ truethemes_localize
+msgid "Footer Bottom - Background Image"
+msgstr "Stopka Dół - Background Image"
+
+#: framework/site-options.php:446
+#: framework/site-options.php:534
+#@ truethemes_localize
+msgid "Upload"
+msgstr "Prześlij"
+
+#: framework/site-options.php:451
+#@ truethemes_localize
+msgid "Dropdown Menu - Background Color"
+msgstr "Menu rozwijane - Kolor tła"
+
+#: framework/site-options.php:452
+#@ truethemes_localize
+msgid "Specify the background color of the main menu dropdowns."
+msgstr "Określ kolor tła głównych rozwijanego menu menu."
+
+#: framework/site-options.php:457
+#@ truethemes_localize
+msgid "Dropdown Menu - Link Hover Background Color"
+msgstr "Menu rozwijane - Link Kolor tła Hover"
+
+#: framework/site-options.php:458
+#@ truethemes_localize
+msgid "Specify the background color displayed behind links on hover."
+msgstr "Określ kolor tła wyświetlanego za linki na aktywowaniu."
+
+#: framework/site-options.php:463
+#@ truethemes_localize
+msgid "<strong>Custom - Primary Website Color Scheme - Internet Explorer 8</strong><br />Internet Explorer 8 does not support RGBa so requires additional color settings:"
+msgstr "<strong>Niestandardowe - Primary Color Scheme Strona internetowa - Internet Explorer 8</strong> <br /> Internet Explorer 8 nie obsługuje RGBA więc wymaga dodatkowych ustawień kolorów:"
+
+#: framework/site-options.php:468
+#@ truethemes_localize
+msgid "IE8 - Top Toolbar - Text Color"
+msgstr "IE8 - Top Toolbar - Kolor tekstu"
+
+#: framework/site-options.php:469
+#@ truethemes_localize
+msgid "Specify the color for all text within the Top Toolbar."
+msgstr "Określ kolor całego tekstu w górnym pasku narzędzi."
+
+#: framework/site-options.php:474
+#@ truethemes_localize
+msgid "IE8 - Main Menu - Navi Description Text"
+msgstr "IE8 - Main Menu - Text Opis Navi"
+
+#: framework/site-options.php:475
+#@ truethemes_localize
+msgid "Specify the color for the main menu navi description text."
+msgstr "Określ kolor dla tekstu głównego menu navi opis."
+
+#: framework/site-options.php:480
+#@ truethemes_localize
+msgid "<strong>Custom - Secondary Website Color Scheme:</strong>"
+msgstr "<strong>Niestandardowe - Secondary Color Scheme WWW:</strong>"
+
+#: framework/site-options.php:485
+#@ truethemes_localize
+msgid "Gradient Color - Light"
+msgstr "Kolor Gradient - Light"
+
+#: framework/site-options.php:491
+#@ truethemes_localize
+msgid "Gradient Color - Dark"
+msgstr "Kolor Gradient - Dark"
+
+#: framework/site-options.php:497
+#@ truethemes_localize
+msgid "Horizontal/Gallery Nav - Active Link Background Color"
+msgstr "Horizontal / Galeria Nav - aktywny Kolor tła link"
+
+#: framework/site-options.php:498
+#@ truethemes_localize
+msgid "Specify a background color for the active state of Horizontal/Gallery Navigation links."
+msgstr "Określa kolor tła dla stanu aktywnego łącza nawigacji poziomej / Galerii."
+
+#: framework/site-options.php:503
+#@ truethemes_localize
+msgid "Link Color"
+msgstr "Kolor link"
+
+#: framework/site-options.php:504
+#@ truethemes_localize
+msgid "Specify a color for your website's links."
+msgstr "Określ kolor dla witryny linki."
+
+#: framework/site-options.php:509
+#@ truethemes_localize
+msgid "Image - Utility Bar - Top"
+msgstr "Image - Bar Utility - Top"
+
+#: framework/site-options.php:510
+#: framework/site-options.php:522
+#@ truethemes_localize
+msgid "980x6"
+msgstr "980x6"
+
+#: framework/site-options.php:515
+#@ truethemes_localize
+msgid "Image - Utility Bar - Middle"
+msgstr "Image - Bar Utility - Middle"
+
+#: framework/site-options.php:516
+#@ truethemes_localize
+msgid "980x2"
+msgstr "980x2"
+
+#: framework/site-options.php:521
+#@ truethemes_localize
+msgid "Image - Utility Bar - Bottom"
+msgstr "Image - Bar Utility - Dół"
+
+#: framework/site-options.php:527
+#@ truethemes_localize
+msgid "Image - jQuery Banner"
+msgstr "Image - Banner jQuery"
+
+#: framework/site-options.php:528
+#@ truethemes_localize
+msgid "940x283"
+msgstr "940x283"
+
+#: framework/site-options.php:533
+#@ truethemes_localize
+msgid "Image - Right/Left Nav - Active Link"
+msgstr "Image - Right / Left Nav - aktywny link"
+
+#: framework/site-options.php:539
+#@ truethemes_localize
+msgid "<strong>Custom - Secondary Website Color Scheme - Internet Explorer 8</strong><br />Internet Explorer 8 does not support RGBa so requires additional color settings:"
+msgstr "<strong>Niestandardowe - Secondary Color Scheme Strona internetowa - Internet Explorer 8</strong> <br /> Internet Explorer 8 nie obsługuje RGBA więc wymaga dodatkowych ustawień kolorów:"
+
+#: framework/site-options.php:544
+#@ truethemes_localize
+msgid "IE8 - Footer - Link Color"
+msgstr "IE8 - stopki - Kolor link"
+
+#: framework/site-options.php:545
+#@ truethemes_localize
+msgid "Specify the color for all links within the Footer."
+msgstr "Określ kolor dla wszystkich linków w stopce."
+
+#: framework/site-options.php:550
+#@ truethemes_localize
+msgid "IE8 - Footer - Heading Border"
+msgstr "IE8 - Stopka - Dział Granicznej"
+
+#: framework/site-options.php:551
+#@ truethemes_localize
+msgid "Specify the color for the bottom border on all Footer headings."
+msgstr "Określ kolor dolnej granicy na wszystkich Stopka pozycjami."
+
+#: framework/site-options.php:560
+#@ truethemes_localize
+msgid "Fonts and Links"
+msgstr "Czcionki i linki"
+
+#: framework/site-options.php:564
+#@ truethemes_localize
+msgid "The Font Kits below are groups of pre-designed Google Fonts with pixel-perfect settings for every aspect of your website's typography."
+msgstr "Zestawy czcionek poniżej są grupy wstępnie zaprojektowanych Google Fonts z doskonałej rozdzielczości ustawień każdego aspektu witryny typografii."
+
+#: framework/site-options.php:569
+#@ truethemes_localize
+msgid "Modern Font Kit"
+msgstr "Nowoczesny Zestaw Font"
+
+#: framework/site-options.php:570
+#@ truethemes_localize
+msgid "Check this box to enable the Modern Font Kit. This Kit contains clean and modern sans-serif fonts perfect for every type of website. Fonts used: <em>Lato + Open Sans</em>."
+msgstr "Zaznacz to pole wyboru, aby umożliwić Nowoczesny zestaw czcionek. Zestaw ten zawiera czyste i nowoczesne czcionki sans-serif idealne dla każdego rodzaju strony. Czcionki używane: <em>Lato + Otwarte Sans.</em>"
+
+#: framework/site-options.php:576
+#@ truethemes_localize
+msgid "Serif Font Kit"
+msgstr "Serif Font Kit"
+
+#: framework/site-options.php:577
+#@ truethemes_localize
+msgid "Check this box to enable the Serif Font Kit. This kit contains a gorgeous combination of serif and sans-serif fonts for a sophisticated design. Fonts used: <em>PT Serif + Source Sans Pro</em>."
+msgstr "Zaznacz to pole wyboru, aby włączyć zestaw serif font. Zestaw zawiera wspaniały kombinację serif i sans-serif czcionki dla wyrafinowane wzornictwo. Czcionki używane: <em>PT Sans Serif + źródło Pro.</em>"
+
+#: framework/site-options.php:583
+#@ truethemes_localize
+msgid "Organic Font Kit"
+msgstr "Zestaw Font Organic"
+
+#: framework/site-options.php:584
+#@ truethemes_localize
+msgid "Check this box to enable the Organic Font Kit. This kit contains clean and rounded sans-serif fonts for a soft and inviting design. Fonts used: <em>Varela Round + Open Sans</em>."
+msgstr "Zaznacz to pole wyboru, aby włączyć zestaw ekologiczne czcionki. Zestaw zawiera czyste i zaokrąglone bezszeryfowe czcionki dla projektu miękkiego i zachęcające. Czcionki używane: <em>Okrągłe Varela + Otwarte Sans.</em>"
+
+#: framework/site-options.php:590
+#@ truethemes_localize
+msgid "Use the settings below if you prefer to build your own custom font settings."
+msgstr "Użyj ustawień poniżej, jeśli wolą budować własne ustawienia czcionek."
+
+#: framework/site-options.php:595
+#@ truethemes_localize
+msgid "Google Web Fonts"
+msgstr "Google Web Fonts"
+
+#: framework/site-options.php:596
+#@ truethemes_localize
+msgid "Select a font face to be used for your website's headings.<br><br>Font names (from left to right):<br>- (none)<br>- Droid Sans<br>- Cabin<br>- Cantarell<br>- Cuprum<br>- Oswald<br>- Neuton<br>- Oritron<br>- Arvo<br>- Kreon<br>- Indie Flower<br>- Josefin Sans"
+msgstr "Wybierz czcionki twarzy do wykorzystania na swojej stronie internetowej w pozycjach. <br><br> Nazwy czcionek (od lewej do prawej): <br> - (None) <br> - Droid Sans <br> - Kabina <br> - Cantarell <br> - Cuprum <br> - Oswald <br> - Neuton <br> - Oritron <br> - Arvo <br> - Kreon <br> - Flower Indie <br> - Sans Josefin"
+
+#: framework/site-options.php:616
+#@ truethemes_localize
+msgid "Custom Google Web Font"
+msgstr "Niestandardowy Google Web Font"
+
+#: framework/site-options.php:617
+#@ truethemes_localize
+msgid "Enter a custom font name If you prefer to use a font that's not listed above.<br><br>Here is the complete list of available <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr "Wpisz nazwę niestandardowego czcionki Jeśli wolisz użyć czcionki, które nie jest wymienione powyżej. <br><br> Oto pełna lista dostępnych <a href=\"http://www.google.com/webfonts\" target=\"_blank\">czcionek Google Web</a> ."
+
+#: framework/site-options.php:622
+#@ truethemes_localize
+msgid "Font Color &rarr; Custom Logo"
+msgstr "Kolor czcionki → Niestandardowe Logo"
+
+#: framework/site-options.php:623
+#@ truethemes_localize
+msgid "Select a font color for the custom logo."
+msgstr "Wybierz kolor czcionki niestandardowego logo."
+
+#: framework/site-options.php:628
+#@ truethemes_localize
+msgid "Font Color &rarr; Main Menu"
+msgstr "Kolor czcionki → Main Menu"
+
+#: framework/site-options.php:629
+#@ truethemes_localize
+msgid "Select a font color for the main menu items."
+msgstr "Wybierz kolor czcionki dla głównych elementów menu."
+
+#: framework/site-options.php:634
+#@ truethemes_localize
+msgid "Font Color &rarr; Main Content"
+msgstr "Kolor czcionki → Main Content"
+
+#: framework/site-options.php:635
+#@ truethemes_localize
+msgid "Select a font color for the main content area."
+msgstr "Wybierz kolor czcionki dla głównej treści."
+
+#: framework/site-options.php:640
+#@ truethemes_localize
+msgid "Font Color &rarr; Footer Content"
+msgstr "Kolor czcionki → Footer Content"
+
+#: framework/site-options.php:641
+#@ truethemes_localize
+msgid "Select a font color for the footer content area."
+msgstr "Wybierz kolor czcionki dla stopki obszarze zawartości."
+
+#: framework/site-options.php:646
+#@ truethemes_localize
+msgid "Font Color &rarr; Links"
+msgstr "Kolor czcionki → Links"
+
+#: framework/site-options.php:647
+#@ truethemes_localize
+msgid "Select a font color for links."
+msgstr "Wybierz kolor czcionki dla linków."
+
+#: framework/site-options.php:652
+#@ truethemes_localize
+msgid "Font Color &rarr; Link:Hover"
+msgstr "Kolor czcionki → Link: Hover"
+
+#: framework/site-options.php:653
+#@ truethemes_localize
+msgid "Select a font color for links on hover."
+msgstr "Wybierz kolor czcionki dla linków na aktywowaniu."
+
+#: framework/site-options.php:658
+#@ truethemes_localize
+msgid "Font Color &rarr; Side Navigation"
+msgstr "Kolor czcionki → Side Navigation"
+
+#: framework/site-options.php:659
+#@ truethemes_localize
+msgid "Select a font color for the side navigation items."
+msgstr "Wybierz kolor czcionki dla elementów nawigacyjnych ubocznych."
+
+#: framework/site-options.php:664
+#@ truethemes_localize
+msgid "Font Color &rarr; H1 Headings"
+msgstr "Kolor czcionki → Nagłówki H1"
+
+#: framework/site-options.php:665
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h1&gt; headings."
+msgstr "Wybierz kolor czcionki dla wszystkich działów &lt;h1&gt;."
+
+#: framework/site-options.php:670
+#@ truethemes_localize
+msgid "Font Color &rarr; H2 Headings"
+msgstr "Kolor czcionki → Nagłówki H2"
+
+#: framework/site-options.php:671
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h2&gt; headings."
+msgstr "Wybierz kolor czcionki dla wszystkich działów &lt;h2&gt;."
+
+#: framework/site-options.php:676
+#@ truethemes_localize
+msgid "Font Color &rarr; H3 Headings"
+msgstr "Kolor czcionki → Nagłówki H3"
+
+#: framework/site-options.php:677
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h3&gt; headings."
+msgstr "Wybierz kolor czcionki dla wszystkich działów &lt;h3&gt;."
+
+#: framework/site-options.php:682
+#@ truethemes_localize
+msgid "Font Color &rarr; H4 Headings"
+msgstr "Kolor czcionki → Nagłówki H4"
+
+#: framework/site-options.php:683
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h4&gt; headings."
+msgstr "Wybierz kolor czcionki dla wszystkich działów &lt;h4&gt;."
+
+#: framework/site-options.php:688
+#@ truethemes_localize
+msgid "Font Color &rarr; H5 Headings"
+msgstr "Kolor czcionki → Nagłówki H5"
+
+#: framework/site-options.php:689
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h5&gt; headings."
+msgstr "Wybierz kolor czcionki dla wszystkich działów &lt;h5&gt;."
+
+#: framework/site-options.php:695
+#@ truethemes_localize
+msgid "Font Color &rarr; H6 Headings"
+msgstr "Kolor czcionki → Nagłówki H6"
+
+#: framework/site-options.php:696
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h6&gt; headings."
+msgstr "Wybierz kolor czcionki dla wszystkich działów &lt;h6&gt;."
+
+#: framework/site-options.php:711
+#@ truethemes_localize
+msgid "Font Size &rarr; Custom Logo"
+msgstr "Rozmiar czcionki → Niestandardowe Logo"
+
+#: framework/site-options.php:712
+#@ truethemes_localize
+msgid "Select a font size for the custom logo."
+msgstr "Wybierz rozmiar czcionki dla niestandardowego logo."
+
+#: framework/site-options.php:718
+#@ truethemes_localize
+msgid "Font Size &rarr; Main Menu"
+msgstr "Rozmiar czcionki → Main Menu"
+
+#: framework/site-options.php:719
+#@ truethemes_localize
+msgid "Select a font size for the main menu items."
+msgstr "Wybierz rozmiar czcionki dla głównych elementów menu."
+
+#: framework/site-options.php:726
+#@ truethemes_localize
+msgid "Font Size &rarr; Main Content"
+msgstr "Rozmiar czcionki → Main Content"
+
+#: framework/site-options.php:727
+#@ truethemes_localize
+msgid "Select a font size for the main content area."
+msgstr "Wybierz rozmiar czcionki dla głównej treści."
+
+#: framework/site-options.php:733
+#@ truethemes_localize
+msgid "Font Size &rarr; Side Navigation"
+msgstr "Rozmiar czcionki → Nawigacja Side"
+
+#: framework/site-options.php:734
+#@ truethemes_localize
+msgid "Select a font size for side navigation items. headings."
+msgstr "Wybierz rozmiar czcionki dla elementów nawigacji uboczne. nagłówki."
+
+#: framework/site-options.php:740
+#@ truethemes_localize
+msgid "Font Size &rarr; H1 Headings"
+msgstr "Rozmiar czcionki → Nagłówki H1"
+
+#: framework/site-options.php:741
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h1&gt; headings."
+msgstr "Wybierz rozmiar czcionki dla wszystkich działów &lt;h1&gt;."
+
+#: framework/site-options.php:747
+#@ truethemes_localize
+msgid "Font Size &rarr; H2 Headings"
+msgstr "Rozmiar czcionki → Nagłówki H2"
+
+#: framework/site-options.php:748
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h2&gt; headings."
+msgstr "Wybierz rozmiar czcionki dla wszystkich działów &lt;h2&gt;."
+
+#: framework/site-options.php:754
+#@ truethemes_localize
+msgid "Font Size &rarr; H3 Headings"
+msgstr "Rozmiar czcionki → Nagłówki H3"
+
+#: framework/site-options.php:755
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h3&gt; headings."
+msgstr "Wybierz rozmiar czcionki dla wszystkich działów &lt;h3&gt;."
+
+#: framework/site-options.php:761
+#@ truethemes_localize
+msgid "Font Size &rarr; H4 Headings"
+msgstr "Rozmiar czcionki → Nagłówki H4"
+
+#: framework/site-options.php:762
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h4&gt; headings."
+msgstr "Wybierz rozmiar czcionki dla wszystkich działów &lt;h4&gt;."
+
+#: framework/site-options.php:768
+#@ truethemes_localize
+msgid "Font Size &rarr; H5 Headings"
+msgstr "Rozmiar czcionki → Nagłówki H5"
+
+#: framework/site-options.php:769
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h5&gt; headings."
+msgstr "Wybierz rozmiar czcionki dla wszystkich działów &lt;h5&gt;."
+
+#: framework/site-options.php:776
+#@ truethemes_localize
+msgid "Font Size &rarr; H6 Headings"
+msgstr "Rozmiar czcionki → Nagłówki H6"
+
+#: framework/site-options.php:777
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h6&gt; headings."
+msgstr "Wybierz rozmiar czcionki dla wszystkich działów &lt;h6&gt;."
+
+#: framework/site-options.php:783
+#@ truethemes_localize
+msgid "Font Size &rarr; Footer Content"
+msgstr "Rozmiar czcionki → Footer Content"
+
+#: framework/site-options.php:784
+#@ truethemes_localize
+msgid "Select a font size for the footer content area. headings."
+msgstr "Wybierz rozmiar czcionki dla stopki obszarze zawartości. nagłówki."
+
+#: framework/site-options.php:818
+#@ truethemes_localize
+msgid "Font Face &rarr; Custom Logo Text"
+msgstr "Czcionka → Własny Tekst Logo"
+
+#: framework/site-options.php:819
+#@ truethemes_localize
+msgid "Select a font face for your custom logo text."
+msgstr "Wybierz twarz czcionki dla tekstu niestandardowego logo."
+
+#: framework/site-options.php:826
+#@ truethemes_localize
+msgid "Font Face &rarr; Main Content"
+msgstr "Czcionka → Main Content"
+
+#: framework/site-options.php:827
+#@ truethemes_localize
+msgid "Select a font face for the main content area."
+msgstr "Wybierz czcionki twarzy dla głównego obszaru zawartości."
+
+#: framework/site-options.php:833
+#@ truethemes_localize
+msgid "Font Face &rarr; Main Menu"
+msgstr "Czcionka → Main Menu"
+
+#: framework/site-options.php:834
+#@ truethemes_localize
+msgid "Select a font face for the main menu items."
+msgstr "Wybierz czcionki twarzy dla głównego menu."
+
+#: framework/site-options.php:840
+#@ truethemes_localize
+msgid "Font Face &rarr; Side Navigation"
+msgstr "Czcionka → Nawigacja Side"
+
+#: framework/site-options.php:841
+#@ truethemes_localize
+msgid "Select a font face for the side navigation items."
+msgstr "Wybierz czcionkę twarz dla elementów nawigacyjnych ubocznych."
+
+#: framework/site-options.php:847
+#@ truethemes_localize
+msgid "Font Face &rarr; H1 Headings"
+msgstr ""
+
+#: framework/site-options.php:848
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h1&gt; headings."
+msgstr "Wybierz czcionkę twarz dla wszystkich działów &lt;h1&gt;."
+
+#: framework/site-options.php:854
+#@ truethemes_localize
+msgid "Font Face &rarr; H2 Headings"
+msgstr "Czcionka → Nagłówki H2"
+
+#: framework/site-options.php:855
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h2&gt; headings."
+msgstr "Wybierz czcionkę twarz dla wszystkich działów &lt;h2&gt;."
+
+#: framework/site-options.php:862
+#@ truethemes_localize
+msgid "Font Face &rarr; H3 Headings"
+msgstr "Czcionka → Nagłówki H3"
+
+#: framework/site-options.php:863
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h3&gt; headings."
+msgstr "Wybierz czcionkę twarz dla wszystkich działów &lt;h3&gt;."
+
+#: framework/site-options.php:870
+#@ truethemes_localize
+msgid "Font Face &rarr; H4 Headings"
+msgstr "Czcionka → Nagłówki H4"
+
+#: framework/site-options.php:871
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h4&gt; headings."
+msgstr "Wybierz czcionkę twarz dla wszystkich działów &lt;h4&gt;."
+
+#: framework/site-options.php:877
+#@ truethemes_localize
+msgid "Font Face &rarr; H5 Headings"
+msgstr "Czcionka → Nagłówki H5"
+
+#: framework/site-options.php:878
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h5&gt; headings."
+msgstr "Wybierz czcionkę twarz dla wszystkich działów &lt;h5&gt;."
+
+#: framework/site-options.php:884
+#@ truethemes_localize
+msgid "Font Face &rarr; H6 Headings"
+msgstr "Czcionka → Nagłówki H6"
+
+#: framework/site-options.php:885
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h6&gt; headings."
+msgstr "Wybierz czcionkę twarz dla wszystkich działów &lt;h6&gt;."
+
+#: framework/site-options.php:891
+#@ truethemes_localize
+msgid "Font Face &rarr; Footer Content"
+msgstr "Czcionka → Footer Content"
+
+#: framework/site-options.php:892
+#@ truethemes_localize
+msgid "Select a font face for the footer content area."
+msgstr "Wybierz czcionkę twarz na obszarze stopki treści."
+
+#: framework/site-options.php:906
+#@ truethemes_localize
+msgid "Header and Logo"
+msgstr "Nagłówek i Logo"
+
+#: framework/site-options.php:910
+#@ truethemes_localize
+msgid "Toolbar"
+msgstr "Toolbar"
+
+#: framework/site-options.php:911
+#@ truethemes_localize
+msgid "Un-check this box to disable the colored toolbar section at the top of the website above the header, logo and main menu area."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć kolorowy punkt na pasku narzędzi w górnej części strony internetowej powyżej obszarze menu header, logo i główny."
+
+#: framework/site-options.php:917
+#@ truethemes_localize
+msgid "Toolbar - Left Side"
+msgstr "Toolbar - Left Side"
+
+#: framework/site-options.php:918
+#@ truethemes_localize
+msgid "Un-check this box to disable the Toolbar - Left Side."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć pasek narzędzi - lewa strona."
+
+#: framework/site-options.php:924
+#@ truethemes_localize
+msgid "Toolbar - Right Side"
+msgstr "Toolbar - Right Side"
+
+#: framework/site-options.php:925
+#@ truethemes_localize
+msgid "Un-check this box to disable the Toolbar - Right Side."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć pasek narzędzi - prawy."
+
+#: framework/site-options.php:931
+#@ truethemes_localize
+msgid "Header - Transparent Overlay Image"
+msgstr "Header - Transparent Nakładanie zdjęć"
+
+#: framework/site-options.php:932
+#@ truethemes_localize
+msgid "Select a transparent overlay image for the header area of your website."
+msgstr "Wybierz przejrzysty obraz nakładki na obszarze nagłówka witryny."
+
+#: framework/site-options.php:948
+#@ truethemes_localize
+msgid "Header - Transparent Overlay Image - Upload"
+msgstr "Header - Transparent Nakładanie zdjęć - Prześlij"
+
+#: framework/site-options.php:949
+#@ truethemes_localize
+msgid "Use this section if you prefer to upload a custom transparent overlay image for the header area of your website."
+msgstr "W tej sekcji, jeśli wolisz, aby przesłać własny przejrzysty obraz nakładki na obszarze nagłówka witryny."
+
+#: framework/site-options.php:954
+#@ truethemes_localize
+msgid "Header - Height Adjust"
+msgstr "Header - regulacja wysokości"
+
+#: framework/site-options.php:955
+#@ truethemes_localize
+msgid "Adjust the height of the heading by entering a custom value for it's padding.<br /><br />The default value is: <strong>35px</strong><br /><br /><strong>For example:</strong> A value of \"40px\" would make the header taller and \"20px\" would make the header shorter."
+msgstr "Dostosuj wysokość tytule wpisując wartości celnej dla jego wypełnienia. <br /><br /> Wartość domyślna to: <strong>35px</strong> <br /><br /> <strong>Na przykład:</strong> wartość &quot;40px&quot; uczyniłoby header wyższy i &quot;20px&quot; uczyniłoby header krótszy."
+
+#: framework/site-options.php:960
+#@ truethemes_localize
+msgid "Main Menu - Dropdowns"
+msgstr "Main Menu - Dropdowns"
+
+#: framework/site-options.php:961
+#@ truethemes_localize
+msgid "Check this box to disable the dropdowns in the main menu."
+msgstr "Zaznacz to pole wyboru, aby wyłączyć rozwijanego menu w menu głównym."
+
+#: framework/site-options.php:967
+#@ truethemes_localize
+msgid "Main Menu - Item Descriptions"
+msgstr "Main Menu - Opisy pozycji"
+
+#: framework/site-options.php:968
+#@ truethemes_localize
+msgid "Check this box to disable the short descriptive text displayed below each main menu item."
+msgstr "Zaznacz to pole wyboru, aby wyłączyć krótki tekst opisowy wyświetlane pod każdym głównym menu."
+
+#: framework/site-options.php:974
+#@ truethemes_localize
+msgid "Website Logo"
+msgstr "Logo WWW"
+
+#: framework/site-options.php:975
+#@ truethemes_localize
+msgid "Upload your company's logo.<br /><br /><strong>Don't have a logo?</strong><br />feel free to use the Logo Builder below."
+msgstr "Dodaj logo firmy. <br /><br /> <strong>Nie masz logo?</strong> <br /> Zapraszamy do korzystania z Konstruktora logo poniżej."
+
+#: framework/site-options.php:980
+#@ truethemes_localize
+msgid "Website Logo - Retina Version"
+msgstr "Logo Strona internetowa - wersja Retina"
+
+#: framework/site-options.php:981
+#@ truethemes_localize
+msgid "Use this section to upload a retina version of your logo.<br /><br /><strong>Important notes:</strong><br />The dimensions of the retina logo need to be twice the size of the original logo.<br /><br />The filename of the retina logo needs a \"@2x\" after the original filename (ie. mylogo.png will be mylogo@2x.png)"
+msgstr "W tej sekcji należy przesłać wersję siatkówce logo. <br /><br /> <strong>Ważne uwagi:</strong> <br /> Wymiary logo siatkówki muszą być dwa razy większa od oryginalnego logo. <br /><br /> Nazwa pliku z logo siatkówka potrzebuje &quot;@2x&quot; po oryginalnej nazwy pliku (tzn. mylogo.png będzie mylogo@2x.png)"
+
+#: framework/site-options.php:986
+#@ truethemes_localize
+msgid "Center the Logo"
+msgstr "Center Logo"
+
+#: framework/site-options.php:987
+#@ truethemes_localize
+msgid "Check this box to center the logo and main menu."
+msgstr "Zaznacz to pole, aby centrum logo i menu głównym."
+
+#: framework/site-options.php:993
+#@ truethemes_localize
+msgid "Logo Builder - Icon"
+msgstr "Builder Logo - Icon"
+
+#: framework/site-options.php:994
+#@ truethemes_localize
+msgid "Select an icon to be used for a custom logo.<br /><br /><strong>Please note:</strong><br />simply ignore this section if you've already uploaded your company logo."
+msgstr "Wybierz ikonę używaną do niestandardowego logo. <br /><br /> <strong>Proszę zwrócić uwagę:</strong> <br /> po prostu zignorować tę sekcję jeśli już przesłane logo firmy."
+
+#: framework/site-options.php:1011
+#@ truethemes_localize
+msgid "Logo Builder - Text"
+msgstr "Builder Logo - Text"
+
+#: framework/site-options.php:1012
+#@ truethemes_localize
+msgid "Enter the text to be displayed next to the custom logo.<br /><br /><strong>Please note:</strong><br />simply ignore this section if you've already uploaded your company logo."
+msgstr "Wprowadź tekst, który będzie wyświetlany obok własnego logo. <br /><br /> <strong>Proszę zwrócić uwagę:</strong> <br /> po prostu zignorować tę sekcję jeśli już przesłane logo firmy."
+
+#: framework/site-options.php:1017
+#@ truethemes_localize
+msgid "Wordpress Login Screen Logo"
+msgstr "Wordpress ekranu Logo Logowanie"
+
+#: framework/site-options.php:1018
+#@ truethemes_localize
+msgid "Upload a custom logo for your website's Wordpress login screen."
+msgstr "Dodaj własne logo na swojej stronie internetowej na ekranie logowania Wordpress."
+
+#: framework/site-options.php:1023
+#@ truethemes_localize
+msgid "Favicon"
+msgstr "Favicon"
+
+#: framework/site-options.php:1024
+#@ truethemes_localize
+msgid "Upload a 16px x 16px image that will represent your website's favicon.<br /><br /><em>To ensure cross-browser compatibility, we recommend converting the favicon into .ico format before uploading. (<a href=\"http://www.favicon.cc/\">www.favicon.cc</a>)</em>"
+msgstr "Prześlij 16px x 16px obraz, który będzie reprezentował witryny favicon. <br /><br /> <em>Aby zapewnić kompatybilność z różnymi przeglądarkami, zaleca przekształcenie favicon w formacie. Ico przed wysłaniem. ( <a href=\"http://www.favicon.cc/\">www.favicon.cc</a>)</em>"
+
+#: framework/site-options.php:1035
+#@ truethemes_localize
+msgid "Content Area"
+msgstr "Content Area"
+
+#: framework/site-options.php:1039
+#@ truethemes_localize
+msgid "Content Area - Background Color"
+msgstr "Obszar treści - Kolor tła"
+
+#: framework/site-options.php:1040
+#@ truethemes_localize
+msgid "Choose a custom background color for the main content area of your website."
+msgstr "Wybierz dowolny kolor tła dla głównego obszaru zawartości witryny."
+
+#: framework/site-options.php:1054
+#@ truethemes_localize
+msgid "Content Area - Custom Background Color"
+msgstr "Obszar treści - dowolny kolor tła"
+
+#: framework/site-options.php:1055
+#@ truethemes_localize
+msgid "Use this color picker to specify a custom background color for the main content area of your website."
+msgstr "Za pomocą tej palety można określić niestandardowy kolor tła dla głównego obszaru zawartości witryny."
+
+#: framework/site-options.php:1060
+#@ truethemes_localize
+msgid "Content Area - Separator Lines - Dark"
+msgstr "Powierzchnia Zawartość - Linie separatora - Dark"
+
+#: framework/site-options.php:1061
+#@ truethemes_localize
+msgid "If you've used the color picker to specify a custom background color then you'll need to specify a color for the separator lines.<br /><br />Separator lines are the 2 pixel borders between sidebar widgets, sidebar/content areas, etc.<br /><br />Specify the Dark separator line by choosing a color just slightly darker than your custom content area background color."
+msgstr "Jeśli używany do wyboru kolorów, aby określić własny kolor tła, a następnie trzeba określić kolor dla linii rozdzielających. <br /><br /> Linie oddzielające są 2 granice pikseli między widgetami bocznym panelu bocznym / content obszarów, itp. <br /><br /> Określ ciemną linię separatora, wybierając kolor nieznacznie ciemniejszy niż obszarze niestandardowej zawartości koloru tła."
+
+#: framework/site-options.php:1066
+#@ truethemes_localize
+msgid "Content Area - Separator Lines - Light"
+msgstr "Powierzchnia Zawartość - Linie separatora - Light"
+
+#: framework/site-options.php:1067
+#@ truethemes_localize
+msgid "Set the Light separator line by choosing a color just slightly lighter than the custom background color."
+msgstr "Ustaw światła linię oddzielającą wybierając kolor lekko jaśniejszy niż niestandardowego koloru tła."
+
+#: framework/site-options.php:1072
+#@ truethemes_localize
+msgid "Utility Bar"
+msgstr "Bar Utility"
+
+#: framework/site-options.php:1073
+#@ truethemes_localize
+msgid "Un-check this box to disable the Utility Bar. This is the colored panel displayed within each page that contains the Page Title, Breadcrumbs and Search box."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć pasek narzędzi. To jest kolorowy panel wyświetlany w każdej strony, która zawiera tytuł strony, bułce tartej i pola wyszukiwania."
+
+#: framework/site-options.php:1079
+#@ truethemes_localize
+msgid "Utility Bar - Breadcrumbs"
+msgstr "Bar Utility - Bułka tarta"
+
+#: framework/site-options.php:1080
+#: framework/site-options.php:1773
+#@ truethemes_localize
+msgid "Un-check this box to disable the Breadcrumbs."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć panierka."
+
+#: framework/site-options.php:1086
+#@ truethemes_localize
+msgid "Utility Bar - Search box"
+msgstr "Bar Utility - Pole wyszukiwania"
+
+#: framework/site-options.php:1087
+#@ truethemes_localize
+msgid "Un-check this box to disable the Search box.</em>"
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć pola wyszukiwania.</em>"
+
+#: framework/site-options.php:1093
+#@ truethemes_localize
+msgid "Utility Bar - Search box Text"
+msgstr "Bar Utility - Text Search box"
+
+#: framework/site-options.php:1094
+#@ truethemes_localize
+msgid "Customize the text that is displayed in the search box."
+msgstr "Dostosować tekst, który jest wyświetlany w polu wyszukiwania."
+
+#: framework/site-options.php:1100
+#@ truethemes_localize
+msgid "Utility Bar - Breadcrumbs (Home Link)"
+msgstr "Bar Utility - Bułka tarta (Home Link)"
+
+#: framework/site-options.php:1101
+#@ truethemes_localize
+msgid "Customize the text used for the homepage link in the breadcrumbs."
+msgstr "Dostosuj tekst używany link strona w bułce tartej."
+
+#: framework/site-options.php:1107
+#@ truethemes_localize
+msgid "Google Map - Contact Page"
+msgstr "Google Map - Page Kontakt"
+
+#: framework/site-options.php:1108
+#@ truethemes_localize
+msgid "Input the &lt;iframe&gt; map code if using the Google Map Contact Page.<br /><br />This code can be obtained from <a href=\"https://maps.google.com/\">https://maps.google.com/</a>"
+msgstr "Wpisz kod map &lt;iframe&gt; jeśli używasz Google Map stronie kontaktowej. <br /><br /> Kod ten można uzyskać <<a href=\"https://maps.google.com/\">https://maps.google.com/</a>"
+
+#: framework/site-options.php:1120
+#@ truethemes_localize
+msgid "Footer"
+msgstr "Stopka"
+
+#: framework/site-options.php:1124
+#@ truethemes_localize
+msgid "Footer - Transparent Overlay Image"
+msgstr "Stopka - Transparent Nakładanie zdjęć"
+
+#: framework/site-options.php:1125
+#@ truethemes_localize
+msgid "Select a transparent overlay image for the footer area of your website."
+msgstr "Wybierz przejrzysty obraz nakładki na obszarze stopki witryny."
+
+#: framework/site-options.php:1141
+#@ truethemes_localize
+msgid "Footer - Transparent Overlay Image - Upload"
+msgstr "Stopka - Transparent Nakładanie zdjęć - Prześlij"
+
+#: framework/site-options.php:1142
+#@ truethemes_localize
+msgid "Use this section if you prefer to upload a custom transparent overlay image for the footer area of your website."
+msgstr "W tej sekcji, jeśli wolisz, aby przesłać własny przejrzysty obraz nakładki na obszarze stopki witryny."
+
+#: framework/site-options.php:1147
+#@ truethemes_localize
+msgid "Footer - Design Style"
+msgstr "Stopka - Style Projektowanie"
+
+#: framework/site-options.php:1148
+#@ truethemes_localize
+msgid "Select a footer design style.<br />(full, half, small)"
+msgstr "Wybierz stopki styl projektowania. <br /> (Full, half, mała)"
+
+#: framework/site-options.php:1159
+#@ truethemes_localize
+msgid "Footer - Columns"
+msgstr "Stopka - Kolumny"
+
+#: framework/site-options.php:1160
+#@ truethemes_localize
+msgid "Select the number of columns to be displayed in the footer."
+msgstr "Wybierz liczbę kolumn, które mają być wyświetlane w stopce."
+
+#: framework/site-options.php:1167
+#@ truethemes_localize
+msgid "Footer Callout"
+msgstr "Stopka Objaśnienie"
+
+#: framework/site-options.php:1168
+#@ truethemes_localize
+msgid "Check this box to enable the Footer Callout section."
+msgstr "Zaznacz to pole wyboru, aby umożliwić Stopka Objaśnienie punkt."
+
+#: framework/site-options.php:1174
+#@ truethemes_localize
+msgid "Footer Callout - Content"
+msgstr "Stopka Objaśnienie - zawartość"
+
+#: framework/site-options.php:1175
+#@ truethemes_localize
+msgid "Enter the content to be displayed within the Footer Callout Section."
+msgstr "Wpisz treść być wyświetlane w stopce Objaśnienie rozdział."
+
+#: framework/site-options.php:1182
+#@ truethemes_localize
+msgid "Footer Callout - Link URL"
+msgstr "Stopka Objaśnienie - Link URL"
+
+#: framework/site-options.php:1183
+#@ truethemes_localize
+msgid "Enter a URL to link the Footer Callout Section.<br /><br /><em><strong>Example:</strong><br />http://www.google.com</em>"
+msgstr "Wpisz URL powiązania Stopka Objaśnienie rozdział. <br /><br /> <em><strong>Przykład:</strong> <br /> http://www.google.com</em>"
+
+#: framework/site-options.php:1188
+#@ truethemes_localize
+msgid "Footer Callout - Link Hover - Background Color"
+msgstr "Stopka Objaśnienie - Link Hover - Kolor tła"
+
+#: framework/site-options.php:1189
+#@ truethemes_localize
+msgid "Use this color picker to specify a custom background color for the footer callout link (when link is hovered)."
+msgstr "Za pomocą tej palety można określić niestandardowy kolor tła stopki objaśnienie łącza (gdy związek jest unosił)."
+
+#: framework/site-options.php:1194
+#@ truethemes_localize
+msgid "Footer - Scroll-to-top Link"
+msgstr "Stopka - Scroll-to-top link"
+
+#: framework/site-options.php:1195
+#@ truethemes_localize
+msgid "Un-check this box to disable the scroll-to-top link."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć scroll-to-top łącze."
+
+#: framework/site-options.php:1201
+#@ truethemes_localize
+msgid "Footer - Scroll-to-top Text"
+msgstr "Stopka - Przewiń do góry Tekst"
+
+#: framework/site-options.php:1202
+#@ truethemes_localize
+msgid "Customize the text used for the scroll-to-top link."
+msgstr "Dostosuj tekst używany link przewiń do góry."
+
+#: framework/site-options.php:1208
+#: functions.php:301
+#@ truethemes_localize
+msgid "Footer Copyright"
+msgstr "Stopka Prawa autorskie"
+
+#: framework/site-options.php:1209
+#@ truethemes_localize
+msgid "Un-check this box to disable the Footer Copyright section."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć sekcji stopki praw autorskich."
+
+#: framework/site-options.php:1224
+#@ truethemes_localize
+msgid "Sliders"
+msgstr "Sliders"
+
+#: framework/site-options.php:1228
+#@ truethemes_localize
+msgid "jQuery2 Slider - Background Color"
+msgstr "jQuery2 Slider - Kolor tła"
+
+#: framework/site-options.php:1229
+#@ truethemes_localize
+msgid "Choose a background color for the jQuery2 Slider."
+msgstr "Wybierz kolor tła dla jQuery2 Slider."
+
+#: framework/site-options.php:1243
+#@ truethemes_localize
+msgid "jQuery2 Slider - Custom Background Color"
+msgstr "jQuery2 Slider - dowolny kolor tła"
+
+#: framework/site-options.php:1244
+#@ truethemes_localize
+msgid "Specify a custom background color for the jQuery2 Slider."
+msgstr "Określ niestandardowy kolor tła jQuery2 Slider."
+
+#: framework/site-options.php:1249
+#@ truethemes_localize
+msgid "jQuery3 Slider - Transparent Overlay Image"
+msgstr "jQuery3 Slider - Transparent Nakładanie zdjęć"
+
+#: framework/site-options.php:1250
+#@ truethemes_localize
+msgid "Select a transparent overlay image for the jQuery3 Slider."
+msgstr "Wybierz przejrzysty obraz nakładki na jQuery3 Slider."
+
+#: framework/site-options.php:1265
+#@ truethemes_localize
+msgid "jQuery3 Slider - Custom Background Color"
+msgstr "jQuery3 Slider - dowolny kolor tła"
+
+#: framework/site-options.php:1266
+#@ truethemes_localize
+msgid "Specify a custom background color for the jQuery3 Slider."
+msgstr "Określ niestandardowy kolor tła jQuery3 Slider."
+
+#: framework/site-options.php:1271
+#: framework/site-options.php:1325
+#@ truethemes_localize
+msgid "Pause on Hover"
+msgstr "Pauza na Hover"
+
+#: framework/site-options.php:1272
+#: framework/site-options.php:1326
+#@ truethemes_localize
+msgid "Check this box to pause the slider when a user hovers over with their mouse."
+msgstr "Zaznacz to pole wyboru, aby wstrzymać suwak, gdy użytkownik znajdzie się nad ich myszką."
+
+#: framework/site-options.php:1278
+#: framework/site-options.php:1332
+#@ truethemes_localize
+msgid "Randomize Slides"
+msgstr "Losowo slajdy"
+
+#: framework/site-options.php:1279
+#: framework/site-options.php:1333
+#@ truethemes_localize
+msgid "Check this box to randomize the order of the slides."
+msgstr "Zaznacz to pole, aby losowo kolejność slajdów."
+
+#: framework/site-options.php:1285
+#: framework/site-options.php:1339
+#@ truethemes_localize
+msgid "Next/Previous Arrows"
+msgstr "Następny / Poprzedni Arrows"
+
+#: framework/site-options.php:1286
+#: framework/site-options.php:1340
+#@ truethemes_localize
+msgid "Check this box to display next/previous arrows."
+msgstr "Zaznacz to pole wyboru, aby wyświetlić następny / poprzedni strzałki."
+
+#: framework/site-options.php:1292
+#: framework/site-options.php:1346
+#@ truethemes_localize
+msgid "Animation Effect"
+msgstr "Animacja Effect"
+
+#: framework/site-options.php:1293
+#: framework/site-options.php:1347
+#@ truethemes_localize
+msgid "Select an animation effect."
+msgstr "Wybierz efekt animacji."
+
+#: framework/site-options.php:1303
+#: framework/site-options.php:1357
+#@ truethemes_localize
+msgid "Display Time"
+msgstr "Czas wyświetlania"
+
+#: framework/site-options.php:1304
+#: framework/site-options.php:1358
+#@ truethemes_localize
+msgid "Enter the amount of time to display each slide before changing, in milliseconds."
+msgstr "Wprowadź czas wyświetlania każdego slajdu przed zmianą, w milisekundach."
+
+#: framework/site-options.php:1310
+#: framework/site-options.php:1364
+#@ truethemes_localize
+msgid "Animation Speed"
+msgstr "Szybkość animacji"
+
+#: framework/site-options.php:1311
+#: framework/site-options.php:1365
+#@ truethemes_localize
+msgid "Enter the speed of the animations, in milliseconds."
+msgstr "Wprowadź prędkość animacji, w milisekundach."
+
+#: framework/site-options.php:1318
+#@ truethemes_localize
+msgid "<strong>Customize</strong> the Testimonial Slider below."
+msgstr "<strong>Dostosuj</strong> referencje Slider poniżej."
+
+#: framework/site-options.php:1371
+#@ truethemes_localize
+msgid "<strong>Karma 3.1 Settings</strong><br />The settings below have been deprecated since Karma 3.1. These settings are no longer needed and can safely be ignored."
+msgstr "<strong>Karma 3,1 Ustawienia</strong> <br /> Poniższe ustawienia są nieaktualne, ponieważ Karma 3.1. Ustawienia te nie są już potrzebne i można bezpiecznie zignorować."
+
+#: framework/site-options.php:1376
+#@ truethemes_localize
+msgid "jQuery Slider Post Category"
+msgstr "Kategoria post Slider jQuery"
+
+#: framework/site-options.php:1377
+#@ truethemes_localize
+msgid "Select the category that will be used for generating the jQuery slides."
+msgstr "Wybierz kategorię, która będzie używana do generowania jQuery slajdy."
+
+#: framework/site-options.php:1384
+#@ truethemes_localize
+msgid "JQuery Slider Pause Settings"
+msgstr "Slider Pause Settings JQuery"
+
+#: framework/site-options.php:1385
+#@ truethemes_localize
+msgid "Check this box if you would like the jQuery slider to pause when the user hovers over a slide."
+msgstr "Zaznacz to pole, jeśli chcesz jQuery suwak, aby wstrzymać, gdy użytkownik zostanie umieszczony na szkiełku."
+
+#: framework/site-options.php:1391
+#@ truethemes_localize
+msgid "jQuery Homepage Slider Time"
+msgstr "Czas jQuery Slider Homepage"
+
+#: framework/site-options.php:1392
+#@ truethemes_localize
+msgid "Enter the desired amount of time you would like to display each slide. (milliseconds)"
+msgstr "Wpisz żądaną ilość czasu, który chcesz wyświetlić każdy slajd. (Ms)"
+
+#: framework/site-options.php:1398
+#@ truethemes_localize
+msgid "3D CU3ER - Slider ID Number"
+msgstr "3D CU3ER - Numer ID Slider"
+
+#: framework/site-options.php:1399
+#@ truethemes_localize
+msgid "Enter the ID number of the 3D slider you would like to embed on the \"Homepage :: 3D\" page template.<br><br><em>Not sure where to find the slider ID number? <a href=\"http://themes.5-squared.com/support/cu3er-instructions.html\" target=\"_blank\">View these visual instructions.</a></em>"
+msgstr "Wpisz numer ID suwak 3D, który chcesz dodać na &quot;Strona główna :: 3D&quot; szablon strony. <br><br> <em>Nie wiesz, gdzie znaleźć numer ID suwak? <a href=\"http://themes.5-squared.com/support/cu3er-instructions.html\" target=\"_blank\">Zobacz te instrukcje wizualne.</a></em>"
+
+#: framework/site-options.php:1410
+#@ truethemes_localize
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: framework/site-options.php:1414
+#@ truethemes_localize
+msgid "UberMenu Plugin"
+msgstr "Plugin UberMenu"
+
+#: framework/site-options.php:1415
+#@ truethemes_localize
+msgid "This theme is fully compatible with the <a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">UberMenu Plugin</a>. Check this box to enable UberMenu and activate the necessary functions for seamless rendering.<br /><br /><em>Please note: the UberMenu Plugin is not included with this theme. You will need to purchase and install the <a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">UberMenu Plugin</a> before activating this setting.</em>"
+msgstr "Temat ten jest w pełni kompatybilny z <a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">wtyczką UberMenu</a> . Zaznacz to pole wyboru, aby umożliwić UberMenu i uruchomić niezbędne funkcje bez szwu renderowania. <br /><br /> <em>Uwaga: Plugin UberMenu nie jest dołączony do tego tematu. Trzeba będzie zakupić i zainstalować <a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">wtyczkę UberMenu</a> przed aktywacją tego ustawienia.</em>"
+
+#: framework/site-options.php:1421
+#@ truethemes_localize
+msgid "Included Plugins"
+msgstr "Dołączone Plugins"
+
+#: framework/site-options.php:1430
+#@ truethemes_localize
+msgid "Forms"
+msgstr "Formularze"
+
+#: framework/site-options.php:1434
+#@ truethemes_localize
+msgid "Form Builder"
+msgstr "Form Builder"
+
+#: framework/site-options.php:1435
+#@ truethemes_localize
+msgid "A powerful form builder is included in this theme by default. <em>Un-check this box to disable the form builder.</em>"
+msgstr "Potężnym budowniczy forma jest w tym temacie domyślnie. <em>Usuń zaznaczenie tego pola wyboru, aby wyłączyć generatora formularzy.</em>"
+
+#: framework/site-options.php:1441
+#@ truethemes_localize
+msgid "\"Required Text\""
+msgstr "&quot;Wymagany Tekst&quot;"
+
+#: framework/site-options.php:1442
+#@ truethemes_localize
+msgid "Customize the text that will be displayed next to required fields."
+msgstr "Dostosować tekst, który będzie wyświetlany obok wymaganych pól."
+
+#: framework/site-options.php:1448
+#@ truethemes_localize
+msgid "Success Message"
+msgstr "Wiadomość Sukces"
+
+#: framework/site-options.php:1449
+#@ truethemes_localize
+msgid "Customize the success message that will be displayed after a user submits the form."
+msgstr "Dostosuj komunikat o sukcesie, który będzie wyświetlany, gdy użytkownik przesyła formularz."
+
+#: framework/site-options.php:1455
+#@ truethemes_localize
+msgid "Submit Button - Text"
+msgstr "Przycisk Prześlij - Tekst"
+
+#: framework/site-options.php:1456
+#@ truethemes_localize
+msgid "Customize the text to be used for the form's Submit Button"
+msgstr "Dostosować tekst, który będzie używany do formularza przycisku Prześlij"
+
+#: framework/site-options.php:1462
+#@ truethemes_localize
+msgid "reCAPTCHA: Public Key"
+msgstr "reCAPTCHA: Public Key"
+
+#: framework/site-options.php:1463
+#@ truethemes_localize
+msgid ""
+"Enter your reCAPTCHA Public Key.<br><br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Simply leave this field blank if you won't be using this functionality.</em>"
+msgstr ""
+"Wprowadź klucz reCAPTCHA publiczny. <br><br>\n"
+"\\\t\\\t\\\tYou mogą otrzymać klucze Odśwież w: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Wystarczy zostawić to pole puste, jeśli nie będzie używany tej funkcji.</em>"
+
+#: framework/site-options.php:1469
+#@ truethemes_localize
+msgid "reCAPTCHA: Private Key"
+msgstr "reCAPTCHA: Private Key"
+
+#: framework/site-options.php:1470
+#@ truethemes_localize
+msgid ""
+"Enter your reCAPTCHA Private Key.<br><br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Simply leave this field blank if you won't be using this functionality.</em>"
+msgstr ""
+"Wpisz swój reCAPTCHA klucza prywatnego. <br><br>\n"
+"\\\t\\\t\\\tYou mogą otrzymać klucze Odśwież w: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Wystarczy zostawić to pole puste, jeśli nie będzie używany tej funkcji.</em>"
+
+#: framework/site-options.php:1477
+#@ truethemes_localize
+msgid "reCAPTCHA Theme - Select a theme"
+msgstr "Theme reCAPTCHA - Wybierz temat"
+
+#: framework/site-options.php:1478
+#@ truethemes_localize
+msgid "Select a reCAPTCHA theme.</em>"
+msgstr "Wybierz motyw reCAPTCHA.</em>"
+
+#: framework/site-options.php:1490
+#@ truethemes_localize
+msgid "reCAPTCHA Theme - Customization"
+msgstr "Theme reCAPTCHA - Dostosowanie"
+
+#: framework/site-options.php:1491
+#@ truethemes_localize
+msgid "<strong>(For Advance User Only)</strong><br/><br/>This setting overwrites the above reCAPTCHA theme selection. <br/><br/>You can customize the look and feel of reCAPTCHA, by entering your custom javascript code in the box provided.<br /><br />Please read <a href=\"http://code.google.com/intl/pt-PT/apis/recaptcha/docs/customization.html\" target=\"_blank\">reCAPTCHA developer documentation</a> for details.<br/><br/><u><strong>Important Notes:</strong></u><br/>Please change the javascript codes from google documentation to use <strong>double quotes</strong> rather than single quotes for all javascript variables."
+msgstr "<strong>(Dla użytkowników zaawansowanych Only)</strong> <br/><br/> To ustawienie zastępuje powyższy wybór tematu reCAPTCHA. <br/><br/> Można dostosować wygląd reCAPTCHA, podając swój własny kod javascript w polu. <br /><br /> Proszę przeczytać <a href=\"http://code.google.com/intl/pt-PT/apis/recaptcha/docs/customization.html\" target=\"_blank\">dokumentację dla deweloperów reCAPTCHA</a> szczegóły. <br/><br/> <u><strong>Ważne uwagi:</strong></u> <br/> Proszę zmienić kody JavaScript z dokumentacji google używać <strong>cudzysłowów</strong> zamiast apostrofów dla wszystkich zmiennych JavaScript."
+
+#: framework/site-options.php:1501
+#@ truethemes_localize
+msgid "Blog"
+msgstr "Blog"
+
+#: framework/site-options.php:1505
+#@ truethemes_localize
+msgid "Blog Page"
+msgstr "Page Blog"
+
+#: framework/site-options.php:1506
+#@ truethemes_localize
+msgid "Select the blog page from the dropdown list."
+msgstr "Wybierz blogu stronę z listy rozwijanej."
+
+#: framework/site-options.php:1512
+#@ truethemes_localize
+msgid "Hide Categories"
+msgstr "Ukryj kategorie"
+
+#: framework/site-options.php:1513
+#@ truethemes_localize
+msgid "Select any categories that you'd like to hide from the Blog."
+msgstr "Wybierz wszystkie kategorie, które chcesz ukryć z bloga."
+
+#: framework/site-options.php:1519
+#@ truethemes_localize
+msgid "Post Comments"
+msgstr "Napisz komentarz"
+
+#: framework/site-options.php:1520
+#@ truethemes_localize
+msgid "Un-check this box to completely disable comments on all blog posts."
+msgstr "Usuń zaznaczenie tego pola, aby całkowicie wyłączyć komentarze na wszystkich blogach."
+
+#: framework/site-options.php:1526
+#@ truethemes_localize
+msgid "Post Comments - Avatar"
+msgstr "Napisz komentarz - Avatar"
+
+#: framework/site-options.php:1527
+#@ truethemes_localize
+msgid "This theme uses a custom avatar image when users do not have a Gravatar.com account. <em>Un-check this box to disable this functionality and use WordPress avatars instead.</em>"
+msgstr "Ten motyw wykorzystuje niestandardowe Awatar, gdy użytkownicy nie masz konta Gravatar.com. <em>Usuń zaznaczenie tego pola wyboru, aby wyłączyć tę funkcję i używać awatarów WordPress zamiast.</em>"
+
+#: framework/site-options.php:1533
+#@ truethemes_localize
+msgid "Utility Bar - Page Title"
+msgstr "Bar Utility - Tytuł strony"
+
+#: framework/site-options.php:1534
+#@ truethemes_localize
+msgid "Enter the page title to be displayed in the blog's utility bar."
+msgstr "Wprowadź tytuł strony, który będzie wyświetlany w blogu barze użytkowego."
+
+#: framework/site-options.php:1540
+#@ truethemes_localize
+msgid "Blog Posts - Featured Images"
+msgstr "Blog Posts - wybrane obrazy"
+
+#: framework/site-options.php:1541
+#@ truethemes_localize
+msgid "Select an image frame style for featured images."
+msgstr "Wybierz styl ramki obrazu do prezentowanych obrazów."
+
+#: framework/site-options.php:1551
+#@ truethemes_localize
+msgid "\"Posted by\" Information"
+msgstr "&quot;Autor&quot; Informacje"
+
+#: framework/site-options.php:1552
+#@ truethemes_localize
+msgid "Check this box to hide the \"Posted by\" information printed under each blog post title."
+msgstr "Zaznacz to pole wyboru, aby ukryć &quot;Autor&quot; informacje wydrukowane w każdym tytule postu blogu."
+
+#: framework/site-options.php:1558
+#@ truethemes_localize
+msgid "Post Date"
+msgstr "Data publikacji"
+
+#: framework/site-options.php:1559
+#@ truethemes_localize
+msgid "Check this box to hide the post date on all blog posts.</em>"
+msgstr "Zaznacz to pole wyboru, aby ukryć wpis datę na wszystkich blogach.</em>"
+
+#: framework/site-options.php:1565
+#@ truethemes_localize
+msgid "\"Read More\" - Button Label"
+msgstr "&quot;Czytaj więcej&quot; - Etykieta przycisku"
+
+#: framework/site-options.php:1566
+#@ truethemes_localize
+msgid "Enter a custom label for the \"read more\" buttons."
+msgstr "Wprowadź niestandardową etykietę &quot;czytaj więcej&quot; przycisków."
+
+#: framework/site-options.php:1572
+#@ truethemes_localize
+msgid "\"Read More\" - Button Color"
+msgstr "&quot;Czytaj więcej&quot; - kolor przycisku"
+
+#: framework/site-options.php:1573
+#@ truethemes_localize
+msgid "Select a color for the \"read more\" buttons."
+msgstr "Wybierz kolor dla &quot;czytaj więcej&quot; przycisków."
+
+#: framework/site-options.php:1611
+#@ truethemes_localize
+msgid "\"Read More\" - Button Size"
+msgstr "&quot;Czytaj więcej&quot; - przycisk Rozmiar"
+
+#: framework/site-options.php:1612
+#@ truethemes_localize
+msgid "Select a size for the \"read more\" buttons."
+msgstr "Wybierz rozmiar w &quot;czytaj więcej&quot; przycisków."
+
+#: framework/site-options.php:1623
+#@ truethemes_localize
+msgid "About-the-Author"
+msgstr "O--Author"
+
+#: framework/site-options.php:1624
+#@ truethemes_localize
+msgid "The author's bio is displayed at the end of each Single Blog post. <em>Un-check this box to disable this functionality.</em><br /><br />Author bio can be set within the Wordpress Profile page. <a href=\"profile.php\">Users > Your Profile</a>"
+msgstr "Bio autora, wyświetlany jest na koniec każdego jednolitego Blog post. <em>Usuń zaznaczenie tego pola wyboru, aby wyłączyć tę funkcję.</em> <br /><br /> Bio Autor można ustawić w widoku Wordpress Profile. <a href=\"profile.php\">Użytkownicy > Twój profil</a>"
+
+#: framework/site-options.php:1630
+#@ truethemes_localize
+msgid "Related Posts"
+msgstr "Podobne posty"
+
+#: framework/site-options.php:1631
+#@ truethemes_localize
+msgid "Un-check this box to disable related posts at the end of each blog post."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć związanych posty na koniec każdego blogu."
+
+#: framework/site-options.php:1637
+#@ truethemes_localize
+msgid "Related Posts - Title"
+msgstr "Podobne posty - Tytuł"
+
+#: framework/site-options.php:1638
+#@ truethemes_localize
+msgid "Enter a title to be dislpayed above the related posts. (ie. \"Related Posts\")."
+msgstr "Wpisz tytuł, aby być dislpayed powyżej powiązanych postów. (Tzn. &quot;Podobne posty&quot;)."
+
+#: framework/site-options.php:1644
+#@ truethemes_localize
+msgid "Related Posts - Item Count"
+msgstr "Podobne posty - ilość produktu"
+
+#: framework/site-options.php:1645
+#@ truethemes_localize
+msgid "How many related posts would you like to display? (3-5 is recommended)."
+msgstr "Ile stanowisk związanych chcesz wyświetlić? (3-5 jest zalecana)."
+
+#: framework/site-options.php:1651
+#@ truethemes_localize
+msgid "We recommend only choosing only one of the following social media sharing options. A checked box means the option will be enabled."
+msgstr "Polecamy tylko wybierając tylko jedną z następujących opcji udostępniania mediów społecznościowych. Zaznaczone pole oznacza opcja zostanie włączona."
+
+#: framework/site-options.php:1656
+#@ truethemes_localize
+msgid "Drag-to-Share"
+msgstr "Drag-to-link"
+
+#: framework/site-options.php:1657
+#@ truethemes_localize
+msgid "An interactive \"drag-to-share\" button added to each blog post."
+msgstr "Interactive &quot;drag-to-share&quot; przycisk dodany do każdego blogu."
+
+#: framework/site-options.php:1663
+#@ truethemes_localize
+msgid "Social Sharing Links"
+msgstr "Social Links udostępnianie"
+
+#: framework/site-options.php:1664
+#@ truethemes_localize
+msgid "Font-Awesome vector sharing buttons for Twitter, Facebook and Google+."
+msgstr "Font-Niesamowite przyciski udostępniania wektorowych dla Twitter, Facebook i Google+."
+
+#: framework/site-options.php:1675
+#@ truethemes_localize
+msgid "Utility Pages"
+msgstr "Strony wielozadaniowe"
+
+#: framework/site-options.php:1679
+#@ truethemes_localize
+msgid "404 Error - Page Title"
+msgstr "Błąd 404 - Tytuł strony"
+
+#: framework/site-options.php:1680
+#@ truethemes_localize
+msgid "Set the page title to be displayed in the breadcrumb area of the 404 Error Page."
+msgstr "Ustaw tytuł strony, który będzie wyświetlany w ścieżce nawigacyjnej obszarze 404 strony błędu."
+
+#: framework/site-options.php:1686
+#@ truethemes_localize
+msgid "404 Error - Page Content"
+msgstr "Błąd 404 - Zawartość strony"
+
+#: framework/site-options.php:1687
+#@ truethemes_localize
+msgid "Set the page content to be displayed within the 404 Error Page."
+msgstr "Ustaw treść strony, który będzie wyświetlany w 404 strony błędu."
+
+#: framework/site-options.php:1698
+#@ truethemes_localize
+msgid "Search Results - Page Title"
+msgstr "Wyniki wyszukiwania - tytuł strony"
+
+#: framework/site-options.php:1699
+#@ truethemes_localize
+msgid "Set the page title to be displayed in the breadcrumb area of the Search Results Page."
+msgstr "Ustaw tytuł strony, który będzie wyświetlany w ścieżce nawigacyjnej części strony z wynikami wyszukiwania."
+
+#: framework/site-options.php:1705
+#@ truethemes_localize
+msgid "Search Results - Fallback Message"
+msgstr "Wyniki wyszukiwania - Komunikat awaryjny"
+
+#: framework/site-options.php:1706
+#@ truethemes_localize
+msgid "Set the message to be displayed when a search comes back with no results."
+msgstr "Ustaw wiadomość, która będzie wyświetlana, gdy szukanie wraca bez rezultatów."
+
+#: framework/site-options.php:1712
+#@ truethemes_localize
+msgid "The following options are only required when using the Sitemap-2 Page Template."
+msgstr "Następujące opcje są wymagane tylko podczas korzystania z witryny-2 strony szablonu."
+
+#: framework/site-options.php:1717
+#@ truethemes_localize
+msgid "Sitemap - Column One Title"
+msgstr "Sitemap - Column One Tytuł"
+
+#: framework/site-options.php:1718
+#@ truethemes_localize
+msgid "This title is displayed above the list of pages in the first column."
+msgstr "Ten tytuł jest wyświetlany nad listą stron w pierwszej kolumnie."
+
+#: framework/site-options.php:1724
+#@ truethemes_localize
+msgid "Sitemap - Column Two Title"
+msgstr "Sitemap - Column Dwa Title"
+
+#: framework/site-options.php:1725
+#@ truethemes_localize
+msgid "This title is displayed above the list of posts in the second column."
+msgstr "Ten tytuł jest wyświetlany nad listą stanowisk w drugiej kolumnie."
+
+#: framework/site-options.php:1732
+#@ truethemes_localize
+msgid "Sitemap - Column Three Content"
+msgstr "Sitemap - Kolumna Trzech Zawartość"
+
+#: framework/site-options.php:1733
+#@ truethemes_localize
+msgid "This content is displayed in the third column."
+msgstr "Ten materiał jest wyświetlany w trzeciej kolumnie."
+
+#: framework/site-options.php:1749
+#@ truethemes_localize
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: framework/site-options.php:1753
+#@ truethemes_localize
+msgid "WooCommerce - Page Layout"
+msgstr "WooCommerce - Układ strony"
+
+#: framework/site-options.php:1754
+#@ truethemes_localize
+msgid "Choose a Page Layout for all WooCommerce pages."
+msgstr "Wybierz układ strony na wszystkich stronach WooCommerce."
+
+#: framework/site-options.php:1765
+#@ truethemes_localize
+msgid "WooCommerce - Utility Bar"
+msgstr "WooCommerce - Bar Utility"
+
+#: framework/site-options.php:1766
+#@ truethemes_localize
+msgid "Un-check this box to disable the Utility Bar on all WooCommerce pages. This is the colored panel that contains the Page Title, Breadcrumbs and Search box."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć pasek narzędziowy na wszystkich WooCommerce stron. To jest kolorowy panel, który zawiera tytuł strony, bułce tartej i pola wyszukiwania."
+
+#: framework/site-options.php:1772
+#@ truethemes_localize
+msgid "WooCommerce - Utility Bar - Breadcrumbs"
+msgstr "WooCommerce - Bar Utility - Bułka tarta"
+
+#: framework/site-options.php:1779
+#@ truethemes_localize
+msgid "WooCommerce - Utility Bar - Search Box"
+msgstr "WooCommerce - Bar Utility - Search Box"
+
+#: framework/site-options.php:1780
+#@ truethemes_localize
+msgid "Un-check this box to disable the Search box."
+msgstr "Usuń zaznaczenie tego pola wyboru, aby wyłączyć pola wyszukiwania."
+
+#: framework/site-options.php:1786
+#@ truethemes_localize
+msgid "WooCommerce - Custom Title"
+msgstr "WooCommerce - Własny tytuł"
+
+#: framework/site-options.php:1787
+#@ truethemes_localize
+msgid "This title will be displayed in the utility panel of all WooCommerce pages."
+msgstr "Ta nazwa będzie wyświetlana na panelu użytkowej wszystkich stron WooCommerce."
+
+#: framework/site-options.php:1800
+#@ truethemes_localize
+msgid "Twitter oAuth"
+msgstr "Twitter OAuth"
+
+#: framework/site-options.php:1804
+#@ truethemes_localize
+msgid "As of June 11, 2013 Twitter has shutdown their public API and the latest tweets functionality now requires the authentication credentials listed below.<br /><br /><strong>Need Assistance?</strong> <a href=\"https://support.truethemes.net/?knowledgebase=twitter-feed-down-latest-tweets-not-displaying\" target=\"_blank\">View this HelpDesk article &rarr;</a>"
+msgstr "Na dzień 11 czerwca 2013 Twitter wyłączył swoją publiczną API i ostatni funkcjonalność tweety teraz wymaga danych uwierzytelniających wymienione poniżej. <br /><br /> <strong>Potrzebujesz pomocy?</strong> <<a href=\"https://support.truethemes.net/?knowledgebase=twitter-feed-down-latest-tweets-not-displaying\" target=\"_blank\">Zobacz ten artykuł HelpDesk →</a>"
+
+#: framework/site-options.php:1809
+#@ truethemes_localize
+msgid "Consumer Key"
+msgstr "Key Consumer"
+
+#: framework/site-options.php:1810
+#@ truethemes_localize
+msgid "Enter your Twitter application's Consumer Key."
+msgstr "Wprowadź swojej aplikacji Twittera klucz klienta."
+
+#: framework/site-options.php:1815
+#@ truethemes_localize
+msgid "Consumer Secret"
+msgstr "Tajne Konsumentów"
+
+#: framework/site-options.php:1816
+#@ truethemes_localize
+msgid "Enter your Twitter application's Consumer Secret."
+msgstr "Wprowadź swojej aplikacji Twitter Secret Konsumentów."
+
+#: framework/site-options.php:1822
+#@ truethemes_localize
+msgid "Access Token"
+msgstr "Dostęp token"
+
+#: framework/site-options.php:1823
+#@ truethemes_localize
+msgid "Enter your Twitter application's Access Token."
+msgstr "Wprowadź swojej aplikacji Twitter token dostępu."
+
+#: framework/site-options.php:1828
+#@ truethemes_localize
+msgid "Access Token Secret"
+msgstr "Token dostępu Tajemnicę"
+
+#: framework/site-options.php:1829
+#@ truethemes_localize
+msgid "Enter your Twitter application's Access Token Secret."
+msgstr "Wprowadź swojej aplikacji Twitter Secret token dostępu."
+
+#: framework/site-options.php:1834
+#@ truethemes_localize
+msgid "Cache Timing"
+msgstr "Pasek Cache"
+
+#: framework/site-options.php:1835
+#@ truethemes_localize
+msgid "Latest Tweets need to be cached in order to comply with Twitter API Call Limits.<br /><br />Please select your desired cache timing interval.<br /><br />(new tweets will be refreshed at the selected timing interval)"
+msgstr "Najnowsze Tweety muszą być buforowane w celu zapewnienia zgodności z limitami Twitter wywołanie API. <br /><br /> Proszę wybrać żądany interwał czasowy cache. <br /><br /> (Nowe tweety będą odświeżane w wybranym przedziale czasowym)"
+
+#: framework/site-options.php:1841
+#@ truethemes_localize
+msgid "Cache Temporary Disable"
+msgstr "Cache Tymczasowe wyłączanie"
+
+#: framework/site-options.php:1842
+#@ truethemes_localize
+msgid "Use this option to temporarily turn off the cache during configuration so that your changes will be reflected immediately. Remember to turn the cache back after you've confirmed tweets are displaying nicely."
+msgstr "Użyj tej opcji, aby tymczasowo wyłączyć pamięć podręczną w czasie konfiguracji, aby Twoje zmiany będą widoczne natychmiast. Pamiętaj, aby włączyć cache z powrotem po tym, jak potwierdziły tweety pokazujemy ładnie."
+
+#: framework/truethemes/metabox/init.php:627
+#@ cmb
+msgid "Please Try Again"
+msgstr "Spróbuj jeszcze raz"
+
+#: framework/truethemes/metabox/init.php:644
+#@ cmb
+msgid "Remove Embed"
+msgstr "Usuń Wstaw"
+
+#: framework/truethemes/metabox/init.php:650
+#, php-format
+#@ cmb
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Brak oEmbed Wyniki wyszukiwania dla %s. Zobacz więcej informacji na"
+
+#: framework/truethemes/wysiwyg/interface.php:2
+#@ truethemes_localize
+msgid "You are not allowed to be here"
+msgstr "Nie możesz tu być"
+
+#: framework/widgets.php:11
+#@ truethemes_localize
+msgid "Link to your RSS feed and Social Media accounts."
+msgstr "Link do kanału RSS i społecznych relacjach medialnych."
+
+#: framework/widgets.php:13
+#@ truethemes_localize
+msgid "CUSTOM - Social Networks"
+msgstr "CUSTOM - Sieci społeczne"
+
+#: framework/widgets.php:62
+#: framework/widgets.php:66
+#@ truethemes_localize
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: framework/widgets.php:62
+#: framework/widgets.php:66
+#@ truethemes_localize
+msgid "RSS"
+msgstr "RSS"
+
+#: framework/widgets.php:154
+#@ truethemes_localize
+msgid "Please enter the full URL to each of your Social Media accounts below.<br /><br />Simply leave the field blank if you do not wish to display that Social Media service."
+msgstr "Wprowadź pełny adres URL do każdego z Social Media rachunków poniżej. <br /><br /> Wystarczy zostawić to pole puste, jeśli nie chcesz, aby wyświetlić ten społecznościowe usługi nośnika."
+
+#: framework/widgets.php:158
+#@ truethemes_localize
+msgid "Check this box to switch to clean-style retina-ready vector icons."
+msgstr "Zaznacz to pole, aby przełączyć się na czysty styl siatkówki gotowych ikon wektorowych."
+
+#: framework/widgets.php:163
+#@ truethemes_localize
+msgid "Check this box to switch to colored retina-ready vector icons."
+msgstr "Zaznacz to pole, aby przełączyć się na kolorowych retina-ready ikon wektorowych."
+
+#: framework/widgets.php:168
+#@ truethemes_localize
+msgid "Check this box to display the social media name next to it's icon. (ie. \"Twitter\") "
+msgstr "Zaznacz to pole wyboru, aby wyświetlić nazwę nośnika społecznej obok jego ikonę. (Np. &quot;Twitter&quot;)"
+
+#: framework/widgets.php:176
+#@ truethemes_localize
+msgid "Title Link:"
+msgstr "Tytuł linku:"
+
+#: framework/widgets.php:182
+#@ truethemes_localize
+msgid "None"
+msgstr "Żaden"
+
+#: framework/widgets.php:189
+#@ truethemes_localize
+msgid "RSS Feed:<br />(leave empty for default RSS Feed)"
+msgstr "RSS Feed: <br /> (Pozostaw puste dla domyślnej RSS)"
+
+#: framework/widgets.php:193
+#@ truethemes_localize
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: framework/widgets.php:197
+#@ truethemes_localize
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: framework/widgets.php:201
+#@ truethemes_localize
+msgid "Email Address:"
+msgstr "Adres e-mail:"
+
+#: framework/widgets.php:205
+#@ truethemes_localize
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: framework/widgets.php:209
+#@ truethemes_localize
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: framework/widgets.php:213
+#@ truethemes_localize
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: framework/widgets.php:217
+#@ truethemes_localize
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: framework/widgets.php:221
+#@ truethemes_localize
+msgid "FourSquare:"
+msgstr "FourSquare:"
+
+#: framework/widgets.php:225
+#@ truethemes_localize
+msgid "Delicious:"
+msgstr "Pyszne:"
+
+#: framework/widgets.php:229
+#@ truethemes_localize
+msgid "Digg:"
+msgstr "Digg:"
+
+#: framework/widgets.php:233
+#@ truethemes_localize
+msgid "Google+:"
+msgstr "Google+:"
+
+#: framework/widgets.php:236
+#@ truethemes_localize
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: framework/widgets.php:239
+#@ truethemes_localize
+msgid "Skype:"
+msgstr "Skype:"
+
+#: framework/widgets.php:256
+#@ truethemes_localize
+msgid "Show your recent posts."
+msgstr "Pokaż swoje ostatnie posty."
+
+#: framework/widgets.php:257
+#@ truethemes_localize
+msgid "CUSTOM - Recent Posts"
+msgstr "CUSTOM - Ostatnie wiadomości"
+
+#: framework/widgets.php:323
+#@ truethemes_localize
+msgid "Number of Posts:"
+msgstr "Liczba postów:"
+
+#: framework/widgets.php:343
+#@ truethemes_localize
+msgid "A list or dropdown of categories"
+msgstr "Lista rozwijana z kategorii lub"
+
+#: framework/widgets.php:344
+#@ truethemes_localize
+msgid "CUSTOM - Categories"
+msgstr "CUSTOM - Kategorie"
+
+#: framework/widgets.php:350
+#: functions.php:494
+#: functions.php:511
+#@ truethemes_localize
+msgid "Categories"
+msgstr "Kategorie"
+
+#: framework/widgets.php:366
+#@ truethemes_localize
+msgid "Select Category"
+msgstr "Wybierz kategorię"
+
+#: framework/widgets.php:419
+#@ truethemes_localize
+msgid "Show as dropdown"
+msgstr "Pokaż jako listę rozwijaną"
+
+#: framework/widgets.php:422
+#: framework/widgets.php:491
+#@ truethemes_localize
+msgid "Show post counts"
+msgstr "Pokaż post, liczy"
+
+#: framework/widgets.php:425
+#@ truethemes_localize
+msgid "Show hierarchy"
+msgstr "Pokaż hierarchię"
+
+#: framework/widgets.php:440
+#@ truethemes_localize
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr "Miesięczne archiwum swego serwisu postów"
+
+#: framework/widgets.php:441
+#@ truethemes_localize
+msgid "CUSTOM - Archives"
+msgstr "CUSTOM - Archiwum"
+
+#: framework/widgets.php:448
+#@ truethemes_localize
+msgid "Archives"
+msgstr "Archiwum"
+
+#: framework/widgets.php:460
+#@ truethemes_localize
+msgid "Select Month"
+msgstr "Wybierz miesiąc"
+
+#: framework/widgets.php:493
+#@ truethemes_localize
+msgid "Display as a drop down"
+msgstr "Wyświetl jako rozwijanego"
+
+#: framework/widgets.php:510
+#@ truethemes_localize
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr "Za pomocą tego widgetu, aby dodać jedno z niestandardowych menu jako widget."
+
+#: framework/widgets.php:511
+#@ truethemes_localize
+msgid "Custom Menu"
+msgstr "Menu użytkownika"
+
+#: framework/widgets.php:554
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Brak menu nie została stworzona. <a href=\"%s\">Tworzenie niektórych</a> ."
+
+#: framework/widgets.php:563
+#@ truethemes_localize
+msgid "Select Menu:"
+msgstr "Wybierz Menu:"
+
+#: functions.php:302
+#@ truethemes_localize
+msgid "Add Copyright information to the Footer."
+msgstr "Dodaj informacje o prawach autorskich w stopce."
+
+#: functions.php:319
+#@ truethemes_localize
+msgid "Footer &copy; Copyright Text"
+msgstr "Stopka © Tekst Prawa autorskie"
+
+#: functions.php:528
+#@ truethemes_localize
+msgid "Slider Posts"
+msgstr "Posty Slider"
+
+#: functions.php:529
+#@ truethemes_localize
+msgid "Slider Post"
+msgstr "Post Slider"
+
+#: functions.php:531
+#@ truethemes_localize
+msgid "slider"
+msgstr "suwak"
+
+#: functions.php:532
+#: functions.php:569
+#@ truethemes_localize
+msgid "Add New"
+msgstr "Dodaj nowe"
+
+#: functions.php:533
+#@ truethemes_localize
+msgid "Add New Slider Post"
+msgstr "Dodaj nowy wątek Slider"
+
+#: functions.php:534
+#@ truethemes_localize
+msgid "Edit Slider Post"
+msgstr "Edytuj post Slider"
+
+#: functions.php:535
+#@ truethemes_localize
+msgid "New Slider Post"
+msgstr "Nowy post Slider"
+
+#: functions.php:536
+#@ truethemes_localize
+msgid "View Slider Post"
+msgstr "Zobacz post Slider"
+
+#: functions.php:537
+#@ truethemes_localize
+msgid "Search Slider Posts"
+msgstr "Posty Slider wyszukiwania"
+
+#: functions.php:538
+#@ truethemes_localize
+msgid "No Slider Posts found"
+msgstr "Brak postów Slider znaleziono"
+
+#: functions.php:539
+#@ truethemes_localize
+msgid "No Slider Posts found in Trash"
+msgstr "Brak postów Slider znaleźć w Kosza"
+
+#: functions.php:565
+#@ truethemes_localize
+msgid "Gallery Posts"
+msgstr "Wiadomości Galeria"
+
+#: functions.php:566
+#@ truethemes_localize
+msgid "Gallery Post"
+msgstr "Post Gallery"
+
+#: functions.php:568
+#@ truethemes_localize
+msgid "gallery"
+msgstr "galeria"
+
+#: functions.php:570
+#@ truethemes_localize
+msgid "Add New Gallery Post"
+msgstr "Dodaj nową wiadomość Galeria"
+
+#: functions.php:571
+#@ truethemes_localize
+msgid "Edit Gallery Post"
+msgstr "Edycja Galeria post"
+
+#: functions.php:572
+#@ truethemes_localize
+msgid "New Gallery Post"
+msgstr "Nowy post Gallery"
+
+#: functions.php:573
+#@ truethemes_localize
+msgid "View Gallery Post"
+msgstr "Galeria Zobacz post"
+
+#: functions.php:574
+#@ truethemes_localize
+msgid "Search Gallery Posts"
+msgstr "Wiadomości Galeria Szukaj"
+
+#: functions.php:575
+#@ truethemes_localize
+msgid "No Gallery Posts found"
+msgstr "Brak postów Galeria znaleziono"
+
+#: functions.php:576
+#@ truethemes_localize
+msgid "No Gallery Posts found in Trash"
+msgstr "Brak postów Galeria znajduje się w koszu"
+
+#: functions.php:853
+#, php-format
+#@ truethemes_localize
+msgid "View all items filed under %s"
+msgstr "Wyświetl wszystkie przedmioty zaszufladkowany %s"
+
+#: functions.php:869
+#, php-format
+#@ truethemes_localize
+msgid "Feed for all posts filed under %s"
+msgstr "Pasza dla wszystkich stanowisk złożony w ramach %s"
+
+#: search.php:18
+#@ truethemes_localize
+msgid "Search Results for"
+msgstr "Wyniki wyszukiwania dla"
+
+#: single.php:173
+#@ truethemes_localize
+msgid "About the Author:"
+msgstr "O autorze:"
+
+#: single.php:185
+#@ truethemes_localize
+msgid "Share on Twitter"
+msgstr "Podziel się na Twitterze"
+
+#: single.php:187
+#@ truethemes_localize
+msgid "Share on Facebook"
+msgstr "Udostępnij na Facebooku"
+
+#: single.php:189
+#@ truethemes_localize
+msgid "Share on Google"
+msgstr "Podziel się na Google"
+
+#: template-filterable-gallery.php:272
+#: template-portfolio-1-column-portrait.php:167
+#: template-portfolio-1-column.php:168
+#@ truethemes_localize
+msgid "top"
+msgstr "top"
+
+#: theme-template-part-inline-editing.php:10
+#@ truethemes_localize
+msgid "+ Edit this post"
+msgstr "+ Edytuj ten post"
+
+#: theme-template-part-inline-editing.php:17
+#@ truethemes_localize
+msgid "+ Edit this page"
+msgstr "+ Utwórz"
+

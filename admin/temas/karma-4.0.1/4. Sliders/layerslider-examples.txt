@@ -1,0 +1,20 @@
+
+
+LayerSlider examples are built directly into the LayerSlider plugin. Simply install the plugin and click "Import Demo Sliders".
+
+--------------------------------------------------
+*** Recommended Instructions ***
+--------------------------------------------------
+Follow this link for easy-to-follow video instructions:
+http://vimeopro.com/truethemes/karma-4/
+
+
+------------------------------
+Manual Instructions:
+------------------------------
+1. Install the Karma theme
+2. Click on 'Appearance > Install Plugins'
+3. Follow the on-screen instructions to install the LayerSlider Plugin
+4. After installed click on the link labeled 'LayerSlider WP' which is now in the Wordpress Admin Menu below 'Settings'
+5. Click "Import Sample Sliders" near the top of the screen
+6. Enjoy :)

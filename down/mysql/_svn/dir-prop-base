@@ -1,0 +1,11 @@
+K 14
+bugtraq:number
+V 4
+true
+K 10
+svn:ignore
+V 62
+MyODBC-3.51.11-2-win.exe
+mysql-connector-odbc-5.1.8-win32.msi
+
+END

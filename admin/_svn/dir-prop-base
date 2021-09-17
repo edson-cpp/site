@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 46
+*.zip
+img_artigos
+logo
+slides
+temas
+wordpress
+
+END

@@ -1,0 +1,512 @@
+/* CSS Document */
+
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	background:#1e5476;
+	
+}
+
+.Estrutura #geral{
+	position:absolute;
+	left:50%;
+	margin-left: -495px;
+	width:990px;	
+	background:#006699 url(../img/meiomeio.jpg) repeat-y;
+}
+
+.Estrutura #header{
+	background:#3C0;
+}
+
+.txt{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	line-height:18px;
+}
+
+.Estrutura #menuEsq{
+	float: left;
+	width: 145px;
+	margin-left:-2px;
+	/*border:#000 1px solid;*/
+}
+
+.Estrutura #menuDir{
+	float:right;
+	width: 166px;
+	border-left:#035888 1px solid;
+}
+
+.Estrutura #meio{
+	padding:0px 170px 10px 140px;
+	text-align:justify;
+	/*border:#F00 1px solid;*/ 
+}
+
+.Estrutura #rodape{
+	padding-top:10px;
+	clear:both;
+	background:url(../img/fundorodape.jpg) repeat-x;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-align:center;
+	height:80px;
+}
+
+#meioconteudo{
+	width:655px;
+	padding-left: 15px;
+	margin-top:-17px;
+	
+}
+
+#cantocima{
+	background:url(../img/supmeio.jpg) no-repeat top right;
+	height:30px;
+	display:block;	
+}
+
+#cantodir{
+	background:url(../img/supdir.jpg) no-repeat center top;
+	display:block;
+}
+
+.dir_tit{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	text-align:center;
+	margin-top: -3px;
+}
+
+.noticia{
+	background:url(../img/meiodir.jpg) repeat-y center top;	
+}
+
+img{
+	border:0px;	
+}
+
+.compra{
+	border:1px solid #818181;
+	float:left;
+	width:645px;
+	padding-left:4px;
+	margin-bottom:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+	font-size:12.5px;
+	margin-top:10px;
+	margin-left:4px;
+}
+
+.propaganda{
+	display:block;
+	background:url(../img/propaganda.jpg) no-repeat center center;
+	height:360px;
+	width:660px;
+	margin-bottom:20px;
+}
+
+.servicos{
+	background:url(../img/servicos.png) no-repeat top left;
+	width:660px;
+	height:243px;
+	border: #003366 1px dashed;
+}
+
+.pagtoDigital{
+	background:url(../img/shopcart.png) no-repeat top left;
+	width:660px;
+	height:150px;
+	border: #003366 1px dashed;
+}
+
+.titPagtoDigital{
+	float:right;
+	padding:5px 5px 0 0;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+	font-size:12px;
+	color:#990000;
+	font-weight:bold;
+	width:450px;
+	text-align:center;
+}
+
+#selo_reputacao{
+	float:left; padding-right: 15px;
+}
+
+.titserv{
+	float:right;
+	padding:10px 5px 0 0;
+	font-family:Verdana, Arial, Helvetica, sans-serif
+	font-size:15px;
+	color:#990000;
+	font-weight:bold;
+	width:450px;
+	text-align:center;
+}
+
+.descManut{
+	font-family:Arial, Helvetica, sans-serif;
+	width:480px;
+	padding-right:5px;
+	padding-top:15px;
+	float:right;
+	font-size:12.5px;
+}
+
+li{
+	list-style:none;
+	margin-left:-19px;
+}
+
+.fdmenu{
+	margin-left: -35px;
+	margin-right:4px;
+	padding: 5px 0px 5px 10px;;
+	font-size:12px;
+	font-weight:bold;
+	color:#FFF;
+	background:url(../img/fdmenu.png) no-repeat center center;
+}
+
+.titMenu{
+	background:url(../img/fundomenutit.jpg) no-repeat top center;
+	text-align:center;
+	font-weight:bold;
+	font-size:12px;
+	padding:5px 0px 5px 0px;
+	color:#FFF;
+}
+
+/* Estilo do menu Esquerdo */
+
+a.menu:link {
+	text-decoration:none;
+	color:#000;
+	font-size:13px;
+}
+
+a.menu:visited{
+	text-decoration:none;
+	color:#000;
+	font-size:13px;
+}
+
+a.menu:hover{
+	color:#06C;
+	font-size:13px;
+}
+
+a.menu:active{
+	color:#000;
+	text-decoration:none;
+	font-size:13px;
+}
+
+
+
+
+/* Links Gerais */
+
+a{
+	color:#000;
+	text-decoration:none;
+	font-size:11px;
+}
+
+a:hover{
+	color:#000;	
+	text-decoration:underline;
+}
+
+
+/*Efeitos do meio */
+
+.box{
+	width:150px;
+	background: url(../img/meiomenu.jpg) repeat-y center center;
+
+}
+
+.box span.superior, .box span.inferior{
+	display:block;	
+	height:15px;
+}
+
+.box span.superior{
+	background:url(../img/supmenu.jpg) no-repeat center top;
+}
+
+.box span.inferior{
+	background: url(../img/infmenu.jpg) no-repeat center bottom;	
+}
+
+.propmeio{
+	padding-left: 240px;
+	color:#FFF;
+	font-weight:bold;
+	font-size: 13px;
+	line-height: 18px;
+	width:220px;
+	float:left;
+	padding-top: 55px;
+
+}
+
+.proptit{
+	width: 450px;
+	float:right;
+	padding-right: 15px;
+	text-align:center;
+	font-weight:bold;
+	font-size:14px;
+	padding-top:30px;
+	color:#FFF;
+}
+
+.propBotao{
+	position:relative;
+	float:right;
+	padding-right: 62px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	color:#FFF;
+	font-weight:bold;
+	height:30px;
+	padding-top: 167px;
+
+}
+
+.meioservicos{
+	background:url(../img/servicos.jpg) no-repeat center center;
+	width:280px;
+	height:170px;
+	display:block;
+	margin-left: 5px;
+	padding-left:5px;
+	padding-right: 15px;
+	font-size:13.5px;
+	line-height: 20px;
+	/*border:#000 1px solid;*/
+}
+
+.meioQuadTit{
+	color:#000000;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	text-align:center;
+	padding-top: 2px;
+	margin-bottom: 5px;
+	margin-left: -20px;
+	font-weight:bold;
+}
+
+.fundoServMeio{
+	position:relative;
+	background:#EEE;
+	height: 350px;
+	padding-top: 10px;
+}
+
+.usuaPainel{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:25px;
+	font-weight:bold;
+}
+
+.botao{
+	padding-left:55px;	
+}
+
+.titPesquisa{
+	padding-top:15px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight:bold;
+	text-align:center;
+}
+
+
+
+/*Institucional */
+
+.initTit{
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	padding-top: 10px;
+	text-decoration:underline;
+	font-weight:bold;
+}
+
+.titus{
+	margin-left:4px;
+	padding:5px;
+	background:#069;
+	color:#FFF;
+	text-align:center;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+}
+
+.cima{
+	width:660px;
+	background:url(../img/cima.jpg) no-repeat center bottom;
+	display:block;
+	height:24px;
+
+}
+
+.meio{
+	width:660px;
+	background:url(../img/meio.jpg) repeat-y center center;
+
+}
+
+.baixo{
+	width:660px;
+	background:url(../img/baixo.jpg) no-repeat center top;
+	height:24px;
+
+}
+
+.textoMeio{
+	padding:0px 15px 0px 15px;
+	font-size:13px;
+	
+}
+
+p{
+	text-align:justify;
+}
+
+/* Menu cima */
+.topoCima{
+	position:relative;
+	height:177px;
+	overflow:hidden;
+}
+
+.fundoMenu{
+	height:46px;
+	background:url(../img/menufundo.jpg) no-repeat top center;
+}
+
+.links{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:15px;
+	padding-top:20px;
+	color:#FFF;
+	font-weight:bold;
+}
+
+.espaco{
+	padding-left: 10px;
+	padding-right: 10px;
+	display:inline-block;
+}
+
+a.linkcima:link{
+	color:#FFF;
+	text-decoration:none;
+	font-size:15px;
+}
+
+a.linkcima:visited{
+	color:#FFF;
+	text-decoration:none;
+	font-size:15px;
+}
+
+a.linkcima:hover{
+	color:#039;
+	background:#FFF;
+	font-size:15px;
+}
+
+a.linkcima:active{
+	color:#FFF;
+	
+}
+
+/* Contato.php */
+
+.nomeContato{
+	float:left;
+	width:100px;
+	border:#000 1px solid;
+	line-height:30px;	
+}
+.iconeladocontato{
+	background:url(../img/tel.jpg) no-repeat center left;
+	float:right;
+	width:200px;
+	height:100px;
+	margin-right:100px;
+	padding-left:55px;
+	padding-top:20px;
+}
+.iconeladapesquisa{
+	background:url(../img/lupa.jpg) no-repeat center left;
+	float:right;
+	width:220px;
+	height:100px;
+	margin-right:80px;
+	padding-left:55px;
+	padding-top:20px;
+}
+
+.log{
+	color:#C00;
+}
+
+.descCaracteristicas{
+	width: 630px;
+	font-size:13px;
+	margin-left:10px;
+	line-height:20px;
+	padding: 5px;
+}
+
+.descricaoFunc{
+	border:1px dashed #069;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:13px;
+	padding:5px;
+	margin-left:10px;
+	width:300px;	
+}
+
+/***********************************Screenshots Galeria *********************************************/
+
+.stepcarousel{
+position: relative; /*leave this value alone*/
+border: 1px solid #069;
+overflow: scroll; /*leave this value alone*/
+width: 270px; /*Width of Carousel Viewer itself*/
+height: 200px; /*Height should enough to fit largest content's height*/
+}
+
+.stepcarousel .belt{
+position: absolute; /*leave this value alone*/
+left: 0;
+top: 0;
+}
+
+.stepcarousel .panel{
+float: left; /*leave this value alone*/
+overflow: hidden; /*clip content that go outside dimensions of holding panel DIV*/
+margin: 10px; /*margin around each panel*/
+width: 250px; /*Width of each panel holding each content. If removed, widths should be individually defined on each content DIV then. */
+}
+
+.imgtm{
+	width:245px;
+	height:auto;
+}

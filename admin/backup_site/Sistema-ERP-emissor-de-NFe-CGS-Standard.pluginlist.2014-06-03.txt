@@ -1,0 +1,53 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.1.2
+  https://marketpress.com/product/backwpup-pro/
+  Blog Name: Sistema ERP emissor de NFe - CGS Standard
+  Blog URL: http://cybersis.com.br
+  Generated on: 2014-06-03 15:34.37
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet (v.3.0.0) from Automattic
+	http://akismet.com/
+BackWPup (v.3.1.2) from Inpsyde GmbH
+	https://marketpress.com/product/backwpup-pro/
+Better WordPress Minify (v.1.2.3) from Khang Minh
+	http://betterwp.net/wordpress-plugins/bwp-minify/
+CF Post Formats (v.1.1) from crowdfavorite
+	http://crowdfavorite.com
+Contact Form 7 - Customfield in mail (v.1) from Jeffrey van der Heide
+	
+Exploit Scanner (v.1.3.3) from Donncha O Caoimh
+	http://ocaoimh.ie/exploit-scanner/
+LayerSlider WP (v.5.1.1) from Kreatura Media
+	http://codecanyon.net/user/kreatura/
+MailChimp (v.1.4.1) from MailChimp and Crowd Favorite
+	http://www.mailchimp.com/plugins/mailchimp-wordpress-plugin/
+Post Types Order (v.1.6.8) from Nsp Code
+	http://www.nsp-code.com
+Revolution Slider (v.2.2.1) from ThemePunch
+	http://www.themepunch.com/codecanyon/revolution_wp/
+WooCommerce (v.2.1.10) from WooThemes
+	http://www.woothemes.com/woocommerce/
+wpcu3er (v.0.80) from MADEBYPLAY
+	http://getcu3er.com/
+
+Active plugins:
+------------------------------
+Akismet
+BackWPup
+Better WordPress Minify
+CF Post Formats
+Contact Form 7 - Customfield in mail
+Exploit Scanner
+LayerSlider WP
+MailChimp
+Post Types Order
+Revolution Slider
+WooCommerce
+wpcu3er
+
+Inactive plugins:
+------------------------------

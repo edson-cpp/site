@@ -1,0 +1,252 @@
+	*** Versão 0.8.0 ***
+********************************************************
+NEW - 10/03/2009 - Colocar Shift+PageDown e Shift+PageUp para mudar as tabs
+NEW - 11/03/2009 - Validação de CPF/CNPJ
+NEW - 12/03/2009 - Colocar teclas de atalho para as principais funções:
+	F2 - Novo, F3 - Alterar, Ctrl+X - Excluir, Ctrl+S - Salvar, Ctrl+Z - Cancelar/Desfazer
+UPD - 12/03/2009 - Mudar o cursor para os textbox da grid das telas de crédito e débito.
+NEW - 12/03/2009 - Gravar última compra do cliente
+NEW - 12/03/2009 - Gravar data de atualização de cadastro do cliente
+NEW - 13/03/2009 - Gravar situação do cliente quanto ao crédito na primeira iniciação do sistema do dia.
+NEW - 26/03/2009 - Permite alterar a imagem de fundo do desktop
+UPD - 12/05/2009 - Cadastro de clientes: Em cadastro de endereço: residencial como principal, esc para sair
+UPD - 22/05/2009 - Lançamento de Crédito e de Débito: Permite lançar crédito ou débito baixado.
+UPD - 22/05/2009 - Fazer associação entre Grupos e SubGrupos, ou seja, tornar o SubGrupo dependente do Grupo
+UPD - 25/05/2009 - Cadastro de Produtos: Preços: Percentual bruto e líquido com 4 decimais
+UPD - 02/06/2009 - Mudar o nome dos relatórios Contas a Pagar e Contas a Receber para Débitos e Créditos respectivamente
+UPD - 04/06/2009 - Fechamento da venda - Em parcelamento de crediário mudar data do primeiro vencimento para 30 dias como padrão
+UPD - 09/06/2009 - Separar Conta Orçamentária de saída e de entrada
+UPD - 09/07/2009 - Controle de cheques: Quando não há emitente registrado é exibido o nome do cliente como emitente.
+NEW - 10/07/2009 - Lançamento de cheques na venda
+NEW - 10/07/2009 - Lançamento de cheques recebidos e não lançados
+NEW - 10/07/2009 - Respeitar os limites de compra
+UPD - 15/07/2009 - Cadastro de clientes: colocar a data de registro da empresa no lugar de data de nascimento para pessoa jurídica
+UPD - 15/07/2009 - Cadastro de clientes: reajustados os campos conforme tipo de pessoa, jurídica ou fisica, tornando o cadastro mais visualmente limpo.
+UPD - 15/07/2009 - Cadastro de clientes: adicionar campo data de abertura de conta na aba cobrança
+NEW - 28/07/2009 - Relatório de Contas a Receber
+UPD - 19/08/2009 - Relatório de produtos: Permite imprimir somente produtos com estoque igual e/ou abaixo do mínimo
+UPD - 20/08/2009 - Trocar usuário em tempo de execução
+NEW - 24/08/2009 - Fluxo de caixa, Fluxo programado
+UPD - 10/09/2009 - Reestruturação dos formulários
+NEW - 10/09/2009 - Efeito "Expandir Formulário", vertical, horizontal e ambos
+UPD - 30/09/2009 - Relatório de débitos: Inserido filtro por data de pagamento
+UPD - 24/10/2009 - Recebimento das Parcelas do Crediário - Permitir desconto
+UPD - 15/11/2009 - Mensagens de tratamento de erros aprimorada. No lugar de exibir sempre "Erro inesperado", será exibido o código e a descrição do erro.
+UPD - 18/11/2009 - Recebimento das Parcelas do Crediário - Permitir recebimento com cheque
+UPD - 08/12/2009 - Unificar Pedido e Pré-Venda/Orçamento
+UPD - 13/12/2009 - Sistema: mudar a pasta de instalação do sistema de Salisoft para Cybersis.
+UPD - 13/12/2009 - Salvar pasta de backup
+NEW - 14/12/2009 - Cadastro de Tabelas de Preços
+UPD - 17/12/2009 - Configurada Tabela de Preços no Cadastro de Clientes
+UPD - 17/12/2009 - Colocar referência(Part Number) no Cadastro de Produtos
+UPD - 19/12/2009 - Configurada Tabela de Preços no Cadastro de Produtos
+NEW - 27/12/2009 - Configurar tabelas de preço
+UPD - 01/01/2010 - Na localização de produtos colocar filtro por grupo, subgrupo, fabricante
+UPD - 31/01/2010 - Aprimoramento da tela de localização
+UPD - 31/01/2010 - Colocar campo na tela de localização para filtrar ou localizar itens
+UPD - 03/02/2010 - Possibilitar tornar o produto inativo
+UPD - 03/02/2010 - Alterar o formato dos preços para 4 casas decimais
+UPD - 08/02/2010 - Possibilidade de informar diferença de icms para seu estado
+UPD - 12/02/2010 - Cadastro de produtos: colocar campos para calcular índice: Frete, IPI, % Lucro
+NEW - 18/02/2010 - Cadastro de condições de pagamento
+UPD - 21/05/2010 - Dividir o sistema em módulos
+NEW - 24/05/2010 - Impressão de orçamento em formato visual
+NEW - 26/05/2010 - Relatório de ordem de serviço
+UPD - 26/05/2010 - Desativar opção funções para mecânica da tela de configurações por padrão
+UPD - 04/06/2010 - Pedido e orçamento deve aparecer o número e uma forma de busca
+UPD - 05/06/2010 - Fazer a permissão retornar direto verdadeiro ou falso
+UPD - 06/06/2010 - Nova Toolbar
+NEW - 12/06/2010 - Criar impressão de orçamento em formato visual
+NEW - 15/06/2010 - Fechamento diário
+
+BUG - 0045
+	Data de registro: 23/03/2009
+	Data de correção: 09/04/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Localizar Ordem de Serviço
+	Descrição: Não aparece a descrição do equipamento.
+	Ocorrência: Ocorre ao localizar uma OS.
+	Solução: Corrigido
+BUG - 0048
+	Data de registro: 20/04/2009
+	Data de correção: 20/04/2009
+	Nível crítico: Baixo
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Lançamento de Créditos
+	Descrição: Em descrição do Tipo de Documento é exibida somente a primeira letra.
+	Ocorrência: Ocorre ao localizar um crédito já existente.
+	Solução: Corrigido
+BUG - 0049
+	Data de registro: 01/05/2009
+	Data de correção: 04/06/2009
+	Nível crítico: Baixo
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Entrada de Produtos
+	Descrição: Não desativa a grade
+	Ocorrência: Ocorre quando um lançamento é salvo fazendo com que o próximo seja prejudicado.
+	Solução: Desativar a grade quando salvar ou cancelar documento.
+BUG - 0051
+	Data de registro: 11/05/2009
+	Data de correção: 04/06/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Relatório de vendas
+	Descrição: Exibe valor total incorreto
+	Ocorrência: Ocorre ao imprimir relatório analítico.
+	Solução: Criado cursor para cálculo do total em separado devido ao fato que o cursor analítico carrega outros valores.
+BUG - 0052
+	Data de registro: 03/06/2009
+	Data de correção: 04/06/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Emissão de Nota Fiscal
+	Descrição: Não localiza pedido
+	Ocorrência: Ocorre ao digitar número do pedido ou nome do cliente.
+	Solução: A função estava buscando o nome quando era digitado o código e vice-versa, foi invertido e está OK.
+BUG - 0053
+	Data de registro: 03/06/2009
+	Data de correção: 04/06/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Recebimento das Parcelas do Crediário
+	Descrição: Não permite selecionar a parcela
+	Ocorrência: Ocorre quando é baixada a parcela de um cliente e a seguir tenta-se baixar uma parcela de outro cliente.
+	Solução: O cliente continuava selecionado mesmo depois de terminada a operação, agora a variável que contém o cliente selecionado é zerada no fim da operação.
+BUG - 0055
+	Data de registro: 24/06/2009
+	Data de correção: 24/06/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Cadastro de Clientes
+	Descrição: Abre a localização de cliente no lugar de banco, transportador e vendedor.
+	Ocorrência: Ocorre ao pressionar F5 para localizar banco, transportador ou vendedor.
+	Solução: Retirado o comando para localizar o cliente do evento KeyPress do formulário.
+BUG - 0056
+	Data de registro: 25/06/2009
+	Data de correção: 25/06/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Sistema
+	Descrição: É necessário desativar as funções de mecãnica, auto-center a auto-peças para ativar a função de bloqueio de venda por restrição de crédito do cliente.
+	Ocorrência: Ocorre ao tentar efetuar a venda.
+	Solução: A função de bloqueio foi colocada para fora da condição de ativação de mecânica.
+BUG - 0057
+	Data de registro: 23/07/2009
+	Data de correção: 23/07/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.4
+	Versão de correção: 0.8.0
+	Onde ocorre: Cadastro de clientes
+	Descrição: Não atualiza dados do endereço.
+	Ocorrência: Ocorre ao fazer alguma alteração nos endereços cadastrados.
+	Solução: Ao localizar o endereço principal o sistema retirava o cursor da posição do registro.
+		Agora o cursor é reposicionado após localizar o principal.
+BUG - 0046
+	Data de registro: 31/03/2009
+	Data de correção: 24/08/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.3
+	Versão de correção: 0.8.0
+	Onde ocorre: Fluxo de Caixa
+	Descrição: Valores aparecem integralmente sem descontos e acréscimos.
+	Ocorrência: Ocorre ao exibir o Fluxo de Caixa.
+	Solução: Foi criada uma nova tela de Fluxo de Caixa totalmente remodelada
+BUG - 0061
+	Data de registro: 08/09/2009
+	Data de correção: 08/09/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.7
+	Versão de correção: 0.8.0
+	Onde ocorre: Pré-Venda/Orçamento
+	Descrição: Operator/operand type mismatch.
+	Ocorrência: Ocorre quando é usado o código interno.
+	Solução: Verificado o tipo de código usado para fazer a filtragem correta.
+BUG - 0062
+	Data de registro: 08/09/2009
+	Data de correção: 08/09/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.7
+	Versão de correção: 0.8.0
+	Onde ocorre: Baixar Créditos
+	Descrição: Window 'BAIXACRED' has not been defined.
+	Ocorrência: Ocorre quando é dado foco na tela a partir do menu Janelas.
+	Solução: A função de criação do menu foi reescrito a partir da classe primária do formulário, extinguindo assim quaisquer erros nos nomes dos formulários.
+BUG - 0063
+	Data de registro: 08/09/2009
+	Data de correção: 08/09/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.7
+	Versão de correção: 0.8.0
+	Onde ocorre: Baixar Débitos
+	Descrição: Window 'BAIXADEB' has not been defined.
+	Ocorrência: Ocorre quando é dado foco na tela a partir do menu Janelas.
+	Solução: A função de criação do menu foi reescrito a partir da classe primária do formulário, extinguindo assim quaisquer erros nos nomes dos formulários.
+BUG - 0064
+	Data de registro: 09/09/2009
+	Data de correção: 09/09/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.7
+	Versão de correção: 0.8.0
+	Onde ocorre: Lançamento de Créditos
+	Descrição: Window 'LANCRED' has not been defined.
+	Ocorrência: Ocorre quando é dado foco na tela a partir do menu Janelas.
+	Solução: A função de criação do menu foi reescrito a partir da classe primária do formulário, extinguindo assim quaisquer erros nos nomes dos formulários.
+BUG - 0065
+	Data de registro: 09/09/2009
+	Data de correção: 09/09/2009
+	Nível crítico: Medio
+	Versão afetada: 0.7.7
+	Versão de correção: 0.8.0
+	Onde ocorre: Lançamento de Débitos
+	Descrição: Window 'LANDEB' has not been defined.
+	Ocorrência: Ocorre quando é dado foco na tela a partir do menu Janelas.
+	Solução: A função de criação do menu foi reescrito a partir da classe primária do formulário, extinguindo assim quaisquer erros nos nomes dos formulários.
+
+	*** Versão 0.8.4 ***
+********************************************************
+BUG - 0089
+	Data de registro: 18/10/2010
+	Data de correção: 18/10/2010
+	Data de publicação: 18/10/2010
+	Nível crítico: Medio
+	Versão afetada: 0.8.3
+	Versão de correção: 0.8.4
+	Onde ocorre: Lançamento de débitos
+	Descrição: Erro crítico ao tentar localizar
+	Ocorrência: Ocorre quando se tenta localizar um débito previamente lançado
+	Solução: Corrigida referência de busca da localização
+
+	*** Versão 0.8.7 ***
+********************************************************
+BUG - 0090
+	Data de registro: 25/10/2010
+	Data de correção: 25/10/2010
+	Data de publicação: 25/10/2010
+	Nível crítico: Alto
+	Versão afetada: 0.8.5
+	Versão de correção: 0.8.7
+	Onde ocorre: Orçamento
+	Descrição: Grava o número de orc errado quando é regravado
+	Ocorrência: Regravando os dados do orçamento junto com o último orçamento gravado, misturando os itens
+	Solução: Localizar o número correto de orçamento que estava escorregando para o final da tabela
+
+		*** Versão 0.8.8 ***
+********************************************************
+UPD - 08/11/2010 - Frente de Caixa: Exibe unidade de medida na tela e no recibo
+UPD - 08/11/2010 - Fechamento Diário: Permite imprimir valores
+_______________________________________________________________________________
+°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+
+Nível crítico:
+Alto: Provoca ou pode provocar perda e/ou gravação incorreta de dados com ou sem erros aparentes.
+Médio: Provoca erros no sistema mas não provoca perda de dados.
+Baixo: Não provoca erros aparentes e não provoca perda de dados.

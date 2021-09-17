@@ -1,0 +1,428 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Impact Web Audio - Streaming Web Audio Made Easy! </TITLE>
+
+<style type="text/css">
+<!--
+h1 { font-family: Tahoma; font-size: 16pt; letter-spacing: -1px; font-weight: bold }
+.body { font-family: Verdana; font-size: 11pt }
+li { font-family: Verdana; font-size: 10pt; margin-bottom: 10pt; }
+.bodysmall { font-family: Verdana; font-size: 10pt }
+.tt { border-width: 1px; border-color: #000000; border-style: solid; background-color: #ffffbc; }
+textarea { font-family: Verdana; font-size: 10pt }
+h2 { font-family: Tahoma; font-size: 13pt; letter-spacing: -1px; font-weight: bold }
+.order { font-family: Tahoma; font-size: 14pt; letter-spacing: -1; font-weight: bold }
+
+.style1 {	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #333333;
+}
+.style2 {font-family: Verdana, Arial, Helvetica, sans-serif; color: #333333; }
+-->
+</style>
+
+</HEAD>
+
+<BODY TOPMARGIN="0" MARGINHEIGHT="0" BACKGROUND="images/bg.jpg">
+
+<CENTER>
+
+
+
+<TABLE WIDTH="700" STYLE="border-right: 1px; border-left: 1px; border-top: 0px; border-bottom: 0px; border-color: #000000; border-style: solid;" CELLPADDING="0" CELLSPACING="0">
+<TR BGCOLOR="#FFFFFF"><TD><IMG SRC="images/header.jpg"></TD></TR>
+
+<TR BGCOLOR="#FFFFFF"><TD ALIGN="CENTER">
+<TABLE WIDTH="640" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR><TD BGCOLOR="#FFFFFF">
+<CENTER><FONT COLOR="#DD0000"><H1>&nbsp;</H1></FONT>
+</CENTER>
+</TD></TR></TABLE>
+</TD></TR>
+
+<TR BGCOLOR="#FFFFFF"><TD ALIGN="CENTER" VALIGN="TOP">
+<!-- BEGIN CONTENT TABLE -->
+<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'times new roman'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+<span class="Apple-style-span" style="border-collapse: collapse; text-align: -webkit-center; ">
+<table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="93%" id="AutoNumber2" style="border-collapse: collapse; ">
+	<tr>
+		<td width="100%">
+		<h1><span style="font-weight: 400; "><font size="3" face="Verdana">
+		IMPACT WEBAUDIO... Como colocar áudio em sites. Mensagem de voz</font></span></h1>
+		<p><font face="Verdana" size="2">Se você não está usando esta ferramenta 
+		você pode estar deixando de ganhar muito dinheiro em seus negócios na 
+		internet...</font></p>
+		<font face="Verdana">
+		<h2 align="center"><b><font size="5" color="#CC3300">&quot;Descubra como 
+		colocar uma mensagem de áudio em seu web site... Sua própria mensagem de 
+		voz de uma maneira tão simples como contar 1,2,3...&quot;</font></b></h2>
+		<p align="center">&nbsp;</p>
+		<p align="center"><b><font size="4">Use o mesmo segredo descoberto e 
+		utilizado pelos maiores negociantes da internet e multiplique a taxa de 
+		conversão de seu web site em pelo menos 100% apenas colocando uma 
+		mensagem de áudio gravada por você mesmo(a)...</font></b></p>
+		<p align="center"><span style="background-color: rgb(255, 255, 0); ">
+		<font size="4"><b>Esta ferramenta<span class="Apple-converted-space">&nbsp;</span><u>tem 
+		feito</u><span class="Apple-converted-space">&nbsp;</span>com que centenas de 
+		pessoas realizem mais negócios na internet !</b></font></span></p>
+		<p align="justify"><font size="2">Talvez você pode estar se perguntando: 
+		Mas isso não é para mim. Isso deve ser muito complicado. Eu não tenho 
+		conhecimento técnico.</font></p>
+		<p align="justify"><b><font size="2">Esqueça todas estas perguntas 
+		acima. Leia todo o site... porque a<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 0); ">única 
+		coisa</span><span class="Apple-converted-space">&nbsp;</span>que você vai 
+		precisar é estar<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 0); ">Disposto 
+		a Vencer !</span></font></b></p>
+		<p align="center">
+		<span style="font-weight: 700; background-color: rgb(255, 255, 0); ">
+		<font size="2">Na realidade, Você Vai Ficar Maravilhado(a) !</font></span></p>
+		<p align="center">
+		<img border="0" src="images/box-dl.jpg" width="180" height="200"></p>
+		<p align="center">&nbsp;</p>
+		<p align="center">&nbsp;</p>
+		<div align="center">
+			<center>
+			<table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="73%" id="AutoNumber14" height="193" style="border-collapse: collapse; ">
+				<tr>
+					<td width="100%" colspan="3" height="9">
+					<img border="0" src="toptestimonial.jpg" width="405" height="9"></td>
+				</tr>
+				<tr>
+					<td width="5%" bgcolor="#EBEBEB" height="175">&nbsp;</td>
+					<td width="90%" bgcolor="#EBEBEB" height="175">
+					<font face="Verdana">
+					<p align="justify"><font face="Verdana" size="2">O<span class="Apple-converted-space">&nbsp;</span><b>Impact 
+					WebAudio</b><span class="Apple-converted-space">&nbsp;</span>é um 
+					programa<span class="Apple-converted-space">&nbsp;</span><u>fantástico 
+					e completo!</u><span class="Apple-converted-space">&nbsp;</span>Agora 
+					qualquer um pode colocar áudio em seu website, em apenas 
+					alguns minutos. Incrivelmente fácil de usar. Com o uso do 
+					áudio, a taxa de conversão de um dos meus cursos<span class="Apple-converted-space">&nbsp;</span><u>aumentou 
+					em mais de 400% apenas no primeiro dia</u>.<span class="Apple-converted-space">&nbsp;</span><b>Realmente 
+					valeu a pena !</b></font></p>
+					</font>
+					<p><font face="Verdana" size="2"><b>Edson Aguiar -<span class="Apple-converted-space">&nbsp;</span></b><a style="text-decoration: none" href="http://cybersis.ganhardinheiroagora.com"><span style="color: #0000FF">http://cybersis.ganhardinheiroagora.com</span></a></font></td>
+				</tr>
+			</table>
+			</center></div>
+		</font></td>
+	</tr>
+</table>
+</span></span>&nbsp;<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'times new roman'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; "><span class="Apple-style-span" style="border-collapse: collapse; "><font face="Arial, Helvetica, Sans Serif"><p align="justify">
+<font face="Verdana" size="2">tá<span class="Apple-converted-space">&nbsp;</span><i><u>mais 
+que comprovado</u></i>, que a internet é o negócio do presente e o negócio do<span class="Apple-converted-space">&nbsp;</span><b>futuro.</b><span class="Apple-converted-space">&nbsp;</span>Diariamente, 
+centenas de pessoas, estão abrindo suas mentes, e estão entendendo esta grande 
+oportunidade de negócios que é a internet.</font></p>
+<p align="justify"><font face="Verdana" size="2">A maioria das pessoas receiam 
+em pagar por serviços ou por produtos de uma pessoa que eles não conhecem, e 
+cuja a voz nunca ouviram. Quando você adiciona uma voz em seu site, seus 
+clientes podem conectar com você em um<b>nível mais pessoal</b><span class="Apple-converted-space">&nbsp;</span>e 
+superar uma das maiores barreiras&nbsp; de quem compra algum produto ou serviço na 
+internet:<span class="Apple-converted-space">&nbsp;</span><b><span style="background-color: rgb(255, 255, 0); ">A 
+Credibilidade.</span></b></font></p>
+<p align="justify"><font face="Verdana" size="2">Olá, sou Sidiney Gomes do site 
+sucessoweb. No marketing na internet,<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 0); "><i><b>a 
+credibilidade é a palavra chave para o Sucesso !</b></i></span><span class="Apple-converted-space">&nbsp;</span>E 
+quem não gosta e realizar bons negócios ?</font></p>
+<p align="justify"><font face="Verdana" size="2">Mas, existe um grande problema 
+que tem<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 0); "><b>impedido 
+muitas pessoas honestas e sinceras como você</b></span><span class="Apple-converted-space">&nbsp;</span>de 
+realizar ótimos negócios. A falta de credibilidade. Não por sua causa, mas sim, 
+por causa daquelas pessoas que negociam através da mentira e da fraude. E não 
+são a excessão, não é mesmo ?</font></p>
+<p align="justify"><font face="Verdana" size="2">Estas pessoas sempre existirão 
+na internet ! Então, você tem 2(duas) opções: Ou você desiste de tudo e perde a 
+oportunidade de aumentar o seu volume de negócios e mudar de vida. Ou, sempre 
+trabalhe para<span class="Apple-converted-space">&nbsp;</span><i><u>aumentar a sua 
+credibilidade</u></i>e, consequentemente, a cada dia que passa, chegar cada vez 
+mais próximo do sucesso absoluto.</font></p>
+<p align="justify"><font face="Verdana" size="2"><b>
+<span style="font-style: italic; background-color: rgb(255, 255, 0); ">Eu te 
+aconselho a escolher a segunda opção !</span><span style="font-style: italic; background-color: rgb(255, 255, 255); ">&nbsp;<span class="Apple-converted-space">&nbsp;</span></span></b><span style="background-color: rgb(255, 255, 255); ">Foi 
+a mesma que escolhi...</span></font></p>
+<p align="justify"><b><font face="Verdana" size="2">O maior segredo do sucesso 
+contínuo na internet está aqui :</font></b></p>
+<ul>
+	<li>
+	<p align="justify"><b><font face="Verdana" size="2">Credibilidade.</font></b></li>
+</ul>
+<ul>
+	<li>
+	<p align="justify"><b><font face="Verdana" size="2">Honestidade.</font></b></li>
+</ul>
+<ul>
+	<li>
+	<p align="justify"><b><font face="Verdana" size="2">Transparência.</font></b></li>
+</ul>
+<p align="justify"><font face="Verdana" size="2" color="#FF0000">Use estes 3 
+Segredos e você<span class="Apple-converted-space">&nbsp;</span><u>Sempre Estará no 
+Caminho Certo.</u></font></p>
+<p align="justify"><font face="Verdana" size="2">Não importa somente que você 
+tenha um ótimos textos,&nbsp; ótimas imagem, ou mesmo ótimos gráficos.<span class="Apple-converted-space">&nbsp;</span><b>Nada 
+disso se compara ao fato do seu visitante ter a oportunidade de<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 0); ">ouvir 
+uma voz real</span><span class="Apple-converted-space">&nbsp;</span>se dirigindo e 
+ele(a) através de seu site.</b></font></p>
+<ul>
+	<li>
+	<p align="justify"><font face="Verdana" size="2">Um bom texto vende.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="justify"><font face="Verdana" size="2">Uma boa imagem também 
+	vende.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="justify"><font face="Verdana" size="2">Um bom gráfico também 
+	vende.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="justify"><b><font face="Verdana" size="2">
+	<span style="background-color: rgb(255, 255, 0); ">Mas uma<span class="Apple-converted-space">&nbsp;</span><i><u>mensagem 
+	de voz</u></i><span class="Apple-converted-space">&nbsp;</span>Faz seus Negócios<span class="Apple-converted-space">&nbsp;</span><i><u>Decolarem</u></i><span class="Apple-converted-space">&nbsp;</span>como 
+	um Foguete rumo ao Espaço do Sucesso !</span></font></b></li>
+</ul>
+<p align="justify"><b><font face="Verdana" size="2">Agora, imagine só : Faça 
+essa conta de matemática comigo ! É uma matemática um pouco diferente, mas não 
+deixa de ser matemática. Talvez no futuro, vou colocar outro nome !</font></b></p>
+<p align="justify"><b><font face="Verdana" size="2">texto + imagem =<span class="Apple-converted-space">&nbsp;</span><u>talvez</u><span class="Apple-converted-space">&nbsp;</span>um 
+bom negócio.</font></b></p>
+<p align="justify"><b><font face="Verdana" size="2">Agora:</font></b></p>
+<p align="justify"><b><font face="Verdana"><font size="2">TEXTO + IMAGEM +<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 255); ">SUA 
+MENSAGEM DE VOZ</span><span class="Apple-converted-space">&nbsp;</span>=&nbsp;<span class="Apple-converted-space">&nbsp;</span></font><font size="2" color="#FF0000">$$$$$</font></font></b></p>
+<p align="justify"><font face="Verdana" size="2">A segunda conta é bem mais 
+gostosa de se fazer do que a primeira não é mesmo ?</font></p>
+<p align="justify"><font face="Verdana" size="2">Tão gostosa que podemos até 
+repetí-la: Eu amo esta matemática ! E você ??? Acredito que também ama !</font></p>
+<p align="justify"><b><font face="Verdana"><font size="2">TEXTO + IMAGEM +<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 255); ">SUA 
+MENSAGEM DE VOZ</span><span class="Apple-converted-space">&nbsp;</span>=&nbsp;<span class="Apple-converted-space">&nbsp;</span></font><font size="2" color="#FF0000">$$$$$</font></font></b></p>
+</font><font face="Verdana" size="4" color="#CC3300">
+<h2 align="center"><b><font size="4">Uma mensagem de áudio em seu web site pode 
+alavancar imediatamente os seus negócios</font></b></h2>
+</font><font face="Arial, Helvetica, Sans Serif">
+<p align="justify"><font face="Verdana" size="2">Você já reparou, que os 
+melhores negociantes da internet estão usando e abusando deste fantástico 
+produto ? Basta visitar alguns sites internacionais que você verá esta 
+estratégia de mensagem de voz na maioria dos sites.</font></p>
+<p align="justify"><font face="Verdana" size="2">Infelizmente, ainda aqui no 
+Brasil, pouquíssimas pessoas tem descoberto este&nbsp; fantástico Segredo.<span class="Apple-converted-space">&nbsp;</span><b><span style="text-decoration: underline; background-color: rgb(255, 255, 0); ">Você 
+Vai Ser um dos Primeiros.</span></b></font></p>
+<p align="justify"><font face="Verdana" size="2">Vamos usar agora a nossa 
+inteligência fazendo algumas perguntas para nós mesmos ? Acredito que teremos as 
+mesmas respostas ! Vamos lá então ?</font></p>
+<p align="justify"><font face="Verdana" size="2"><u><b>Pergunta 1:</b></u><span class="Apple-converted-space">&nbsp;</span>Por 
+que será que os melhores negociantes da internet em todo o mundo estão usando e 
+abusando desta ferramenta de voz ?</font></p>
+<p align="justify"><font face="Verdana" size="2"><u><b>Pergunta 2:</b></u><span class="Apple-converted-space">&nbsp;</span>Por 
+que será, que a cada dia que passa, mais pessoas aderem a esta ferramenta ?</font></p>
+<p><font face="Verdana" size="2">Acredito que vamos ter a mesma resposta !</font></p>
+<p><font face="Verdana" size="2"><u><b>Resposta:</b></u><span class="Apple-converted-space">&nbsp;</span>Porque 
+os resultados são muito satisfatórios !</font></p>
+<h2 align="center"><i><b><font face="Verdana" color="#CC3300" size="4"><u>&quot;A 
+partir de agora... você empre terá uma grande estratégia e uma grande vantagem 
+competitiva ao colocar uma mensagem de áudio em seu site&quot;</u></font></b></i></h2>
+</font>
+<p><font size="2" face="Verdana">Este software é mais simples e eficaz do que 
+você pode imaginar:</font></p>
+<font face="Arial, Helvetica, Sans Serif">
+<ul>
+	<li>
+	<p align="left"><u><font face="Verdana" size="2">Sem mensalidades.</font></u></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Nenhuma</u><span class="Apple-converted-space">&nbsp;</span>taxa 
+	escondida.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><u><font face="Verdana" size="2">Use-o por quanto tempo 
+	quiser.</font></u></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2">Você não precisa baixar<span class="Apple-converted-space">&nbsp;</span><u>nenhum 
+	programa adicional.</u></font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Instrução passo-a-passo em 
+	português</u>, até uma criança é capaz de usá-lo.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você não precisará</u><span class="Apple-converted-space">&nbsp;</span>de 
+	conhecimento técnico.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Sem limite de tempo</u><span class="Apple-converted-space">&nbsp;</span>para 
+	suas mensagens, elas podem ter 1 minuto ou 1 hora.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você escolhe</u><span class="Apple-converted-space">&nbsp;</span>a 
+	qualidade da gravação.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2">Você pode colocar e editar as 
+	mensagens em<span class="Apple-converted-space">&nbsp;</span><u>poucos minutos.</u></font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Se adapta ao layout de 
+	qualquer&nbsp; site</u><span class="Apple-converted-space">&nbsp;</span>porque tem 
+	várias imagens para personalizar</font></li>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você escolhe</u><span class="Apple-converted-space">&nbsp;</span>o 
+	tamanho da imagem do play que aparecerá em seu site.</font></li>
+</ul>
+</font></span></span>
+<p>
+<img border="0" src="images/impactwebaudio-step1.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step2.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step3.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step4.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step4.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step5.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step6.jpg" width="540" height="372"></p>
+<p>
+<img border="0" src="images/impactwebaudio-step7.jpg" width="540" height="372"></p>
+<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'times new roman'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+<span class="Apple-style-span" style="border-collapse: collapse; ">
+<h2 align="center"><b><font face="Verdana" size="4" color="#CC3300">&quot; Coloque 
+uma mensagem de áudio em seu site e tenha uma<span class="Apple-converted-space">&nbsp;</span><u>Posição 
+de Destaque</u><span class="Apple-converted-space">&nbsp;</span>na internet ! &quot;</font></b></h2>
+<p align="justify"><font face="Verdana" size="2">Ao colocar uma mensagem de voz 
+em seu site com o fantástico programa Impact Web Audio, seu site será<span class="Apple-converted-space">&nbsp;</span><i><u>Destacado</u></i><span class="Apple-converted-space">&nbsp;</span>entre 
+o demais.</font></p>
+<p align="justify"><font face="Verdana" size="2">Não importa o seu ramo de 
+atividade, não importa o tipo de negócio que você desenvolve. O </font>
+<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: times new roman; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px">
+<span class="Apple-style-span" style="border-collapse: collapse">
+<font face="Verdana" size="2">Impact Web Audio</font></span></span><font face="Verdana" size="2">, 
+suprirá todas as suas necessidades.</font></p>
+<p align="justify"><font face="Verdana" size="2">Tenho tanta certeza que você 
+ficará 100% satisfeito(a), e que ele fará para você tudo que estou lhe dizendo, 
+que escrevi um termo de garantia para você como você pode ver abaixo:</font></p>
+<h2 align="center"><b><font face="Verdana" size="4" color="#CC3300">Coloque uma 
+mensagem de áudio em seu web site e aumente seus lucros em mais de 435%</font></b></h2>
+<p align="justify"><font face="Verdana" size="2"><i><b>Exploda</b></i><span class="Apple-converted-space">&nbsp;</span>suas 
+estatísticas de realizações bem sucedidas em seus&nbsp; negócios aplicando a<span class="Apple-converted-space">&nbsp;</span><i><u>Fantástica 
+e Comprovada Estratégia</u></i><span class="Apple-converted-space">&nbsp;</span>de 
+mensagens por voz em seu web site.</font></p>
+<p align="justify"><font face="Verdana" size="2">Com o<span class="Apple-converted-space">&nbsp;</span><span style="background-color: rgb(255, 255, 0); "><u><i>revolucionário 
+programa<span class="Apple-converted-space">&nbsp;Impact Web Audio</span></i></u></span>, 
+você poderá se comunicar com os visitantes e clientes de seu web site através de 
+audio(voz).</font></p>
+<p align="justify"><font face="Verdana" size="2">Todos sabem, que o audio(voz) 
+em um web site,<span class="Apple-converted-space">&nbsp;</span><i><u>faz com que o 
+volume de negócios realizados cresçam numa proporção superior a 435%.</u></i><span class="Apple-converted-space">&nbsp;</span>Esta<span class="Apple-converted-space">&nbsp;</span><i><b>Poderosa 
+Ferramenta</b></i>, contribui, em muito, para a eficiência dos textos e imagens.</font></p>
+<p align="justify"><font face="Verdana" size="2">Por que será que os<span class="Apple-converted-space">&nbsp;</span><u>melhores 
+e mais conceituados</u><span class="Apple-converted-space">&nbsp;</span>negociantes 
+de marketing através da internet de todas as partes do mundo estão usando este 
+recurso de audio em seus web sites ?</font></p>
+<p align="justify"><font face="Verdana" size="2">Seus volumes de negócios 
+realizados e suas contas bancárias respondem bem a esta pergunta!</font></p>
+<p align="justify"><font face="Verdana" size="2">Basta visitar os sites destas 
+pessoas e veremos eles utilizando esta<span class="Apple-converted-space">&nbsp;</span><u>f</u><i><u>antástica 
+estratégia de marketing.</u></i></font></p>
+<p><u><i><b><font face="Verdana" size="2">Veja a diferença que o Impact Web 
+Audio fará em seus negócios:</font></b></i></u></p>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Aumente assustadoramente</u><span class="Apple-converted-space">&nbsp;</span>a 
+	credibilidadede seu site.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><u><font face="Verdana" size="2">Aumente seus lucros em 435% 
+	ou mais...</font></u></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2">Literalmente,<span class="Apple-converted-space">&nbsp;</span><u>você 
+	colocará no &quot;bolso&quot;</u><span class="Apple-converted-space">&nbsp;</span>seus 
+	concorrentes diretos e indiretos.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2">Você terá uma<span class="Apple-converted-space">&nbsp;</span><u>Grande 
+	Vantagem</u><span class="Apple-converted-space">&nbsp;</span>Competitiva.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2">Você terá uma<span class="Apple-converted-space">&nbsp;</span><u>Grande 
+	Quantidade</u><span class="Apple-converted-space">&nbsp;</span>de opções e 
+	estratégias.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você realizará</u><span class="Apple-converted-space">&nbsp;</span>treinamentos<span class="Apple-converted-space">&nbsp;</span><u>eficazes 
+	e individuais por voz</u>, já que, devido à falta de disponibilidade de 
+	horário, não se consegue treinar coletivamente seus downlines em seus 
+	programas de marketing.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você Vai Vencer a maiores 
+	barreiras</u><span class="Apple-converted-space">&nbsp;</span>que impedem muitos 
+	de seus visitantes realizarem negócios com você.</font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você verdadeiramente 
+	Alcançará Resultados Palpáveis e verá Todo o seu trabalho sendo 
+	Recompensado.</u></font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><u><font face="Verdana" size="2">Você será Reconhecido como 
+	um Empreendedor de Sucesso.</font></u></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><font face="Verdana" size="2"><u>Você verá Novos Negócios 
+	surgindo e Sempre Aumentando de forma gradativa.</u></font></li>
+</ul>
+<ul>
+	<li>
+	<p align="left"><b><u><font face="Verdana" size="2">E Muito MAIS...</font></u></b></li>
+</ul>
+</span></span>
+<p>&nbsp;</p>
+<p align="center" class="style1">
+<font face="Verdana" style="font-size: 16pt; font-weight: 700; font-style: italic; background-color: #FFFF00">
+Por Apenas R$ 19,90</font></p>
+<p align="center" class="style1">&nbsp;</p>
+<p><a href="pedido.html">Clique Aqui para Fazer o Seu pedido</a></p>
+<p>&nbsp;</p>
+<p>
+<span class="Apple-style-span" style="border-collapse: separate; color: rgb(0, 0, 0); font-family: 'times new roman'; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertical-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; ">
+<span class="Apple-style-span" style="border-collapse: collapse; font-family: Verdana; font-weight: bold; ">
+Desejando o SEU SUCESSO...</span></span></p>
+<p>
+<!-- END CONTENT TABLE-->
+<BR>
+</TD></TR>
+
+<TR BGCOLOR="#FFFFFF"><TD>
+<IMG SRC="images/footer.jpg">
+<BR>
+</TD></TR>
+</TABLE>
+
+
+</CENTER>
+
+</BODY>
+</HTML>

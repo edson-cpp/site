@@ -1,0 +1,4518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Karma v4.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-25 10:00:46+0000\n"
+"Last-Translator: admin <themes@truethemes.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: archive.php:52
+#: archive.php:56
+#: archive.php:58
+#: archive.php:60
+#@ truethemes_localize
+msgid "Archive for"
+msgstr "Archiv pro"
+
+#: archive.php:54
+#@ truethemes_localize
+msgid "Posts Tagged"
+msgstr "Příspěvky Tagged"
+
+#: archive.php:62
+#@ truethemes_localize
+msgid "Author Archive"
+msgstr "Archiv autora"
+
+#: archive.php:64
+#@ truethemes_localize
+msgid "Blog Archives"
+msgstr "Blog Archiv"
+
+#: archive.php:141
+#: index.php:128
+#: single.php:117
+#@ truethemes_localize
+msgid "Posted by:"
+msgstr "Přidal:"
+
+#: archive.php:200
+#: index.php:187
+#: single.php:233
+#@ truethemes_localize
+msgid "Nothing Found"
+msgstr "Nic Nenalezeno"
+
+#: archive.php:201
+#: index.php:188
+#: single.php:234
+#@ truethemes_localize
+msgid "Sorry, it appears there is no content in this section."
+msgstr "Omlouváme se, zdá se, není žádný obsah v této sekci."
+
+#: attachment.php:43
+#@ truethemes_localize
+msgid "&larr; Previous"
+msgstr "← Předchozí"
+
+#: attachment.php:44
+#@ truethemes_localize
+msgid "Next &rarr;"
+msgstr "Další →"
+
+#: attachment.php:93
+#@ truethemes_localize
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: comments.php:5
+#: page-comments.php:9
+#@ truethemes_localize
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Tento příspěvek je chráněn heslem. Zadejte heslo pro zobrazení komentářů."
+
+#: comments.php:29
+#: page-comments.php:40
+#@ truethemes_localize
+msgid "Your comment is awaiting moderation."
+msgstr "Váš komentář čeká na moderování."
+
+#: comments.php:31
+#: page-comments.php:42
+#@ truethemes_localize
+msgid "reply"
+msgstr "odpovědět"
+
+#: comments.php:31
+#: page-comments.php:42
+#@ truethemes_localize
+msgid "edit"
+msgstr "editovat"
+
+#: comments.php:45
+#: comments.php:51
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:60
+#: page-comments.php:63
+#: page-comments.php:70
+#@ truethemes_localize
+#@ default
+msgid "Comments"
+msgstr "Komentáře"
+
+#: comments.php:45
+#: page-comments.php:63
+#@ truethemes_localize
+msgid "Comment"
+msgstr "Komentář"
+
+#: comments.php:46
+#: page-comments.php:65
+#@ truethemes_localize
+msgid "Trackbacks"
+msgstr "Zpětné odkazy"
+
+#: comments.php:46
+#: page-comments.php:65
+#@ truethemes_localize
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:69
+#: page-comments.php:86
+#@ truethemes_localize
+msgid "Subscribe to Comments"
+msgstr "Přihlásit se k připomínkám"
+
+#: comments.php:100
+#: page-comments.php:118
+#@ truethemes_localize
+msgid "Your Comments"
+msgstr "Vaše komentáře"
+
+#: comments.php:101
+#: page-comments.php:119
+#, php-format
+#@ default
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Musíte být <a href=\"%s\">přihlášeni</a> abys mohl psát komentáře."
+
+#: comments.php:104
+#: page-comments.php:122
+#, php-format
+#@ default
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Přihlášen jako <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Odhlaste se z tohoto účtu\">Odhlásit?</a>"
+
+#: comments.php:109
+#: page-comments.php:127
+#@ truethemes_localize
+msgid "Add a Comment"
+msgstr "Přidat komentář"
+
+#: comments.php:110
+#: page-comments.php:128
+#, php-format
+#@ truethemes_localize
+msgid "Leave a Reply to %s"
+msgstr "Dovolená jeden Namítat %s"
+
+#: comments.php:111
+#: page-comments.php:129
+#@ truethemes_localize
+msgid "click here to cancel reply"
+msgstr "Klikněte zde pro zrušení odpovědi"
+
+#: comments.php:112
+#: page-comments.php:130
+#@ truethemes_localize
+msgid "Add Comment"
+msgstr "Přidat komentář"
+
+#: framework/admin/admin-interface.php:115
+#@ truethemes_localize
+msgid "Site Options"
+msgstr "Možnosti webu"
+
+#: framework/custom-metaboxes.php:44
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Appearance > Menus</a>."
+msgstr "Žádné nabídky nebyly dosud vytvořena. <a href=\"%s\">menu > Vzhled</a> ."
+
+#: framework/custom-metaboxes.php:73
+#@ truethemes_localize
+msgid "Custom Settings"
+msgstr "Vlastní nastavení"
+
+#: framework/custom-metaboxes.php:82
+#@ truethemes_localize
+msgid "Portfolio Full Size URL  <span style=\"font-weight:normal !important;\"><em>(Image, Flash Video, Youtube Video, etc)</em></span>"
+msgstr "Portfolia Full Size URL <em><span style=\\\"font-weight:normal !important;\\\">(Image, Flash Video, Youtube videa, atd.)</span></em>"
+
+#: framework/custom-metaboxes.php:83
+#@ truethemes_localize
+msgid ""
+"<b>Samples:</b><br><br><b>Image:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/project1.jpg<br>\n"
+"<b>YouTube:</b>&nbsp;&nbsp; http://www.youtube.com/watch?v=VKS08be78os<br>\n"
+"<b>Flash:</b>&nbsp;&nbsp; http://www.yourdomain.com/wp-content/uploads/design.swf?width=792&amp;height=294<br>\n"
+"<b>Vimeo:</b>&nbsp;&nbsp; http://vimeo.com/8245346<br>\n"
+"<b>iFrame:</b>&nbsp;&nbsp; http://www.apple.com?iframe=true&amp;width=850&amp;height=500<br>"
+msgstr "<b>Ukázky:</b><br><br><b>Obrázek:</b> http://www.yourdomain.com/wp-content/uploads/project1.jpg <br><b>YouTube:</b>http://www.youtube.com/watch?v=VKS08be78os <br><b>Blesk:</b>http://www.yourdomain.com/wp-content/uploads/design.swf?width=792&amp;height=294 <br><b>Vimeo:</b> http://vimeo.com/8245346 <br><b>iFrame:</b> http://www.apple.com?iframe=true&amp;width=850&amp;height=500<br>"
+
+#: framework/custom-metaboxes.php:93
+#@ truethemes_localize
+msgid "Portfolio Description"
+msgstr "Portfolio Popis"
+
+#: framework/custom-metaboxes.php:94
+#@ truethemes_localize
+msgid "<b>Note:</b> This description will be displayed in the JQuery pop-up."
+msgstr "<b>Poznámka:</b> Tento popis bude zobrazen v JQuery pop-up."
+
+#: framework/custom-metaboxes.php:100
+#@ truethemes_localize
+msgid "Link This Image"
+msgstr "Odkaz na tuto obrázek"
+
+#: framework/custom-metaboxes.php:101
+#@ truethemes_localize
+msgid "Enter a URL if you wish to link this image.<br><b>Sample:</b> &nbsp;http://www.yourdomain.com/about-us"
+msgstr "Zadejte adresu URL, pokud chcete propojit tento obrázek. <br><b>Ukázka:</b> http://www.yourdomain.com/about-us"
+
+#: framework/custom-metaboxes.php:111
+#@ truethemes_localize
+msgid "Post Settings"
+msgstr "Příspěvek nastavení"
+
+#: framework/custom-metaboxes.php:119
+#@ truethemes_localize
+msgid "Featured Media"
+msgstr "Doporučené Media"
+
+#: framework/custom-metaboxes.php:121
+#@ truethemes_localize
+msgid "Blog Posts can easily feature an Image or Video at the top of each post.<br /><br /><strong>1. Featured Image (normal) -</strong> This is the recommended function if not featuring a Video. Simply use the Wordpress <a href=\"#postimagediv\">Featured Image</a> box on the right side of this screen to upload a featured image.<br /><br /><strong>2. Featured Image (external) -</strong> Use the field below to Feature an image which is located on a different web server.<br /><br /><strong>3. Featured Video -</strong> Use the field below to Feature a Video instead of an image."
+msgstr "Příspěvků v blogu lze snadno vybaveny obrázek nebo video v horní části každého příspěvku.<br /><br /><strong>1.. Nejlepší obrazu (normální) -</strong> Toto je doporučená funkce, ne-li představovat video. Jednoduše použijte Wordpress<a href=\\\"#postimagediv\\\">Doporučené Image</a>okno na pravé straně této obrazovky nahrát uváděný obraz.<br /><br /><strong>2.. Nejlepší Image (externí) -</strong> Použijte pole níže na funkci obraz, který je umístěn na jiném serveru. <br /><br /><strong>3.. Nejlepší videa -</strong> Použijte pole níže jsou vybaveny Video namísto obrazu."
+
+#: framework/custom-metaboxes.php:125
+#@ truethemes_localize
+msgid "Featured Image (external)"
+msgstr "Nejlepší Image (externí)"
+
+#: framework/custom-metaboxes.php:126
+#@ truethemes_localize
+msgid "Enter the full URL of the external image that you'd like to feature.<br /><strong>Sample URL:</strong> http://www.sample-website.com/image.png"
+msgstr "Zadejte úplnou adresu URL externího obrázku, který byste chtěli na funkci.<br /><strong>Ukázka URL:</strong> http://www.sample-website.com/image.png"
+
+#: framework/custom-metaboxes.php:132
+#: framework/custom-metaboxes.php:768
+#@ truethemes_localize
+msgid "Featured Video"
+msgstr "Nejlepší videa"
+
+#: framework/custom-metaboxes.php:133
+#@ truethemes_localize
+msgid "Enter the full URL to the video that you'd like to feature.<br /><strong>Sample URL:</strong> http://vimeo.com/70149174"
+msgstr "Zadejte úplnou adresu URL videa, které byste chtěli funkce. <br /><strong>Ukázka URL:</strong> http://vimeo.com/70149174"
+
+#: framework/custom-metaboxes.php:147
+#@ truethemes_localize
+msgid "Custom Sub-menu"
+msgstr "Vlastní Sub-menu"
+
+#: framework/custom-metaboxes.php:155
+#@ truethemes_localize
+msgid "Sub-menu"
+msgstr "Sub-menu"
+
+#: framework/custom-metaboxes.php:156
+#@ truethemes_localize
+msgid "Display a custom sub-menu by selecting it from the dropdown list below."
+msgstr "Zobrazení vlastní sub-menu výběrem z rozevíracího seznamu níže."
+
+#: framework/custom-metaboxes.php:166
+#@ truethemes_localize
+msgid "Check the box below to completely disable the sub-menu on this page."
+msgstr "Zaškrtněte políčko níže úplně vypnout sub-menu na této stránce."
+
+#: framework/custom-metaboxes.php:171
+#@ truethemes_localize
+msgid "Disable sub-menu"
+msgstr "Zakázat podmenu"
+
+#: framework/custom-metaboxes.php:182
+#: framework/custom-metaboxes.php:190
+#@ truethemes_localize
+msgid "Page Settings"
+msgstr "Stránka Nastavení"
+
+#: framework/custom-metaboxes.php:195
+#@ truethemes_localize
+msgid "Utility Panel"
+msgstr "Panel Utility"
+
+#: framework/custom-metaboxes.php:204
+#@ truethemes_localize
+msgid "Page Title"
+msgstr "Název stránky"
+
+#: framework/custom-metaboxes.php:205
+#@ truethemes_localize
+msgid "Override the Page Title displayed in the Utility Panel."
+msgstr "Přepsat Název stránky zobrazené v panelu nástrojů."
+
+#: framework/custom-metaboxes.php:211
+#@ truethemes_localize
+msgid "Searchbar"
+msgstr "Searchbar"
+
+#: framework/custom-metaboxes.php:212
+#@ truethemes_localize
+msgid "Should a searchbar be displayed on this page?"
+msgstr "V případě, že searchbar být zobrazen na této stránce?"
+
+#: framework/custom-metaboxes.php:222
+#@ truethemes_localize
+msgid "Page Comments"
+msgstr "Page Komentáře"
+
+#: framework/custom-metaboxes.php:223
+#@ truethemes_localize
+msgid "Should a Comments Form be displayed at the bottom of this page?"
+msgstr "Pokud Komentáře formulář se zobrazí v dolní části této stránky?"
+
+#: framework/custom-metaboxes.php:238
+#: framework/custom-metaboxes.php:245
+#@ truethemes_localize
+msgid "Slider Settings"
+msgstr "Posuvník pro nastavení"
+
+#: framework/custom-metaboxes.php:246
+#@ truethemes_localize
+msgid "Use these settings to display a Slider on this page. Simply ignore this entire section if not displaying a Slider."
+msgstr "Pomocí těchto nastavení zobrazení jezdce na této stránce. Jednoduše ignorovat celou tuto část, pokud není zobrazení posuvníku."
+
+#: framework/custom-metaboxes.php:251
+#@ truethemes_localize
+msgid "Karma jQuery Slider"
+msgstr "Karma jQuery Slider"
+
+#: framework/custom-metaboxes.php:264
+#: framework/custom-metaboxes.php:364
+#: framework/custom-metaboxes.php:572
+#: framework/custom-metaboxes.php:714
+#@ truethemes_localize
+msgid "Category"
+msgstr "Kategorie"
+
+#: framework/custom-metaboxes.php:265
+#@ truethemes_localize
+msgid "Which post category should the Karma jQuery Slider use to populate the slides?<br /><strong>Note:</strong> this section lists categories that were created within the 'Slider Posts' custom post-type"
+msgstr "Který příspěvek kategorie by Karma jQuery Slider použít k naplnění diapozitivy?<br /><strong>Poznámka:</strong> Tato část obsahuje seznam kategorií, které byly vytvořeny v rámci vlastní 'posuvník příspěvky' post-typu"
+
+#: framework/custom-metaboxes.php:272
+#@ truethemes_localize
+msgid "3D CU3ER Slider"
+msgstr "3D CU3ER Slider"
+
+#: framework/custom-metaboxes.php:279
+#@ truethemes_localize
+msgid "Slider Shortcode"
+msgstr "Posuvník Shortcode"
+
+#: framework/custom-metaboxes.php:280
+#@ truethemes_localize
+msgid "Enter a Shortcode if you wish to display custom slider such as LayerSlider or Revolution Slider.<br />Example: [layerslider id=\"1\"]"
+msgstr "Zadejte Shortcode, chcete-li zobrazit vlastní posuvník jako LayerSlider nebo revoluce Slider.<br />Příklad: [layerslider id=\"1\"]"
+
+#: framework/custom-metaboxes.php:286
+#@ truethemes_localize
+msgid "Full Width Mode"
+msgstr "Kompletní Šířka režim"
+
+#: framework/custom-metaboxes.php:301
+#: framework/custom-metaboxes.php:309
+#@ truethemes_localize
+msgid "Gallery Settings"
+msgstr "Galerie Nastavení"
+
+#: framework/custom-metaboxes.php:310
+#@ truethemes_localize
+msgid "Use these settings to display a Gallery on this page. Simply ignore this entire section if do not wish for this to be a Gallery page.<br /><br />* Please use the <strong>Page Attributes</strong> box in the right column of this screen to assign the \"Filterable Gallery\" <a href=\"#parent_id\">Template</a> for this Gallery page."
+msgstr "Pomocí těchto nastavení zobrazení Galerie na této stránce. Jednoduše ignorovat celou tuto část, pokud nechcete, aby to bylo Galerie stránka.<br /><br />*Využijte<strong>Page Attributes</strong> políčko v pravém sloupci této obrazovky přiřadit \"odfiltrovatelné Galerie\" <a href=\"#parent_id\">Šablona</a>pro tuto stránku galerie."
+
+#: framework/custom-metaboxes.php:315
+#@ truethemes_localize
+msgid "Page Layout"
+msgstr "Rozvržení stránky"
+
+#: framework/custom-metaboxes.php:330
+#@ truethemes_localize
+msgid "Image Frame Style"
+msgstr "Image Frame Style"
+
+#: framework/custom-metaboxes.php:342
+#: framework/custom-metaboxes.php:597
+#: framework/custom-metaboxes.php:646
+#: framework/custom-metaboxes.php:658
+#: framework/custom-metaboxes.php:670
+#: framework/custom-metaboxes.php:682
+#: framework/custom-metaboxes.php:694
+#@ truethemes_localize
+msgid "Title"
+msgstr "Název"
+
+#: framework/custom-metaboxes.php:343
+#@ truethemes_localize
+msgid "Would you like to display the Title below each gallery post?"
+msgstr "Chtěli byste zobrazit titul pod každé galerie příspěvku?"
+
+#: framework/custom-metaboxes.php:353
+#: framework/custom-metaboxes.php:603
+#@ truethemes_localize
+msgid "Description"
+msgstr "Popis"
+
+#: framework/custom-metaboxes.php:354
+#@ truethemes_localize
+msgid "Would you like to display the Description below each gallery post?"
+msgstr "Chtěli byste zobrazit popis pod každou galerii příspěvku?"
+
+#: framework/custom-metaboxes.php:365
+#@ truethemes_localize
+msgid "Which post category should be used to populate the gallery items? (please select the <strong>parent</strong> category)"
+msgstr "Který příspěvek kategorií by měly být použity k naplnění galerie položky? (Prosím vyberte <strong>hlavní</strong> kategorii)"
+
+#: framework/custom-metaboxes.php:373
+#@ truethemes_localize
+msgid "Enter the text for the \"All Categories\" filtering link."
+msgstr "Zadejte text pro  \"všechny kategorie\" filtrování odkaz."
+
+#: framework/custom-metaboxes.php:380
+#: framework/custom-metaboxes.php:402
+#@ truethemes_localize
+msgid "Item Count"
+msgstr "Počet položek"
+
+#: framework/custom-metaboxes.php:381
+#@ truethemes_localize
+msgid "How many gallery items should be displayed? (leave blank to show all items)"
+msgstr "Kolik galerie položky by měly být zobrazeny? (Nechte prázdné zobrazit všechny položky)"
+
+#: framework/custom-metaboxes.php:387
+#@ truethemes_localize
+msgid "Non-Filterable"
+msgstr "Non-filtrovatelného"
+
+#: framework/custom-metaboxes.php:388
+#@ truethemes_localize
+msgid "Use these settings to create a non-filterable Gallery from items created using Normal Posts. <br />Please ignore Filterable Settings and ensure you've assigned a \"Portfolio\" <a href=\"#parent_id\">Page Template</a> to this page for proper rendering."
+msgstr "Pomocí těchto nastavení k vytvoření non-filterable Galerie z předmětů vytvořených pomocí Normální příspěvky. <br />Prosím, ignorujte filtrovatelného Nastavení a zkontrolovat, zda jste přiřadili \"portfolio\" <a href=\"#parent_id\">šablonu stránky</a> na tuto stránku pro správné vykreslení."
+
+#: framework/custom-metaboxes.php:395
+#@ truethemes_localize
+msgid "Which post category should be used to populate the gallery items?"
+msgstr "Který příspěvek kategorií by měly být použity k naplnění galerie položky?"
+
+#: framework/custom-metaboxes.php:403
+#@ truethemes_localize
+msgid "How many gallery items should be displayed?"
+msgstr "Kolik galerie položky by měly být zobrazeny?"
+
+#: framework/custom-metaboxes.php:414
+#@ truethemes_localize
+msgid "Page Styling Options"
+msgstr "Možnosti Page Styling"
+
+#: framework/custom-metaboxes.php:422
+#@ truethemes_localize
+msgid "Styling Options"
+msgstr "Styling možnosti"
+
+#: framework/custom-metaboxes.php:423
+#@ truethemes_localize
+msgid "These styling options enable you to choose a unique color scheme exclusively for this page."
+msgstr "Tyto stylingové možnosti umožňují zvolit unikátní barevné schéma pouze pro tuto stránku."
+
+#: framework/custom-metaboxes.php:428
+#@ truethemes_localize
+msgid "Primary"
+msgstr "Primární"
+
+#: framework/custom-metaboxes.php:468
+#@ truethemes_localize
+msgid "Secondary"
+msgstr "Sekundární"
+
+#: framework/custom-metaboxes.php:507
+#@ truethemes_localize
+msgid "Background"
+msgstr "Pozadí"
+
+#: framework/custom-metaboxes.php:508
+#@ truethemes_localize
+msgid "These background settings are exclusive to this page and will only visible in the boxed layout design."
+msgstr "Tato nastavení pozadí jsou exkluzivní k této stránce a bude viditelný pouze v krabicové dispoziční řešení."
+
+#: framework/custom-metaboxes.php:513
+#@ truethemes_localize
+msgid "Body BG Color"
+msgstr "Tělo BG Color"
+
+#: framework/custom-metaboxes.php:519
+#@ truethemes_localize
+msgid "Body BG Image"
+msgstr "Tělo BG obrázku"
+
+#: framework/custom-metaboxes.php:525
+#@ truethemes_localize
+msgid "BG Image Position"
+msgstr "BG Poloha obrazu"
+
+#: framework/custom-metaboxes.php:540
+#@ truethemes_localize
+msgid "BG Image Repeat"
+msgstr "BG Opakování obrazu"
+
+#: framework/custom-metaboxes.php:552
+#@ truethemes_localize
+msgid "BG Image Fixed"
+msgstr "BG Obrázek Fixed"
+
+#: framework/custom-metaboxes.php:553
+#@ truethemes_localize
+msgid "Check this box to set the BG Image to Fixed."
+msgstr "Zaškrtnutím tohoto políčka nastavíte BG obrázek pevné."
+
+#: framework/custom-metaboxes.php:564
+#@ truethemes_localize
+msgid "Settings"
+msgstr "Nastavení"
+
+#: framework/custom-metaboxes.php:573
+#@ truethemes_localize
+msgid "Use the <strong>Categories box</strong> in the right column of this screen to define a category for this gallery post. (this category will be used for filtering.)"
+msgstr "Použijte <strong>kategorie políčko</strong> v pravém sloupci této obrazovky definovat kategorii pro tuto galerii post. (Tato kategorie bude použita pro filtrování.)"
+
+#: framework/custom-metaboxes.php:578
+#@ truethemes_localize
+msgid "Thumbnail"
+msgstr "Náhled"
+
+#: framework/custom-metaboxes.php:579
+#@ truethemes_localize
+msgid "Thumbnails are the images displayed in a grid layout on the gallery page."
+msgstr "Náhledy jsou obrazy zobrazeny v mřížce rozvržení na stránce galerie."
+
+#: framework/custom-metaboxes.php:584
+#@ truethemes_localize
+msgid "Thumbnail Image"
+msgstr "Náhled obrázku"
+
+#: framework/custom-metaboxes.php:591
+#@ truethemes_localize
+msgid "Content"
+msgstr "Obsah"
+
+#: framework/custom-metaboxes.php:592
+#@ truethemes_localize
+msgid "This content is displayed below the thumbnail. Simply leave blank if prefer not to display content."
+msgstr "Tento obsah se zobrazí pod miniaturu. Jednoduše nechte prázdné, pokud nechcete zobrazit obsah."
+
+#: framework/custom-metaboxes.php:610
+#@ truethemes_localize
+msgid "Page Linking"
+msgstr "Page Propojení"
+
+#: framework/custom-metaboxes.php:611
+#@ truethemes_localize
+msgid "Use this section to link this gallery post to a Page rather than a Lightbox. Simply ignore this section if you prefer Lightbox."
+msgstr "Tuto část použijte pro odkaz na tuto galerii příspěvek stránku spíše než Lightbox. Jednoduše tuto část ignorovat, pokud dáváte přednost lightbox."
+
+#: framework/custom-metaboxes.php:616
+#@ truethemes_localize
+msgid "Page URL"
+msgstr "URL stránky"
+
+#: framework/custom-metaboxes.php:617
+#@ truethemes_localize
+msgid "Enter a URL if you prefer to link this gallery post to a page."
+msgstr "Zadejte adresu URL, pokud dáváte přednost odkaz na tuto galerii příspěvek na stránku."
+
+#: framework/custom-metaboxes.php:624
+#@ truethemes_localize
+msgid "Open Page Link in"
+msgstr "Otevřete stránku Link na"
+
+#: framework/custom-metaboxes.php:634
+#@ truethemes_localize
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: framework/custom-metaboxes.php:640
+#@ truethemes_localize
+msgid "Lightbox Item 1"
+msgstr "Lightbox Položka 1"
+
+#: framework/custom-metaboxes.php:652
+#@ truethemes_localize
+msgid "Lightbox Item 2"
+msgstr "Lightbox Bod 2"
+
+#: framework/custom-metaboxes.php:664
+#@ truethemes_localize
+msgid "Lightbox Item 3"
+msgstr "Lightbox Bod 3"
+
+#: framework/custom-metaboxes.php:676
+#@ truethemes_localize
+msgid "Lightbox Item 4"
+msgstr "Oblíbené položky 4"
+
+#: framework/custom-metaboxes.php:688
+#@ truethemes_localize
+msgid "Lightbox Item 5"
+msgstr "Lightbox Položka 5"
+
+#: framework/custom-metaboxes.php:706
+#@ truethemes_localize
+msgid "Slide Settings"
+msgstr "Nastavení snímku"
+
+#: framework/custom-metaboxes.php:715
+#@ truethemes_localize
+msgid "Use the <strong>Categories box</strong> in the right column of this screen to define a category for this slider post."
+msgstr "Použijte <strong>kategorie políčko</strong> v pravém sloupci této obrazovky definovat kategorii pro tohoto jezdce post."
+
+#: framework/custom-metaboxes.php:720
+#: framework/custom-metaboxes.php:740
+#@ truethemes_localize
+msgid "Featured Image"
+msgstr "Nejlepší obrázku"
+
+#: framework/custom-metaboxes.php:721
+#@ truethemes_localize
+msgid "Setup a featured image for this slide. <a href=\"#featured-video\">Skip this section and scroll down</a> to display a Featured Video instead."
+msgstr "Nastavení uváděný obraz tohoto snímku. <a href=\"#featured-video\">Tuto kapitolu můžete přeskočit a přejděte dolů</a> zobrazíte Nejlepší video místo."
+
+#: framework/custom-metaboxes.php:728
+#@ truethemes_localize
+msgid "All images automatically re-sized to the dimensions below:<br /><br /><strong>jQuery 1 Slider - Image Dimensions:</strong><br />Normal Image: 404 x 256<br />Full-width Image: 940 x 283<br /><br /><strong>jQuery 2 Slider - Image Dimensions:</strong><br />Normal Image: 436 x 270<br />Full-width Image: 840 x 270<br />Full-bleed Image: 920 x 358<br /><br /><strong>jQuery 3 Slider - Image Dimensions:</strong><br />Normal Image: 436 x 270<br />Full-width Image: 960 x 350"
+msgstr "Všechny obrázky automaticky re-velikosti s rozměry pod:<br /><br /><strong>jQuery Slider 1 - Rozměry obrázku:</strong><br /> Normální obrázku: 404 x 256<br />Full-šířka obrázku: 940 x 283<br /><br /><strong>jQuery Slider 2 - Rozměry obrázku:</strong><br /> Normální obrázku: 436 x 270<br />Full-šířka obrázku: 840 x 270<br />Celoplošném obrázku: 920 x 358<br /><br /><strong>jQuery 3 Slider - Rozměry obrázku:</strong><br />Normální obrázku: 436 x 270<br />Full-šířka obrázku: 960 x 350"
+
+#: framework/custom-metaboxes.php:746
+#@ truethemes_localize
+msgid "Image Linking"
+msgstr "Obrázek Propojení"
+
+#: framework/custom-metaboxes.php:747
+#@ truethemes_localize
+msgid "Turn this image into a clickable link by entering the full URL here."
+msgstr "Zapněte tento obraz na klikací odkaz zadáním úplnou adresu URL zde."
+
+#: framework/custom-metaboxes.php:753
+#@ truethemes_localize
+msgid "ALT Text"
+msgstr "Text ALT"
+
+#: framework/custom-metaboxes.php:754
+#@ truethemes_localize
+msgid "Add ALT text to this image to help boost your website's SEO."
+msgstr "Přidat alternativní text k obrázku, aby pomohla posílit své webové stránky SEO."
+
+#: framework/custom-metaboxes.php:761
+#@ truethemes_localize
+msgid "<a name=\"featured-video\"></a>Featured Video"
+msgstr "<a name=\"featured-video\"></a>Nejlepší videa"
+
+#: framework/custom-metaboxes.php:762
+#@ truethemes_localize
+msgid "Enter a YouTube or Vimeo URL below. Full list of supported video services listed at: <a href=\"http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+msgstr "Zadejte YouTube nebo Vimeo níže uvedenou adresu URL. Úplný seznam podporovaných video služeb uvedených na adrese: <a href=\"http://codex.wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">http://codex.wordpress.org/Embeds</a>."
+
+#: framework/custom-metaboxes.php:770
+#@ truethemes_localize
+msgid "<strong>Sample URL:</strong> http://vimeo.com/70149174"
+msgstr "<strong>Ukázka URL:</strong> http://vimeo.com/70149174"
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:28
+#@ truethemes_localize
+msgid "Display a 3D tag cloud on your site."
+msgstr "Zobrazení 3D tag cloud na vašich stránkách."
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:29
+#@ truethemes_localize
+msgid "CUSTOM - 3D Tag Cloud"
+msgstr "CUSTOM - 3D Tag Cloud"
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:84
+#: framework/extended/seo-module/seo_module.php:452
+#: framework/extended/seo-module/seo_module_class.php:1240
+#: framework/extended/seo-module/seo_module_class.php:1297
+#: framework/widgets.php:172
+#: framework/widgets.php:321
+#: framework/widgets.php:415
+#: framework/widgets.php:489
+#: framework/widgets.php:559
+#@ truethemes_localize
+msgid "Title:"
+msgstr "Název:"
+
+#: framework/extended/3d-tag-cloud/wp-cumulus.php:86
+#@ truethemes_localize
+msgid "Speed:"
+msgstr "Rychlost:"
+
+#: framework/extended/grunion-contact-form/admin.php:86
+#@ truethemes_localize
+msgid "From"
+msgstr "Z"
+
+#: framework/extended/grunion-contact-form/admin.php:87
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:832
+#@ truethemes_localize
+msgid "Message"
+msgstr "Zpráva"
+
+#: framework/extended/grunion-contact-form/admin.php:88
+#@ truethemes_localize
+msgid "Date"
+msgstr "Datum"
+
+#: framework/extended/grunion-contact-form/admin.php:158
+#@ default
+msgid "Resore this item from the Trash"
+msgstr "Resore tuto položku z koše"
+
+#: framework/extended/grunion-contact-form/admin.php:160
+#@ truethemes_localize
+msgid "Restore"
+msgstr "Obnovit"
+
+#: framework/extended/grunion-contact-form/admin.php:163
+#: framework/extended/grunion-contact-form/admin.php:262
+#@ truethemes_localize
+msgid "Delete this item permanently"
+msgstr "Odstranit tuto položku trvale"
+
+#: framework/extended/grunion-contact-form/admin.php:165
+#: framework/extended/grunion-contact-form/admin.php:264
+#@ truethemes_localize
+msgid "Delete Permanently"
+msgstr "Odstranit trvale"
+
+#: framework/extended/grunion-contact-form/admin.php:196
+#@ truethemes_localize
+msgid "Mark this message as spam"
+msgstr "Označit zprávu jako spam"
+
+#: framework/extended/grunion-contact-form/admin.php:203
+#: framework/extended/grunion-contact-form/admin.php:205
+#: framework/extended/grunion-contact-form/admin.php:497
+#@ truethemes_localize
+msgid "Trash"
+msgstr "Koš"
+
+#: framework/extended/grunion-contact-form/admin.php:256
+#@ truethemes_localize
+msgid "Mark this message as NOT spam"
+msgstr "Označit tuto zprávu, že není spam"
+
+#: framework/extended/grunion-contact-form/admin.php:295
+#@ truethemes_localize
+msgid "Y-m-d @ g:i:s A"
+msgstr "Y-m-d @ g:i:s A"
+
+#: framework/extended/grunion-contact-form/admin.php:419
+#@ truethemes_localize
+msgid "You are not allowed to manage this item."
+msgstr "Nejste oprávněni řídit tuto položku."
+
+#: framework/extended/grunion-contact-form/admin.php:453
+#@ truethemes_localize
+msgid "You are not allowed to move this item out of the Trash."
+msgstr "Nejste oprávněni přesunout tuto položku z koše."
+
+#: framework/extended/grunion-contact-form/admin.php:456
+#@ truethemes_localize
+msgid "Error in restoring from Trash."
+msgstr "Chyba při obnově z koše."
+
+#: framework/extended/grunion-contact-form/admin.php:460
+#@ truethemes_localize
+msgid "You are not allowed to move this item to the Trash."
+msgstr "Nejste oprávněni přesunout tuto položku do koše."
+
+#: framework/extended/grunion-contact-form/admin.php:463
+#@ truethemes_localize
+msgid "Error in moving to Trash."
+msgstr "Chyba při přesunu do koše."
+
+#: framework/extended/grunion-contact-form/admin.php:487
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:831
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+#@ truethemes_localize
+msgid "Messages"
+msgstr "Zprávy"
+
+#: framework/extended/grunion-contact-form/admin.php:510
+#@ truethemes_localize
+msgid "Spam"
+msgstr "Spam"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:53
+#: framework/extended/grunion-contact-form/grunion-form-view.php:135
+#: framework/theme-functions.php:487
+#@ default
+#@ truethemes_localize
+msgid "Name"
+msgstr "Název"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:54
+#@ default
+msgid "Email Address"
+msgstr "E-mailová adresa"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:55
+#: framework/extended/grunion-contact-form/grunion-form-view.php:139
+#: framework/theme-functions.php:495
+#@ default
+#@ truethemes_localize
+msgid "Website"
+msgstr "Webové stránky"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:58
+#@ default
+msgid "Subject"
+msgstr "Předmět"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:129
+#@ default
+msgid "Yes"
+msgstr "Ano"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:171
+#, php-format
+#@ truethemes_localize
+msgid "%s requires a valid email address"
+msgstr "%s vyžaduje platnou e-mailovou adresu"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:178
+#, php-format
+#@ truethemes_localize
+msgid "%s is required"
+msgstr "%s je nutné"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:375
+#@ truethemes_localize
+msgid "Invalid CAPTCHA"
+msgstr "Neplatný CAPTCHA"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:562
+#@ truethemes_localize
+msgid "l F j, Y \\a\\t g:i a"
+msgstr "l F j, Y \\a\\t g:i a"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:833
+#@ truethemes_localize
+msgid "Search Message"
+msgstr "Vyhledávání zpráv"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:834
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:835
+#@ truethemes_localize
+msgid "No message found"
+msgstr "Nebyly nalezeny žádné zprávy"
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:850
+#, php-format
+#@ truethemes_localize
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] "Spam <span class=\"count\">(%s)</span>"
+msgstr[1] "Spam <span class=\"count\">(%s)</span>"
+msgstr[2] ""
+
+#: framework/extended/grunion-contact-form/grunion-contact-form.php:874
+#@ truethemes_localize
+msgid "Add a custom form"
+msgstr "Přidat vlastní formulář"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:110
+#@ truethemes_localize
+msgid "Can I add more fields?"
+msgstr "Mohu přidat další pole?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+#@ truethemes_localize
+msgid "Sure thing."
+msgstr "Jasná věc."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+#@ truethemes_localize
+msgid "Click here"
+msgstr "Klikněte zde"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:111
+#@ truethemes_localize
+msgid "to add a new text box, textarea, radio, checkbox, or dropdown field."
+msgstr "přidat nové textové pole, textarea, rádio, políčko, nebo rozbalovací pole."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:112
+#@ truethemes_localize
+msgid "Can I view my messages within WordPress?"
+msgstr "Mohu zobrazit zprávy ve WordPress?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+#@ truethemes_localize
+msgid "Yep, you can read your messages at any time by clicking the"
+msgstr "Jo, můžete si přečíst zprávy kdykoliv klepnutím"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:113
+#@ truethemes_localize
+msgid "link in the main admin menu."
+msgstr "odkaz na hlavní admin menu."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:114
+#@ truethemes_localize
+msgid "Can I specify the Email Address where this form will get sent?"
+msgstr "Mohu zadat e-mailovou adresu, kde bude tato forma pošlou?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:115
+#@ truethemes_localize
+msgid "Yep. Simply click the \"Email Notifications\" tab at the top of this window."
+msgstr "Jo. Stačí kliknout na \"e-mailem upozornění\" kartu v horní části tohoto okna."
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:125
+#@ truethemes_localize
+msgid "Edit this new field"
+msgstr "Editovat tento nový obor"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:127
+#@ truethemes_localize
+msgid "Label"
+msgstr "Štítek"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:130
+#@ truethemes_localize
+msgid "Field type"
+msgstr "Typ pole"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:132
+#@ truethemes_localize
+msgid "Checkbox"
+msgstr "Zaškrtávací políčko"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:133
+#@ truethemes_localize
+msgid "Drop down"
+msgstr "Rozevírací"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:134
+#: framework/theme-functions.php:491
+#@ truethemes_localize
+msgid "Email"
+msgstr "E-mail"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:136
+#@ truethemes_localize
+msgid "Radio"
+msgstr "Rádio"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:137
+#@ truethemes_localize
+msgid "Text"
+msgstr "Text"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:138
+#@ truethemes_localize
+msgid "Textarea"
+msgstr "Textarea"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:145
+#@ truethemes_localize
+msgid "Options"
+msgstr "Volby"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:149
+#@ truethemes_localize
+msgid "Add another option"
+msgstr "Přidat další volby"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:156
+#@ truethemes_localize
+msgid "Required?"
+msgstr "Povinné?"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:166
+#@ truethemes_localize
+msgid "Here's what your form will look like"
+msgstr "Zde je to, co váš formulář bude vypadat"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:171
+#@ truethemes_localize
+msgid "Add a new field"
+msgstr "Přidání nového pole"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:182
+#@ truethemes_localize
+msgid "Email settings"
+msgstr "Nastavení e-mailu"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:184
+#@ truethemes_localize
+msgid "Enter your email address"
+msgstr "Zadejte e-mailovou adresu"
+
+#: framework/extended/grunion-contact-form/grunion-form-view.php:187
+#@ truethemes_localize
+msgid "What should the subject line be?"
+msgstr "Jaký by měl být předmět?"
+
+#: framework/extended/multiple_sidebars.php:63
+#@ truethemes_localize
+msgid "Custom Sidebar"
+msgstr "Vlastní Sidebar"
+
+#: framework/extended/multiple_sidebars.php:225
+#@ truethemes_localize
+msgid "Sidebars"
+msgstr "Postrannílišty"
+
+#: framework/extended/multiple_sidebars.php:227
+#@ truethemes_localize
+msgid "Instructions:"
+msgstr "Instrukce:"
+
+#: framework/extended/multiple_sidebars.php:229
+#@ truethemes_localize
+msgid "Step 1:"
+msgstr "Krok 1:"
+
+#: framework/extended/multiple_sidebars.php:229
+#@ truethemes_localize
+msgid "Create a new Sidebar by clicking the \"Add New Sidebar\" button below. Give the sidebar a name and click \"OK\"."
+msgstr "Vytvořit nový postranní panel kliknutím na \"Přidat nový postranní panel\" tlačítko níže. Dejte postranním panelu název a klepněte na \"OK\"."
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "Step 2:"
+msgstr "Krok 2:"
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "Add Widgets to this Sidebar by exiting this page and clicking on"
+msgstr "Přidat widgety na tento Sidebar ukončením tuto stránku a kliknutím na"
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "Appearance > Widgets"
+msgstr "Vzhled > Widgety"
+
+#: framework/extended/multiple_sidebars.php:232
+#@ truethemes_localize
+msgid "The Sidebar you just created will be located on the right side of the Widgets page. Simply drag-and-drop your desired Widgets into the Sidebar."
+msgstr "Sidebar jste právě vytvořili, se nachází na pravé straně Widgets stránky. Jednoduše drag-and-drop požadované widgety do postranního panelu."
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "Step 3:"
+msgstr "Krok 3:"
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "Assign the Sidebar to a page by"
+msgstr "Přiřazení postranního panelu na stránce"
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "editing your desired page"
+msgstr "editaci požadované stránky"
+
+#: framework/extended/multiple_sidebars.php:234
+#@ truethemes_localize
+msgid "and choosing the newly created Sidebar from within the Custom Sidebar box located on the right side of the Page Editing screen."
+msgstr "a vybrat nově vytvořené Postranní zevnitř vlastní Sidebar pole umístěného na pravé straně obrazovky editace stránek."
+
+#: framework/extended/multiple_sidebars.php:270
+#@ truethemes_localize
+msgid "Add New Sidebar"
+msgstr "Přidat nový postranní panel"
+
+#: framework/extended/multiple_sidebars.php:312
+#@ truethemes_localize
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Display a custom sidebar by selecting it from the dropdown list below."
+msgstr "Zobrazení vlastní sidebar výběrem z rozevíracího seznamu níže."
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Please note:"
+msgstr "Vezměte prosím na vědomí:"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "this page must be using a sidebar-ready page template in order to properly display a sidebar."
+msgstr "Tato stránka je nutno používat sidebar připravené šablony stránky, aby bylo možné správně zobrazit postranní panel."
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "(ie. \"Left Sidebar\" page template)"
+msgstr "(Tj. \"Left Sidebar\" šablona stránky)"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Need to create a new Sidebar?"
+msgstr "Potřebujete vytvořit nový postranní panel?"
+
+#: framework/extended/multiple_sidebars.php:313
+#@ truethemes_localize
+msgid "Appearance > Sidebars"
+msgstr "Vzhled > Postrannílišty"
+
+#: framework/extended/seo-module/seo_module.php:292
+#@ truethemes_localize
+msgid "SEO Title"
+msgstr "SEO Název"
+
+#: framework/extended/seo-module/seo_module.php:293
+#@ truethemes_localize
+msgid "SEO Keywords"
+msgstr "SEO Klíčová slova"
+
+#: framework/extended/seo-module/seo_module.php:294
+#@ truethemes_localize
+msgid "SEO Description"
+msgstr "SEO Popis"
+
+#: framework/extended/seo-module/seo_module.php:400
+#: framework/extended/seo-module/seo_module.php:406
+#: framework/extended/seo-module/seo_module.php:407
+#: functions.php:206
+#@ truethemes_localize
+msgid "SEO Settings"
+msgstr "SEO Nastavení"
+
+#: framework/extended/seo-module/seo_module.php:438
+#: framework/extended/seo-module/seo_module_class.php:1289
+#@ truethemes_localize
+msgid "Click here for Support"
+msgstr "Klikněte zde pro podporu"
+
+#: framework/extended/seo-module/seo_module.php:455
+#@ truethemes_localize
+msgid " characters. Most search engines use a maximum of 60 chars for the title."
+msgstr "znaků. Většina vyhledávačů použít maximálně 60 znaků pro název."
+
+#: framework/extended/seo-module/seo_module.php:460
+#: framework/extended/seo-module/seo_module_class.php:1301
+#@ truethemes_localize
+msgid "Description:"
+msgstr "Popis:"
+
+#: framework/extended/seo-module/seo_module.php:465
+#: framework/extended/seo-module/seo_module_class.php:1305
+#@ truethemes_localize
+msgid " characters. Most search engines use a maximum of 160 chars for the description."
+msgstr "znaků. Většina vyhledávačů použít maximálně 160 znaků pro popis."
+
+#: framework/extended/seo-module/seo_module.php:470
+#: framework/extended/seo-module/seo_module_class.php:1244
+#: framework/extended/seo-module/seo_module_class.php:1309
+#@ truethemes_localize
+msgid "Keywords (comma separated):"
+msgstr "Klíčová slova (oddělená čárkou):"
+
+#: framework/extended/seo-module/seo_module.php:476
+#: framework/extended/seo-module/seo_module_class.php:1324
+#@ truethemes_localize
+msgid "Title Attribute:"
+msgstr "Název Atribut:"
+
+#: framework/extended/seo-module/seo_module.php:481
+#: framework/extended/seo-module/seo_module_class.php:1328
+#@ truethemes_localize
+msgid "Menu Label:"
+msgstr "Menu Label:"
+
+#: framework/extended/seo-module/seo_module.php:487
+#: framework/extended/seo-module/seo_module_class.php:1316
+#@ truethemes_localize
+msgid "Disable on this page/post:"
+msgstr "Zakázat na této stránce / příspěvku:"
+
+#: framework/extended/seo-module/seo_module_class.php:1236
+#: framework/site-options.php:92
+#@ truethemes_localize
+msgid "SEO Module"
+msgstr "SEO modul"
+
+#: framework/extended/seo-module/seo_module_class.php:1276
+#: framework/extended/seo-module/seo_module_class.php:1283
+#@ truethemes_localize
+msgid "All in One SEO Pack"
+msgstr "All in One SEO balíčku"
+
+#: framework/extended/seo-module/seo_module_class.php:1391
+#@ truethemes_localize
+msgid "SEO Settings Reset."
+msgstr "SEO Obnovení nastavení."
+
+#: framework/extended/seo-module/seo_module_class.php:1437
+#@ truethemes_localize
+msgid "SEO Settings Updated."
+msgstr "SEO Nastavení aktualizace."
+
+#: framework/extended/seo-module/seo_module_class.php:1534
+#@ truethemes_localize
+msgid "Plugin Status:"
+msgstr "Plugin Stav:"
+
+#: framework/extended/seo-module/seo_module_class.php:1538
+#@ truethemes_localize
+msgid "Enabled"
+msgstr "Povoleno"
+
+#: framework/extended/seo-module/seo_module_class.php:1539
+#@ truethemes_localize
+msgid "Disabled"
+msgstr "Invalidní"
+
+#: framework/extended/seo-module/seo_module_class.php:1542
+#@ truethemes_localize
+msgid "All in One SEO Pack must be enabled for use."
+msgstr "All in One SEO balíčku musí být povolen k použití."
+
+#: framework/extended/seo-module/seo_module_class.php:1551
+#@ truethemes_localize
+msgid "Home Title:"
+msgstr "Domácí Název:"
+
+#: framework/extended/seo-module/seo_module_class.php:1558
+#@ truethemes_localize
+msgid "The &lt;title&gt; of your homepage. This is independent of any other option. If not set, the default blog title will get used."
+msgstr "&lt;title&gt; Na vaší domovské stránce. Toto je nezávislá na jakékoli jiné možnosti. Pokud není nastavena, použije se výchozí nadpis blog zvyknout."
+
+#: framework/extended/seo-module/seo_module_class.php:1567
+#@ truethemes_localize
+msgid "Home Description:"
+msgstr "Home Popis:"
+
+#: framework/extended/seo-module/seo_module_class.php:1574
+#@ truethemes_localize
+msgid "The &lt;meta&gt; description for your homepage. Independent of any other options, the default is no &lt;meta&gt; description at all if this is not set."
+msgstr "&lt;meta&gt; Popis vaší domovské stránce. Nezávisle na jakýchkoli jiných možností, výchozí hodnota je NO &lt;meta&gt; popis vůbec, pokud není uvedeno."
+
+#: framework/extended/seo-module/seo_module_class.php:1583
+#@ truethemes_localize
+msgid "Home Keywords (comma separated):"
+msgstr "Domů Klíčová slova (oddělená čárkou):"
+
+#: framework/extended/seo-module/seo_module_class.php:1590
+#@ truethemes_localize
+msgid "A comma separated list of your most important keywords for your site that will be written as &lt;meta&gt; keywords on your homepage."
+msgstr "Oddělené čárkami seznam vašich nejdůležitějších klíčových slov pro vaše stránky, které budou zapsány jako &lt;meta&gt; klíčových slov na vaší domovské stránce."
+
+#: framework/extended/seo-module/seo_module_class.php:1599
+#@ truethemes_localize
+msgid "Canonical URLs:"
+msgstr "Canonical URL:"
+
+#: framework/extended/seo-module/seo_module_class.php:1606
+#@ truethemes_localize
+msgid "This option will automatically generate Canonical URLS for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>Google</a>."
+msgstr "Tato volba bude automaticky generovat kanonická URL pro celou instalaci WordPress. To vám pomůže, aby se zabránilo duplicitní obsah sankce podle <a href='http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html' target='_blank'>Google</a>."
+
+#: framework/extended/seo-module/seo_module_class.php:1615
+#@ truethemes_localize
+msgid "Rewrite Titles:"
+msgstr "Přepište tituly:"
+
+#: framework/extended/seo-module/seo_module_class.php:1622
+#@ truethemes_localize
+msgid "This is about the &lt;title&gt; tag within your HTML &lt;head&gt; and not your WordPress Post Title or Page Title. <br/>This is what you see in your browser's window title bar. <br/>This is Not visible on a page, only in the window title bar and in the source. <br/>If set, all page, post, category, search and archive page titles get rewritten. <br/> You can specify the format for most of them."
+msgstr "Jedná se o &lt;title&gt; do vašeho HTML &lt;head&gt; a ne vašeho WordPress Název příspěvku nebo titulek stránky. <br/>To je to, co vidíte ve vašem prohlížeči záhlaví okna. <br/>To není vidět na stránce, jen v záhlaví okna a ve zdroji. <br/> Pokud je nastaveno, všechny stránky, pošta, kategorie, vyhledávání a archiv názvy stránek se přepisují. <br/>Můžete určit formát pro většinu z nich."
+
+#: framework/extended/seo-module/seo_module_class.php:1631
+#@ truethemes_localize
+msgid "Post Title Format:"
+msgstr "Název příspěvku Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1638
+#: framework/extended/seo-module/seo_module_class.php:1665
+#: framework/extended/seo-module/seo_module_class.php:1690
+#: framework/extended/seo-module/seo_module_class.php:1712
+#: framework/extended/seo-module/seo_module_class.php:1733
+#: framework/extended/seo-module/seo_module_class.php:1754
+#: framework/extended/seo-module/seo_module_class.php:1775
+#: framework/extended/seo-module/seo_module_class.php:1797
+#: framework/extended/seo-module/seo_module_class.php:1821
+#@ truethemes_localize
+msgid "The following macros are supported:"
+msgstr "Následující makra jsou podporovány:"
+
+#: framework/extended/seo-module/seo_module_class.php:1640
+#: framework/extended/seo-module/seo_module_class.php:1667
+#: framework/extended/seo-module/seo_module_class.php:1692
+#: framework/extended/seo-module/seo_module_class.php:1714
+#: framework/extended/seo-module/seo_module_class.php:1735
+#: framework/extended/seo-module/seo_module_class.php:1756
+#: framework/extended/seo-module/seo_module_class.php:1777
+#: framework/extended/seo-module/seo_module_class.php:1799
+#, php-format
+#@ truethemes_localize
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Váš blog titul"
+
+#: framework/extended/seo-module/seo_module_class.php:1641
+#: framework/extended/seo-module/seo_module_class.php:1668
+#: framework/extended/seo-module/seo_module_class.php:1693
+#: framework/extended/seo-module/seo_module_class.php:1715
+#: framework/extended/seo-module/seo_module_class.php:1736
+#: framework/extended/seo-module/seo_module_class.php:1757
+#: framework/extended/seo-module/seo_module_class.php:1778
+#: framework/extended/seo-module/seo_module_class.php:1800
+#, php-format
+#@ truethemes_localize
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Váš blog popis"
+
+#: framework/extended/seo-module/seo_module_class.php:1642
+#, php-format
+#@ truethemes_localize
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - původní název příspěvku"
+
+#: framework/extended/seo-module/seo_module_class.php:1643
+#, php-format
+#@ truethemes_localize
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - (hlavní) kategorie postu"
+
+#: framework/extended/seo-module/seo_module_class.php:1644
+#, php-format
+#@ truethemes_localize
+msgid "%category% - Alias for %category_title%"
+msgstr "%Kategorie% - Alias ​​pro %category_title%"
+
+#: framework/extended/seo-module/seo_module_class.php:1645
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Tento příspěvek je autorský přihlášení"
+
+#: framework/extended/seo-module/seo_module_class.php:1646
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Tento příspěvek je autorský nicename"
+
+#: framework/extended/seo-module/seo_module_class.php:1647
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Tento příspěvek je autor &quot;křestní jméno (velkými písmeny)"
+
+#: framework/extended/seo-module/seo_module_class.php:1648
+#, php-format
+#@ truethemes_localize
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - tento post je &quot;příjmení autora (velkými písmeny)"
+
+#: framework/extended/seo-module/seo_module_class.php:1658
+#@ truethemes_localize
+msgid "Page Title Format:"
+msgstr "Název stránky Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1669
+#, php-format
+#@ truethemes_localize
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - původní název stránky"
+
+#: framework/extended/seo-module/seo_module_class.php:1670
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Tato stránka je autorský přihlášení"
+
+#: framework/extended/seo-module/seo_module_class.php:1671
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Tato stránka je autorský nicename"
+
+#: framework/extended/seo-module/seo_module_class.php:1672
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - tato stránka je 'jméno autora (velkými písmeny)"
+
+#: framework/extended/seo-module/seo_module_class.php:1673
+#, php-format
+#@ truethemes_localize
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - tato stránka je 'příjmení autora (velkými písmeny)"
+
+#: framework/extended/seo-module/seo_module_class.php:1683
+#@ truethemes_localize
+msgid "Category Title Format:"
+msgstr "Kategorie Název Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1694
+#, php-format
+#@ truethemes_localize
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - původní název kategorie"
+
+#: framework/extended/seo-module/seo_module_class.php:1695
+#, php-format
+#@ truethemes_localize
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - popis kategorie"
+
+#: framework/extended/seo-module/seo_module_class.php:1705
+#@ truethemes_localize
+msgid "Archive Title Format:"
+msgstr "Archiv Název Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1716
+#, php-format
+#@ truethemes_localize
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - původní titul daný archiv by WordPress, např. \"2007\" nebo \"2007 srpen\""
+
+#: framework/extended/seo-module/seo_module_class.php:1726
+#@ truethemes_localize
+msgid "Tag Title Format:"
+msgstr "Tag Název Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1737
+#, php-format
+#@ truethemes_localize
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - název tagu"
+
+#: framework/extended/seo-module/seo_module_class.php:1747
+#@ truethemes_localize
+msgid "Search Title Format:"
+msgstr "Hledat Název Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1758
+#, php-format
+#@ truethemes_localize
+msgid "%search% - What was searched for"
+msgstr "%search% - Co byl hledán"
+
+#: framework/extended/seo-module/seo_module_class.php:1768
+#@ truethemes_localize
+msgid "Description Format:"
+msgstr "Popis Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1779
+#, php-format
+#@ truethemes_localize
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - původní popis jak je stanoveno v pluginu, např. úryvek je-li nastaveno, nebo automaticky generované jeden-li tato volba nastavena"
+
+#: framework/extended/seo-module/seo_module_class.php:1780
+#, php-format
+#@ truethemes_localize
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - původní wordpress název, např. pro post_title příspěvků"
+
+#: framework/extended/seo-module/seo_module_class.php:1790
+#@ truethemes_localize
+msgid "404 Title Format:"
+msgstr "404 Název Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1801
+#, php-format
+#@ truethemes_localize
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - původní cesta URL, jako je \"/url-that-does-not-exist/\""
+
+#: framework/extended/seo-module/seo_module_class.php:1802
+#, php-format
+#@ truethemes_localize
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - URL cesta do formy čitelné pro člověka, jako \"URL, která neexistuje\""
+
+#: framework/extended/seo-module/seo_module_class.php:1803
+#, php-format
+#@ truethemes_localize
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Další 404 nadpis vstup\""
+
+#: framework/extended/seo-module/seo_module_class.php:1813
+#@ truethemes_localize
+msgid "Paged Format:"
+msgstr "Paged Formát:"
+
+#: framework/extended/seo-module/seo_module_class.php:1820
+#@ truethemes_localize
+msgid "This string gets appended/prepended to titles when they are for paged index pages (like home or archive pages)."
+msgstr "Tento řetězec dostane připojen / prepended k titulům, když jsou stránkovaného index stránek (například doma nebo v archivních stránkách)."
+
+#: framework/extended/seo-module/seo_module_class.php:1823
+#, php-format
+#@ truethemes_localize
+msgid "%page% - The page number"
+msgstr "%page% - číslo stránky"
+
+#: framework/extended/seo-module/seo_module_class.php:1833
+#@ truethemes_localize
+msgid "SEO for Custom Post Types:"
+msgstr "SEO pro vlastní Post typy:"
+
+#: framework/extended/seo-module/seo_module_class.php:1840
+#@ truethemes_localize
+msgid "Check this if you want your enable AIOSEOP support for Custom Post Types on this site."
+msgstr "Zaškrtněte toto políčko, pokud chcete, aby vaše enable AIOSEOP podporu pro vlastní Post Typy na této stránce."
+
+#: framework/extended/seo-module/seo_module_class.php:1851
+#@ truethemes_localize
+msgid "Custom Post Types for SEO Column Support:"
+msgstr "Vlastní příspěvek Typy pro nosný sloupek SEO:"
+
+#: framework/extended/seo-module/seo_module_class.php:1871
+#@ truethemes_localize
+msgid "Choose which post types you want to have SEO columns on the edit.php screen. You can select as many as you like."
+msgstr "Vyberte si, které typy příspěvek chcete mít SEO sloupce na edit.php obrazovce. Můžete si vybrat tolik, kolik chcete."
+
+#: framework/extended/seo-module/seo_module_class.php:1881
+#@ truethemes_localize
+msgid "Use Categories for META keywords:"
+msgstr "Kategorie použití pro meta klíčová slova:"
+
+#: framework/extended/seo-module/seo_module_class.php:1888
+#@ truethemes_localize
+msgid "Check this if you want your categories for a given post used as the META keywords for this post (in addition to any keywords and tags you specify on the post edit page)."
+msgstr "Zaškrtněte toto políčko, pokud chcete, aby vaše kategorie na dané místo slouží jako META klíčová slova pro tento post (kromě všechna klíčová slova a tagy, které zadáte na stránce po úprav)."
+
+#: framework/extended/seo-module/seo_module_class.php:1897
+#@ truethemes_localize
+msgid "Use Tags for META keywords:"
+msgstr "Použití značek pro meta klíčová slova:"
+
+#: framework/extended/seo-module/seo_module_class.php:1904
+#@ truethemes_localize
+msgid "Check this if you want your tags for a given post used as the META keywords for this post (in addition to any keywords you specify on the post edit page)."
+msgstr "Zaškrtněte toto políčko, pokud chcete své značky na dané místo slouží jako META klíčová slova pro tento post (vedle všech klíčových slov zadaných na po stránce úprav)."
+
+#: framework/extended/seo-module/seo_module_class.php:1914
+#@ truethemes_localize
+msgid "Dynamically Generate Keywords for Posts Page:"
+msgstr "Dynamicky generovat klíčová slova pro příspěvky Strana:"
+
+#: framework/extended/seo-module/seo_module_class.php:1921
+#@ truethemes_localize
+msgid "Check this if you want your keywords on a custom posts page (set it in options->reading) to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Zaškrtněte toto políčko, pokud chcete, aby vaše klíčová slova na vlastní příspěvky stránce (nastavit v options->čtení), které mají být dynamicky generovaných z klíčových slov jednotlivých příspěvků ukazuje na této stránce. V případě odškrtnutí bude používat klíčová slova uvedené na obrazovce Upravit stránku pro příspěvky stránce."
+
+#: framework/extended/seo-module/seo_module_class.php:1930
+#@ truethemes_localize
+msgid "Use noindex for Categories:"
+msgstr "Použijte noindex jednotlivých kategorií:"
+
+#: framework/extended/seo-module/seo_module_class.php:1937
+#@ truethemes_localize
+msgid "Check this for excluding category pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Zaškrtněte toto políčko pro vyloučení stránek z kategorie prolézaných. Užitečné pro zamezení duplicitní obsah."
+
+#: framework/extended/seo-module/seo_module_class.php:1946
+#@ truethemes_localize
+msgid "Use noindex for Archives:"
+msgstr "Použijte noindex pro archivy:"
+
+#: framework/extended/seo-module/seo_module_class.php:1953
+#@ truethemes_localize
+msgid "Check this for excluding archive pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Zaškrtněte toto políčko pro vyloučení archivní stránky z prolézaných. Užitečné pro zamezení duplicitní obsah."
+
+#: framework/extended/seo-module/seo_module_class.php:1962
+#@ truethemes_localize
+msgid "Use noindex for Tag Archives:"
+msgstr "Použijte noindex pro Tag Archiv:"
+
+#: framework/extended/seo-module/seo_module_class.php:1969
+#@ truethemes_localize
+msgid "Check this for excluding tag pages from being crawled. Useful for avoiding duplicate content."
+msgstr "Zaškrtněte toto políčko pro vyloučení stránek štítek před procházet. Užitečné pro zamezení duplicitní obsah."
+
+#: framework/extended/seo-module/seo_module_class.php:1978
+#@ truethemes_localize
+msgid "Autogenerate Descriptions:"
+msgstr "Automaticky generovat popisy:"
+
+#: framework/extended/seo-module/seo_module_class.php:1984
+#@ truethemes_localize
+msgid "Check this and your META descriptions will get autogenerated if there's no excerpt."
+msgstr "Zaškrtněte toto políčko a meta popisy budou se automaticky vygenerováno pokud není výtah."
+
+#: framework/extended/seo-module/seo_module_class.php:1993
+#@ truethemes_localize
+msgid "Capitalize Category Titles:"
+msgstr "Využití Kategorie tituly:"
+
+#: framework/extended/seo-module/seo_module_class.php:2000
+#@ truethemes_localize
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr "Zaškrtněte toto políčko a kategorie tituly budou mít první písmeno každého slova velkým."
+
+#: framework/extended/seo-module/seo_module_class.php:2010
+#@ truethemes_localize
+msgid "Exclude Pages:"
+msgstr "Vyloučit stránky:"
+
+#: framework/extended/seo-module/seo_module_class.php:2018
+#@ truethemes_localize
+msgid "Enter any comma separated pages here to be excluded by SEO Module.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/,/contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is give forum or /forum or /forum/ or and any URL with the word \"forum\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage will be excluded from SEO Module."
+msgstr "Zadejte libovolné oddělených čárkami stránky zde být vyloučeny SEO modul. To je užitečné při použití pluginů, které vytvářejí své vlastní non-WordPress dynamických stránek. Ex: <em>/forum/,/Kontakt/</em> Například, pokud chcete vyloučit virtuální stránek generovaných fóru pluginu, vše, co musíte udělat, je dát fórum nebo /forum/ nebo /fórum a jakékoli URL se slovem \"fórum\" v něm bude jako http://mysite.com/forum nebo http://mysite.com/forum/someforumpage být vyloučeny z modulu SEO."
+
+#: framework/extended/seo-module/seo_module_class.php:2028
+#@ truethemes_localize
+msgid "Additional Post Headers:"
+msgstr "Další příspěvek Hlavičky:"
+
+#: framework/extended/seo-module/seo_module_class.php:2035
+#@ truethemes_localize
+msgid "What you enter here will be copied verbatim to your header on post pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Co zde zadáte budou zkopírovány doslovně do záhlaví na post stránkách. Můžete zadat libovolné dodatečné hlavičky tady chcete, dokonce i odkazy na styly."
+
+#: framework/extended/seo-module/seo_module_class.php:2044
+#@ truethemes_localize
+msgid "Additional Page Headers:"
+msgstr "Další Záhlaví:"
+
+#: framework/extended/seo-module/seo_module_class.php:2051
+#@ truethemes_localize
+msgid "What you enter here will be copied verbatim to your header on pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Co zde zadáte budou zkopírovány doslovně do záhlaví na stránkách. Můžete zadat libovolné dodatečné hlavičky tady chcete, dokonce i odkazy na styly."
+
+#: framework/extended/seo-module/seo_module_class.php:2060
+#@ truethemes_localize
+msgid "Additional Home Headers:"
+msgstr "Další Domů Záhlaví:"
+
+#: framework/extended/seo-module/seo_module_class.php:2067
+#@ truethemes_localize
+msgid "What you enter here will be copied verbatim to your header on the home page. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Co zde zadáte budou zkopírovány doslovně do záhlaví na domovské stránce. Můžete zadat libovolné dodatečné hlavičky tady chcete, dokonce i odkazy na styly."
+
+#: framework/extended/seo-module/seo_module_class.php:2077
+#@ truethemes_localize
+msgid "Click for Help!"
+msgstr "Klikněte pro Help!"
+
+#: framework/extended/seo-module/seo_module_class.php:2078
+#@ truethemes_localize
+msgid "Log important events:"
+msgstr "Přihlásit důležité události:"
+
+#: framework/extended/seo-module/seo_module_class.php:2085
+#@ truethemes_localize
+msgid "Check this and SEO pack will create a log of important events (all_in_one_seo_pack.log) in its plugin directory which might help debugging it. Make sure this directory is writable."
+msgstr "Zaškrtněte toto políčko a SEO balíček vytvoří záznam důležitých událostí (all_in_one_seo_pack.log) v adresáři s pluginy, které mohou pomoci ladění to. Ujistěte se, že tento adresář je zapisovat."
+
+#: framework/extended/seo-module/seo_module_class.php:2101
+#@ truethemes_localize
+msgid "Update Settings"
+msgstr "Aktualizace nastavení"
+
+#: framework/extended/seo-module/seo_module_class.php:2102
+#@ truethemes_localize
+msgid "Reset Settings to Defaults"
+msgstr "Obnovit nastavení výchozích"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:155
+#: framework/extended/tgm-plugin-activation/example.php:86
+#: functions.php:740
+#@ tgmpa
+#@ truethemes_localize
+msgid "Install Required Plugins"
+msgstr "Nainstalujte Požadované pluginy"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:156
+#: framework/extended/tgm-plugin-activation/example.php:87
+#: functions.php:741
+#@ tgmpa
+#@ truethemes_localize
+msgid "Install Plugins"
+msgstr "Nainstalujte Pluginy"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:157
+#: framework/extended/tgm-plugin-activation/example.php:88
+#: functions.php:742
+#, php-format
+#@ tgmpa
+#@ truethemes_localize
+msgid "Installing Plugin: %s"
+msgstr "Instalace plugin: %s"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr "Něco je špatně."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:159
+#: framework/extended/tgm-plugin-activation/example.php:90
+#: functions.php:744
+#, php-format
+#@ truethemes_localize
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Toto téma vyžaduje následující plugin: %1$s."
+msgstr[1] "Toto téma vyžaduje následující pluginy: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:160
+#: framework/extended/tgm-plugin-activation/example.php:91
+#: functions.php:745
+#, php-format
+#@ truethemes_localize
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Toto téma doporučuje následující plugin: %1$s."
+msgstr[1] "Toto téma se doporučuje následující pluginy: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:161
+#: framework/extended/tgm-plugin-activation/example.php:92
+#: functions.php:746
+#, php-format
+#@ truethemes_localize
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Je nám líto, ale nemáte správná oprávnění k instalaci %s plugin. Obraťte se na správce tohoto webu s žádostí o pomoc na získání plugin nainstalován."
+msgstr[1] "Je nám líto, ale nemáte správná oprávnění k instalaci %s pluginy. Obraťte se na správce tohoto webu s žádostí o pomoc na získání pluginy nainstalovány."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:162
+#: framework/extended/tgm-plugin-activation/example.php:93
+#: functions.php:747
+#, php-format
+#@ truethemes_localize
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Následující požadovaný plugin je v současné době neaktivní: %1$s."
+msgstr[1] "Následující potřebné pluginy jsou v současné době neaktivní: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:163
+#: framework/extended/tgm-plugin-activation/example.php:94
+#: functions.php:748
+#, php-format
+#@ truethemes_localize
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Doporučeno následující plugin je v současné době neaktivní: %1$s."
+msgstr[1] "Následující doporučené pluginy jsou v současné době neaktivní: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:164
+#: framework/extended/tgm-plugin-activation/example.php:95
+#: functions.php:749
+#, php-format
+#@ truethemes_localize
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Je nám líto, ale nemáte potřebná oprávnění k aktivaci %s plugin. Obraťte se na správce tohoto webu s žádostí o pomoc na získání plugin aktivován."
+msgstr[1] "Je nám líto, ale nemáte potřebná oprávnění k aktivaci %s pluginy. Obraťte se na správce tohoto webu s žádostí o pomoc na získání pluginy aktivován."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:165
+#: framework/extended/tgm-plugin-activation/example.php:96
+#: functions.php:750
+#, php-format
+#@ truethemes_localize
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Následující plugin je třeba aktualizovat jeho nejnovější verzi, aby byla zajištěna maximální kompatibilita s tímto tématem: %1$s."
+msgstr[1] "Následující pluginy třeba aktualizovat jejich nejnovější verzi, aby byla zajištěna maximální kompatibilita s tímto tématem: %1$s."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:166
+#: framework/extended/tgm-plugin-activation/example.php:97
+#: functions.php:751
+#, php-format
+#@ truethemes_localize
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Je nám líto, ale nemáte potřebná oprávnění k aktualizaci %s plugin. Obraťte se na správce tohoto webu s žádostí o pomoc na získání plugin aktualizován."
+msgstr[1] "Je nám líto, ale nemáte potřebná oprávnění k aktualizaci %s pluginy. Obraťte se na správce tohoto webu s žádostí o pomoc na získání pluginy aktualizovány."
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:167
+#: framework/extended/tgm-plugin-activation/example.php:98
+#: functions.php:752
+#@ truethemes_localize
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Začněte instalaci plugin"
+msgstr[1] "Začněte instalaci pluginů"
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:168
+#: framework/extended/tgm-plugin-activation/example.php:99
+#: functions.php:753
+#@ truethemes_localize
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Aktivace nainstalován plugin"
+msgstr[1] "Aktivace nainstalované pluginy"
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:169
+#: framework/extended/tgm-plugin-activation/example.php:100
+#: functions.php:754
+#@ tgmpa
+#@ truethemes_localize
+msgid "Return to Required Plugins Installer"
+msgstr "Zpět na povinná Plugins Installer"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr "Návrat na palubní desku"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:171
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1840
+#: framework/extended/tgm-plugin-activation/example.php:101
+#: functions.php:755
+#@ tgmpa
+#@ truethemes_localize
+msgid "Plugin activated successfully."
+msgstr "Plugin úspěšně aktivován."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všechny pluginy nainstalovat a úspěšně aktivován. %1$s"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr "Odstranit všechna upozornění"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr "Externí odkaz"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr "Vlastní sklad"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr "Předbalené"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr "Potřebný"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr "Doporučené"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr "Není nainstalován"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr "Nainstalovány, ale není aktivován"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Žádné pluginy instalovat nebo aktivovat. <a href=\"%1$s\" title=\"Zpět na panelu\">Zpět na panelu</a>"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr "Plugin"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr "Zdroj"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Type"
+msgstr "Typ"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1294
+#@ tgmpa
+msgid "Status"
+msgstr "Postavení"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr "Instalovat"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr "Aktivovat"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1538
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Následující plugin byl úspěšně aktivován:"
+msgstr[1] "Následující pluginy byly úspěšně aktivován:"
+msgstr[2] ""
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr "Nainstalujte balíček není k dispozici."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Stažení instalačního balíku <span class=\"code\">%s</span>&#8230;"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr "Rozbalení balíčku ..."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr "Instalace plugin ..."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr "Plugin instalace se nezdařila."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr "Plugin úspěšně nainstalován."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr "Plugin aktivace se nezdařila."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Instalace a aktivace proces začíná. Tento proces může chvíli trvat na některých počítačích, takže buďte trpěliví."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalován a úspěšně aktivován."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr "Zobrazit podrobnosti"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1950
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr "Skrýt podrobnosti"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr "Všechna zařízení a aktivací byly dokončeny."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalace a aktivace Plugin %1$s (%2$d/%3$d)"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Instalační proces začíná. Tento proces může chvíli trvat na některých počítačích, takže buďte trpěliví."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Došlo k chybě při instalaci %1$s: <strong>%2$s</strong>."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr "Instalace %1$s se nezdařila."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr "%1$s úspěšně nainstalován."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr "Všechna zařízení byla dokončena."
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalace Plugin %1$s (%2$d/%3$d)"
+
+#: framework/extended/tgm-plugin-activation/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr "Zpět na panelu"
+
+#: framework/extended/tgm-plugin-activation/example.php:89
+#: functions.php:743
+#@ truethemes_localize
+msgid "Something went wrong with the plugin API."
+msgstr "Něco je špatně s plugin API."
+
+#: framework/extended/tgm-plugin-activation/example.php:102
+#: functions.php:756
+#, php-format
+#@ truethemes_localize
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Všechny pluginy nainstalovat a úspěšně aktivován. %s"
+
+#: framework/extended/woocommerce.php:178
+#@ truethemes_localize
+msgid "Products tagged &ldquo;"
+msgstr "Produkty označené &ldquo;"
+
+#: framework/extended/woocommerce.php:201
+#: framework/extended/woocommerce.php:286
+#@ truethemes_localize
+msgid "Search results for &ldquo;"
+msgstr "Výsledky hledání pro &ldquo;"
+
+#: framework/extended/woocommerce.php:250
+#@ truethemes_localize
+msgid "Error 404"
+msgstr "Chyba 404"
+
+#: framework/extended/woocommerce.php:290
+#@ truethemes_localize
+msgid "Posts tagged &ldquo;"
+msgstr "Posts tagged &ldquo;"
+
+#: framework/extended/woocommerce.php:295
+#@ truethemes_localize
+msgid "Author:"
+msgstr "Autor:"
+
+#: framework/extended/woocommerce.php:301
+#@ truethemes_localize
+msgid "Page"
+msgstr "Strana"
+
+#: framework/extended/wp-pagenavi.php:189
+#, php-format
+#@ truethemes_localize
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Stránka %CURRENT_PAGE% z%TOTAL_PAGES%"
+
+#: framework/extended/wp-pagenavi.php:192
+#: framework/extended/wp-pagenavi.php:195
+#@ truethemes_localize
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: framework/extended/wp-pagenavi.php:193
+#: framework/extended/wp-pagenavi.php:194
+#@ truethemes_localize
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: framework/extended/wp-pagenavi.php:196
+#: framework/extended/wp-pagenavi.php:197
+#@ truethemes_localize
+msgid "..."
+msgstr "..."
+
+#: framework/shortcodes.php:1020
+#: framework/shortcodes.php:1071
+#@ truethemes_localize
+msgid "No related posts found"
+msgstr "Žádné související příspěvky nalezeny"
+
+#: framework/site-options.php:81
+#@ truethemes_localize
+msgid "General"
+msgstr "Obecný"
+
+#: framework/site-options.php:85
+#@ truethemes_localize
+msgid "Activate Karma 4.0"
+msgstr "Aktivace Karma 4.0"
+
+#: framework/site-options.php:86
+#@ truethemes_localize
+msgid "Check this box to activate Karma 4.0. This setting is meant for first-time Karma 4.0 users. This will improve your theme experience by cleaning up any old page templates and settings that are no longer needed.<br /><br /><em>(Users upgrading from older versions of Karma should not check this box. You will need the old page templates and settings for proper functioning of your website.)</em>"
+msgstr "Zaškrtnutím tohoto políčka aktivujete Karma 4.0. Toto nastavení je určeno pro začínající uživatele Karma 4.0. Tím se zlepší vaše téma zážitek vyčištění všechny staré šablony stránek a nastavení, které již nejsou potřebné. <br /><br /><em>(Uživatelé přecházející ze starších verzí karmy by neměli zaškrtněte toto políčko. Budete potřebovat staré šablony stránek a nastavení pro správné fungování vašeho webu).</em>"
+
+#: framework/site-options.php:93
+#@ truethemes_localize
+msgid "Check this box to enable a fully optimized SEO Module for this theme. <em>Please disable all other SEO plugins before activating to prevent any possible conflicts.</em>"
+msgstr "Zaškrtněte toto políčko, aby plně optimalizované SEO modul pro toto téma. <em>Zakažte všechny ostatní SEO pluginy před aktivací, aby se zabránilo možným konfliktům.</em>"
+
+#: framework/site-options.php:99
+#@ truethemes_localize
+msgid "Meta Boxes"
+msgstr "Meta boxy"
+
+#: framework/site-options.php:100
+#@ truethemes_localize
+msgid "This functionality hides meta boxes in the Dashboard to help Wordpress feel more like a CMS. This includes: Comments, Discussion, Trackbacks, Custom Fields, Author, and Slug. <em>Un-check this box to disable this functionality.</em>"
+msgstr "Tato funkce skrývá meta políčka v panelu pomoci Wordpress cítit jako CMS. To zahrnuje: Komentáře, diskuse, Zpětné odkazy, vlastní pole, spisovatel a slimák <em>Un-zaškrtněte toto políčko, aby tuto funkci vypnout..</em>"
+
+#: framework/site-options.php:106
+#@ truethemes_localize
+msgid "Inline Editing"
+msgstr "Inline editace"
+
+#: framework/site-options.php:107
+#@ truethemes_localize
+msgid "This functionality adds an inline-editing button to all pages & posts so that logged-in administrators can quickly and easily edit their website. <em>Un-check this box to disable this functionality.</em>"
+msgstr "Tato funkce přidá inline editaci tlačítko pro všechny stránky a příspěvky tak, aby přihlášené Správci mohou rychle a snadno upravovat jejich webové stránky. <em>Un-zaškrtněte toto políčko, aby tuto funkci vypnout.</em>"
+
+#: framework/site-options.php:113
+#@ truethemes_localize
+msgid "Custom CSS Code"
+msgstr "Vlastní CSS kód"
+
+#: framework/site-options.php:114
+#@ truethemes_localize
+msgid "Use this area to add custom CSS code to your website.<br /><br />This code will automatically be inserted between &lt;style&gt; tags"
+msgstr "V této oblasti můžete přidat vlastní CSS kódu vašich webových stránek.<br /><br />Tento kód bude automaticky vložen mezi &lt;style&gt; tagy"
+
+#: framework/site-options.php:119
+#@ truethemes_localize
+msgid "Custom Scripts &lt;/head&gt;"
+msgstr "Vlastní skripty &lt;/head&gt;"
+
+#: framework/site-options.php:120
+#@ truethemes_localize
+msgid "Use this section to add custom scripts to your website.<br /><br />The scripts entered in this field will be placed before the &lt;/head&gt; tag."
+msgstr "V této sekci můžete přidat vlastní skripty na vašich webových stránkách.<br /><br />Skripty vložené v této oblasti budou umístěny před &lt;/head&gt;."
+
+#: framework/site-options.php:125
+#@ truethemes_localize
+msgid "Custom Scripts &lt;/body&gt;"
+msgstr "Vlastní skripty &lt;/body&gt;"
+
+#: framework/site-options.php:126
+#@ truethemes_localize
+msgid "Use this section to add custom scripts to your website.<br /><br />The scripts entered in this field will be placed before the &lt;/body&gt; tag."
+msgstr "V této sekci můžete přidat vlastní skripty na vašich webových stránkách.<br /><br />Skripty vložené v této oblasti budou umístěny před &lt;/body&gt; tag."
+
+#: framework/site-options.php:134
+#@ truethemes_localize
+msgid "Tracking Code"
+msgstr "Měřicího kódu"
+
+#: framework/site-options.php:135
+#@ truethemes_localize
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr "Vložit Google Analytics (nebo jiný) kód sledování zde."
+
+#: framework/site-options.php:140
+#@ truethemes_localize
+msgid "<strong>Boxed Layout</strong><br />Use the settings below to switch to a Boxed Layout Design."
+msgstr "<strong>Boxed Layout</strong><br />Použijte níže uvedená nastavení přepnout na Krabicová Layout Design."
+
+#: framework/site-options.php:145
+#@ truethemes_localize
+msgid "Boxed Layout"
+msgstr "Boxed Layout"
+
+#: framework/site-options.php:146
+#@ truethemes_localize
+msgid "Check this box to swtich to a Boxed Layout Design."
+msgstr "Zaškrtnutím tohoto políčka Swtich na Krabicová Layout Design."
+
+#: framework/site-options.php:152
+#@ truethemes_localize
+msgid "Boxed Layout - Drop Shadow"
+msgstr "Boxed Layout - Stín"
+
+#: framework/site-options.php:153
+#@ truethemes_localize
+msgid "Set the opacity of the Boxed Layout drop shadow.<br /><br /><em>Values from: 0.1 - 1.0</em>"
+msgstr "Nastavte průhlednost Boxed stínu Layout zahodit.<br /><br /><em>Hodnoty od: 0.1 - 1.0</em>"
+
+#: framework/site-options.php:159
+#@ truethemes_localize
+msgid "Boxed Layout - Body Background Color"
+msgstr "Boxed Layout - tělo Barva pozadí"
+
+#: framework/site-options.php:160
+#@ truethemes_localize
+msgid "Specify a background color for your website. This gets applied to the &lt;body&gt; element of the website."
+msgstr "Určete barvu pozadí pro vaše webové stránky. To dostane aplikován na element &lt;body&gt; na internetových stránkách."
+
+#: framework/site-options.php:165
+#@ truethemes_localize
+msgid "Boxed Layout - Body Background Image"
+msgstr "Boxed Layout - Tělo Obrázek na pozadí"
+
+#: framework/site-options.php:166
+#@ truethemes_localize
+msgid "Choose a custom background image for your website. <br /><br />You can also upload a custom background image using the option below."
+msgstr "Vyberte si vlastní obrázek na pozadí pro vaše webové stránky. <br /><br />Můžete také nahrát vlastní obrázek na pozadí pomocí níže uvedených možností."
+
+#: framework/site-options.php:194
+#@ truethemes_localize
+msgid "Boxed Layout - Body Background Image Upload"
+msgstr "Boxed Layout - Tělo Obrázek na pozadí upload"
+
+#: framework/site-options.php:195
+#@ truethemes_localize
+msgid "Use this section if you prefer to upload a custom background image for your website. <br /><br />Free backgrounds can be downloaded from <a href=\"http://www.subtlepatterns.com\" target=\"_blank\">www.subtlepatterns.com</a>"
+msgstr "V této sekci, pokud dáváte přednost nahrát vlastní obrázek na pozadí pro vaše webové stránky. <br /><br />Zdarma pozadí lze stáhnout z <a href=\"http://www.subtlepatterns.com\" target=\"_blank\">www.subtlepatterns.com</a>"
+
+#: framework/site-options.php:201
+#@ truethemes_localize
+msgid "Boxed Layout - Background Image Position"
+msgstr "Boxed Layout - Obrázek na pozadí pozice"
+
+#: framework/site-options.php:202
+#@ truethemes_localize
+msgid "Set the background-position property for the custom background image."
+msgstr "Nastavit pozadí vlastnost position pro vlastní obrázek na pozadí."
+
+#: framework/site-options.php:216
+#@ truethemes_localize
+msgid "Boxed Layout - Background Image Repeat"
+msgstr "Boxed Layout - Opakování obrázku na pozadí"
+
+#: framework/site-options.php:217
+#@ truethemes_localize
+msgid "Set the background-repeat property for the custom background image."
+msgstr "Nastavit pozadí-repeat majetek pro vlastní obrázek na pozadí."
+
+#: framework/site-options.php:228
+#@ truethemes_localize
+msgid "Boxed Layout - Fixed Background Image"
+msgstr "Boxed Layout - Opravena Obrázek na pozadí"
+
+#: framework/site-options.php:229
+#@ truethemes_localize
+msgid "Check this box to make the body background image fixed."
+msgstr "Zaškrtněte, pokud chcete, aby se tělo obrázek na pozadí pevně."
+
+#: framework/site-options.php:240
+#@ truethemes_localize
+msgid "Mobile"
+msgstr "Mobilní"
+
+#: framework/site-options.php:244
+#@ truethemes_localize
+msgid "Disable Responsive Design"
+msgstr "Zakázat odezvou design"
+
+#: framework/site-options.php:245
+#@ truethemes_localize
+msgid "Check this box to disable Karma's responsive design. A Responsive Design makes your website mobile-friendly by adjusting the page layout according to the mobile device."
+msgstr "Zaškrtněte, pokud chcete zakázat karma citlivý design. Citlivé design dělá váš web mobile-přátelský úpravou rozvržení stránky v závislosti na mobilním zařízení."
+
+#: framework/site-options.php:251
+#@ truethemes_localize
+msgid "Responsive - Main Menu - Text"
+msgstr "Citlivé - Hlavní menu - Text"
+
+#: framework/site-options.php:252
+#@ truethemes_localize
+msgid "This text is displayed next to the mobile menu button."
+msgstr "Tento text se zobrazí vedle mobilního tlačítko menu."
+
+#: framework/site-options.php:258
+#@ truethemes_localize
+msgid "Responsive - Main Menu - Disable Subpages"
+msgstr "Citlivé - Hlavní menu - Vypnout subkategorií"
+
+#: framework/site-options.php:259
+#@ truethemes_localize
+msgid "Check this box to disable subpages in the mobile menu."
+msgstr "Zaškrtněte, pokud chcete zakázat podstránek v mobilní nabídce."
+
+#: framework/site-options.php:265
+#@ truethemes_localize
+msgid "Responsive - Sub Menu - Dropdown Text"
+msgstr "Citlivé - Sub Menu - rozevírací Text"
+
+#: framework/site-options.php:266
+#@ truethemes_localize
+msgid "The left-nav and right-nav menu converts to a dropdown list on small mobile devices. This text is displayed within the dropwn list."
+msgstr "Levé a pravé nav-nav nabídka převádí do rozevíracího seznamu na malých mobilních zařízeních. Tento text se zobrazí v seznamu dropwn."
+
+#: framework/site-options.php:272
+#@ truethemes_localize
+msgid "Apple Touch Icon"
+msgstr "Apple dotykový Icon"
+
+#: framework/site-options.php:274
+#@ truethemes_localize
+msgid "An Apple Touch Icon gets displayed on a users mobile device when they save your website to their home screen. Upload the various icons below. <br /><br />Need help creating icons? <a href=\"http://iconifier.net/\" target=\"_blank\">Free online icon generator tool</a>"
+msgstr "Apple dotykový Ikona okně se zobrazí na uživatele mobilních zařízení při uložení webové stránky do své domovské obrazovce. Upload různých ikon níže. <br /><br />Potřebujete pomoci vytvořit ikony? <a href=\"http://iconifier.net/\" target=\"_blank\">Zdarma on-line Ikona generátor nástroje</a>"
+
+#: framework/site-options.php:278
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPhone"
+msgstr "Apple dotykový Icon - iPhone"
+
+#: framework/site-options.php:279
+#@ truethemes_localize
+msgid "57px x 57px"
+msgstr "57px x 57px"
+
+#: framework/site-options.php:284
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPhone (Retina)"
+msgstr "Apple dotykový Icon - iPhone (sítnice)"
+
+#: framework/site-options.php:285
+#@ truethemes_localize
+msgid "114px x 114px"
+msgstr "114px x 114px"
+
+#: framework/site-options.php:290
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPad"
+msgstr "Apple dotykový Icon - iPad"
+
+#: framework/site-options.php:291
+#@ truethemes_localize
+msgid "72px x 72px"
+msgstr "72px x 72px"
+
+#: framework/site-options.php:296
+#@ truethemes_localize
+msgid "Apple Touch Icon - iPad (Retina)"
+msgstr "Apple dotykový Icon - iPad (sítnice)"
+
+#: framework/site-options.php:297
+#@ truethemes_localize
+msgid "144px x 144px"
+msgstr "144px x 144px"
+
+#: framework/site-options.php:306
+#@ truethemes_localize
+msgid "Color Scheme"
+msgstr "Barevné schéma"
+
+#: framework/site-options.php:310
+#@ truethemes_localize
+msgid "Primary Website Color Scheme"
+msgstr "Primární Webová stránka Barevné schéma"
+
+#: framework/site-options.php:311
+#@ truethemes_localize
+msgid "Please select the primary color scheme for your website. (header and footer color scheme)"
+msgstr "Prosím vyberte primární barevné schéma pro vaše webové stránky. (Záhlaví a zápatí barevné schéma)"
+
+#: framework/site-options.php:349
+#@ truethemes_localize
+msgid "Secondary Website Color Scheme"
+msgstr "Sekundární Webová stránka Barevné schéma"
+
+#: framework/site-options.php:350
+#@ truethemes_localize
+msgid "Select a secondary color scheme only if you wish to override the default secondary color. (this styles all of the content elements - ie. left nav, utility bar, link color, etc)"
+msgstr "Vyberte sekundární barevné schéma, pouze pokud chcete přepsat výchozí sekundární barvy. (To styly Veškerý obsah prvků -. Tj. vlevo nav, užitkové bar, barva odkazů, atd.)"
+
+#: framework/site-options.php:390
+#@ truethemes_localize
+msgid "Custom - Primary Website Color Scheme"
+msgstr "Vlastní - Základní webové stránky Barevné schéma"
+
+#: framework/site-options.php:391
+#@ truethemes_localize
+msgid "Check this box to activate a Custom Primary Website Color Scheme. This refers to the color of all items within the header and footer areas. <em>(colors will be defined below)</em>."
+msgstr "Zaškrtněte, pokud chcete aktivovat vlastní primární webové stránky barevné schéma. To odkazuje na barvu všech položek v záhlaví a zápatí oblastech. <em>(Barvy budou definovány níže)</em>."
+
+#: framework/site-options.php:397
+#@ truethemes_localize
+msgid "Custom - Secondary Website Color Scheme"
+msgstr "Vlastní - Sekundární stránek Barevné schéma"
+
+#: framework/site-options.php:398
+#@ truethemes_localize
+msgid "Check this box to activate a Custom Secondary Website Color Scheme. This refers to all items within the content area of your website: utility panel, left/right nav active states, link colors, etc. <em>(colors will be defined below)</em>."
+msgstr "Zaškrtněte, pokud chcete aktivovat vlastní web sekundární barevné schéma. To se týká všech položek v oblasti obsahu vašeho webu: Nástroj panelu vlevo / vpravo nav Aktivní stavy, link barvy, atd. <em>(bude být barvy definovány níže)</em>."
+
+#: framework/site-options.php:404
+#@ truethemes_localize
+msgid "<strong>Custom - Primary Website Color Scheme:</strong>"
+msgstr "<strong>Vlastní - Primární WWW Barevné schéma:</strong>"
+
+#: framework/site-options.php:409
+#@ truethemes_localize
+msgid "Top Toolbar - Background Color"
+msgstr "Top Toolbar - Barva pozadí"
+
+#: framework/site-options.php:410
+#@ truethemes_localize
+msgid "Specify a background color for the toolbar. The toolbar is the solid-colored bar at the top of the header."
+msgstr "Určete barvu pozadí panelu nástrojů. Panel je pevný, barevný pruh v horní části hlavičky."
+
+#: framework/site-options.php:415
+#@ truethemes_localize
+msgid "Header/Footer - Gradient Color - Light"
+msgstr "Záhlaví / zápatí - Color Gradient - Light"
+
+#: framework/site-options.php:416
+#: framework/site-options.php:486
+#@ truethemes_localize
+msgid "Specify the lighter color of the custom gradient."
+msgstr "Zadejte světlejší barvu vlastního přechodu."
+
+#: framework/site-options.php:421
+#@ truethemes_localize
+msgid "Header/Footer - Gradient Color - Dark"
+msgstr "Záhlaví / zápatí - Gradient Barva - tmavě"
+
+#: framework/site-options.php:422
+#: framework/site-options.php:492
+#@ truethemes_localize
+msgid "Specify the darker color of the custom gradient."
+msgstr "Zadejte tmavší barvu vlastní gradientu."
+
+#: framework/site-options.php:427
+#@ truethemes_localize
+msgid "Header/Footer - Top Border Color"
+msgstr "Záhlaví / zápatí - Nahoru Barva rámečku"
+
+#: framework/site-options.php:428
+#@ truethemes_localize
+msgid "The Header and Footer have a subtle 1px top border. This color should be slightly lighter than the color used for \"Gradient Color - Light\"."
+msgstr "Záhlaví a zápatí jsou subtilní 1px horní okraj. Tato barva by měla být o něco světlejší než barva používané pro \"přechody barev - světle\"."
+
+#: framework/site-options.php:433
+#@ truethemes_localize
+msgid "Footer - Text Color"
+msgstr "Zápatí - Barva textu"
+
+#: framework/site-options.php:434
+#@ truethemes_localize
+msgid "Specify the color of all text displayed within the Footer.<br />#DDDDDD works great color for most color schemes."
+msgstr "Určete barvu veškerého textu zobrazeného v zápatí. <br />#DDDDDD pracuje skvělé barvy pro většinu barevných schémat."
+
+#: framework/site-options.php:439
+#@ truethemes_localize
+msgid "Footer Bottom - Background Color"
+msgstr "Zápatí Dole - Barva pozadí"
+
+#: framework/site-options.php:440
+#@ truethemes_localize
+msgid "The footer-bottom is the the bottommost area that contains the footer menu and copyright information."
+msgstr "Footer-bottom je nejspodnější oblast, která obsahuje zápatí menu a informace o autorských právech."
+
+#: framework/site-options.php:445
+#@ truethemes_localize
+msgid "Footer Bottom - Background Image"
+msgstr "Zápatí Dole - Obrázek na pozadí"
+
+#: framework/site-options.php:446
+#: framework/site-options.php:534
+#@ truethemes_localize
+msgid "Upload"
+msgstr "Přidat"
+
+#: framework/site-options.php:451
+#@ truethemes_localize
+msgid "Dropdown Menu - Background Color"
+msgstr "Rozbalovací menu - Barva pozadí"
+
+#: framework/site-options.php:452
+#@ truethemes_localize
+msgid "Specify the background color of the main menu dropdowns."
+msgstr "Určete barvu pozadí hlavního menu rozbalovacích nabídkách."
+
+#: framework/site-options.php:457
+#@ truethemes_localize
+msgid "Dropdown Menu - Link Hover Background Color"
+msgstr "Rozbalovací menu - Link Hover Barva pozadí"
+
+#: framework/site-options.php:458
+#@ truethemes_localize
+msgid "Specify the background color displayed behind links on hover."
+msgstr "Určete barvu pozadí zobrazeno za odkazy na visu."
+
+#: framework/site-options.php:463
+#@ truethemes_localize
+msgid "<strong>Custom - Primary Website Color Scheme - Internet Explorer 8</strong><br />Internet Explorer 8 does not support RGBa so requires additional color settings:"
+msgstr "<strong>Vlastní - Základní webové stránky Barevné schéma - Internet Explorer 8</strong><br /> Internet Explorer 8 nepodporuje RGBA vyžaduje další nastavení barev:"
+
+#: framework/site-options.php:468
+#@ truethemes_localize
+msgid "IE8 - Top Toolbar - Text Color"
+msgstr "IE8 - Nahoru Toolbar - Barva textu"
+
+#: framework/site-options.php:469
+#@ truethemes_localize
+msgid "Specify the color for all text within the Top Toolbar."
+msgstr "Určete barvu veškerého textu v horní liště."
+
+#: framework/site-options.php:474
+#@ truethemes_localize
+msgid "IE8 - Main Menu - Navi Description Text"
+msgstr "IE8 - Hlavní menu - Navi Popis Text"
+
+#: framework/site-options.php:475
+#@ truethemes_localize
+msgid "Specify the color for the main menu navi description text."
+msgstr "Určete barvu hlavního menu Textový popis navi."
+
+#: framework/site-options.php:480
+#@ truethemes_localize
+msgid "<strong>Custom - Secondary Website Color Scheme:</strong>"
+msgstr "<strong>Vlastní - Sekundární Web Barevné schéma:</strong>"
+
+#: framework/site-options.php:485
+#@ truethemes_localize
+msgid "Gradient Color - Light"
+msgstr "Gradient Barva - světle"
+
+#: framework/site-options.php:491
+#@ truethemes_localize
+msgid "Gradient Color - Dark"
+msgstr "Gradient Barva - tmavě"
+
+#: framework/site-options.php:497
+#@ truethemes_localize
+msgid "Horizontal/Gallery Nav - Active Link Background Color"
+msgstr "Horizontální / Galerie Nav - Aktivní Link Barva pozadí"
+
+#: framework/site-options.php:498
+#@ truethemes_localize
+msgid "Specify a background color for the active state of Horizontal/Gallery Navigation links."
+msgstr "Určete barvu pozadí pro aktivní stav horizontální / Galerie Odkazy navigaci."
+
+#: framework/site-options.php:503
+#@ truethemes_localize
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: framework/site-options.php:504
+#@ truethemes_localize
+msgid "Specify a color for your website's links."
+msgstr "Zadejte barvu pro vaše webové stránky odkazy."
+
+#: framework/site-options.php:509
+#@ truethemes_localize
+msgid "Image - Utility Bar - Top"
+msgstr "Obrázek - Utility Bar - Nahoru"
+
+#: framework/site-options.php:510
+#: framework/site-options.php:522
+#@ truethemes_localize
+msgid "980x6"
+msgstr "980x6"
+
+#: framework/site-options.php:515
+#@ truethemes_localize
+msgid "Image - Utility Bar - Middle"
+msgstr "Obrázek - Utility Bar - střední"
+
+#: framework/site-options.php:516
+#@ truethemes_localize
+msgid "980x2"
+msgstr "980x2"
+
+#: framework/site-options.php:521
+#@ truethemes_localize
+msgid "Image - Utility Bar - Bottom"
+msgstr "Obrázek - Utility Bar - Dolní"
+
+#: framework/site-options.php:527
+#@ truethemes_localize
+msgid "Image - jQuery Banner"
+msgstr "Obrázek - jQuery Banner"
+
+#: framework/site-options.php:528
+#@ truethemes_localize
+msgid "940x283"
+msgstr "940x283"
+
+#: framework/site-options.php:533
+#@ truethemes_localize
+msgid "Image - Right/Left Nav - Active Link"
+msgstr "Obrázek - vpravo / vlevo Nav - Aktivní Link"
+
+#: framework/site-options.php:539
+#@ truethemes_localize
+msgid "<strong>Custom - Secondary Website Color Scheme - Internet Explorer 8</strong><br />Internet Explorer 8 does not support RGBa so requires additional color settings:"
+msgstr "<strong>Vlastní - Sekundární Webová stránka Barevné schéma - Internet Explorer 8</strong><br />Internet Explorer 8 nepodporuje RGBA vyžaduje další nastavení barev:"
+
+#: framework/site-options.php:544
+#@ truethemes_localize
+msgid "IE8 - Footer - Link Color"
+msgstr "IE8 - footer - Barva odkazu"
+
+#: framework/site-options.php:545
+#@ truethemes_localize
+msgid "Specify the color for all links within the Footer."
+msgstr "Zadejte barvu pro všechny odkazy v zápatí."
+
+#: framework/site-options.php:550
+#@ truethemes_localize
+msgid "IE8 - Footer - Heading Border"
+msgstr "IE8 - footer - Okruh Border"
+
+#: framework/site-options.php:551
+#@ truethemes_localize
+msgid "Specify the color for the bottom border on all Footer headings."
+msgstr "Určete barvu spodního okraje na všech okruzích zápatí."
+
+#: framework/site-options.php:560
+#@ truethemes_localize
+msgid "Fonts and Links"
+msgstr "Fonty a odkazy"
+
+#: framework/site-options.php:564
+#@ truethemes_localize
+msgid "The Font Kits below are groups of pre-designed Google Fonts with pixel-perfect settings for every aspect of your website's typography."
+msgstr "V písma Sady níže jsou skupiny předem navržených Google písma s pixel-perfektní nastavení pro každý aspekt vašich webových stránek typografii."
+
+#: framework/site-options.php:569
+#@ truethemes_localize
+msgid "Modern Font Kit"
+msgstr "Moderní písma Kit"
+
+#: framework/site-options.php:570
+#@ truethemes_localize
+msgid "Check this box to enable the Modern Font Kit. This Kit contains clean and modern sans-serif fonts perfect for every type of website. Fonts used: <em>Lato + Open Sans</em>."
+msgstr "Zaškrtnutím tohoto políčka povolíte Moderní písma Kit. Tato sada obsahuje čisté a moderní sans-fonty patky jsou ideální pro každý typ webové stránky. Fonty použít: <em>Lato + Otevřené Sans.</em>"
+
+#: framework/site-options.php:576
+#@ truethemes_localize
+msgid "Serif Font Kit"
+msgstr "Serif Písmo Kit"
+
+#: framework/site-options.php:577
+#@ truethemes_localize
+msgid "Check this box to enable the Serif Font Kit. This kit contains a gorgeous combination of serif and sans-serif fonts for a sophisticated design. Fonts used: <em>PT Serif + Source Sans Pro</em>."
+msgstr "Zaškrtnutím tohoto políčka povolíte písma Serif Kit. Tato sada obsahuje nádherné kombinaci serif a sans-fonty patky pro propracovaným designem. Fonty použít: <em>PT Serif + zdroj Sans Pro.</em>"
+
+#: framework/site-options.php:583
+#@ truethemes_localize
+msgid "Organic Font Kit"
+msgstr "Organic Font Kit"
+
+#: framework/site-options.php:584
+#@ truethemes_localize
+msgid "Check this box to enable the Organic Font Kit. This kit contains clean and rounded sans-serif fonts for a soft and inviting design. Fonts used: <em>Varela Round + Open Sans</em>."
+msgstr "Zaškrtnutím tohoto políčka povolíte Organic Font Kit. Tato sada obsahuje čisté a zaoblené sans-fonty patky pro měkké a příjemné designu. Použité fonty: <em>Varela Kulaté + Otevřené Sans.</em>"
+
+#: framework/site-options.php:590
+#@ truethemes_localize
+msgid "Use the settings below if you prefer to build your own custom font settings."
+msgstr "Použijte níže uvedená nastavení, pokud dáváte přednost vybudovat své vlastní nastavení písma."
+
+#: framework/site-options.php:595
+#@ truethemes_localize
+msgid "Google Web Fonts"
+msgstr "Google Web Fonts"
+
+#: framework/site-options.php:596
+#@ truethemes_localize
+msgid "Select a font face to be used for your website's headings.<br><br>Font names (from left to right):<br>- (none)<br>- Droid Sans<br>- Cabin<br>- Cantarell<br>- Cuprum<br>- Oswald<br>- Neuton<br>- Oritron<br>- Arvo<br>- Kreon<br>- Indie Flower<br>- Josefin Sans"
+msgstr "Vyberte písmo, které se má použít pro vaše webové stránky záhlaví.<br><br> Názvy písem (zleva doprava):<br>- (Žádná) <br>- Droid Sans <br>- Kabina <br>- Cantarell <br>- Cuprum <br>- Oswald <br>- Neuton <br>- Oritron <br>- Arvo <br>- Kreon <br>- Indie Flower <br>- Josefin Sans"
+
+#: framework/site-options.php:616
+#@ truethemes_localize
+msgid "Custom Google Web Font"
+msgstr "Vlastní Google Web Písmo"
+
+#: framework/site-options.php:617
+#@ truethemes_localize
+msgid "Enter a custom font name If you prefer to use a font that's not listed above.<br><br>Here is the complete list of available <a href=\"http://www.google.com/webfonts\" target=\"_blank\">Google Web Fonts</a>."
+msgstr "Zadejte vlastní název písma Pokud chcete použít písmo, které není v seznamu výše. <br><br> Zde je kompletní seznam dostupných <a href=\"http://www.google.com/webfonts\" target=\"_blank\">webových písmech Google</a> ."
+
+#: framework/site-options.php:622
+#@ truethemes_localize
+msgid "Font Color &rarr; Custom Logo"
+msgstr "Barva písma → Vlastní logo"
+
+#: framework/site-options.php:623
+#@ truethemes_localize
+msgid "Select a font color for the custom logo."
+msgstr "Vyberte si barvu písma pro vlastní logo."
+
+#: framework/site-options.php:628
+#@ truethemes_localize
+msgid "Font Color &rarr; Main Menu"
+msgstr "Barva písma → Hlavní menu"
+
+#: framework/site-options.php:629
+#@ truethemes_localize
+msgid "Select a font color for the main menu items."
+msgstr "Vyberte si barvu písma pro položky hlavního menu."
+
+#: framework/site-options.php:634
+#@ truethemes_localize
+msgid "Font Color &rarr; Main Content"
+msgstr "Barva písma → Hlavní obsah"
+
+#: framework/site-options.php:635
+#@ truethemes_localize
+msgid "Select a font color for the main content area."
+msgstr "Vyberte si barvu písma pro hlavní oblasti obsahu."
+
+#: framework/site-options.php:640
+#@ truethemes_localize
+msgid "Font Color &rarr; Footer Content"
+msgstr "Barva písma → Zápatí obsah"
+
+#: framework/site-options.php:641
+#@ truethemes_localize
+msgid "Select a font color for the footer content area."
+msgstr "Vyberte si barvu písma na zápatí oblasti obsahu."
+
+#: framework/site-options.php:646
+#@ truethemes_localize
+msgid "Font Color &rarr; Links"
+msgstr "Barva písma → Odkazy"
+
+#: framework/site-options.php:647
+#@ truethemes_localize
+msgid "Select a font color for links."
+msgstr "Vyberte si barvu písma na odkazy."
+
+#: framework/site-options.php:652
+#@ truethemes_localize
+msgid "Font Color &rarr; Link:Hover"
+msgstr "Barva písma → Link: hover"
+
+#: framework/site-options.php:653
+#@ truethemes_localize
+msgid "Select a font color for links on hover."
+msgstr "Vyberte si barvu písma odkazů na visu."
+
+#: framework/site-options.php:658
+#@ truethemes_localize
+msgid "Font Color &rarr; Side Navigation"
+msgstr "Barva písma → strana Navigace"
+
+#: framework/site-options.php:659
+#@ truethemes_localize
+msgid "Select a font color for the side navigation items."
+msgstr "Vyberte si barvu písma pro položky bočních navigace."
+
+#: framework/site-options.php:664
+#@ truethemes_localize
+msgid "Font Color &rarr; H1 Headings"
+msgstr "Barva písma → H1 čísel"
+
+#: framework/site-options.php:665
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h1&gt; headings."
+msgstr "Vyberte si barvu písma pro všechny &lt;h1&gt; okruzích."
+
+#: framework/site-options.php:670
+#@ truethemes_localize
+msgid "Font Color &rarr; H2 Headings"
+msgstr "Barva písma → H2 čísel"
+
+#: framework/site-options.php:671
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h2&gt; headings."
+msgstr "Vyberte si barvu písma pro všechny &lt;h2&gt; okruzích."
+
+#: framework/site-options.php:676
+#@ truethemes_localize
+msgid "Font Color &rarr; H3 Headings"
+msgstr "Barva písma → H3 čísel"
+
+#: framework/site-options.php:677
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h3&gt; headings."
+msgstr "Vyberte si barvu písma pro všechny &lt;h3&gt; okruzích."
+
+#: framework/site-options.php:682
+#@ truethemes_localize
+msgid "Font Color &rarr; H4 Headings"
+msgstr "Barva písma → H4 čísel"
+
+#: framework/site-options.php:683
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h4&gt; headings."
+msgstr "Vyberte si barvu písma pro všechny &lt;h4&gt; okruzích."
+
+#: framework/site-options.php:688
+#@ truethemes_localize
+msgid "Font Color &rarr; H5 Headings"
+msgstr "Barva písma → H5 čísel"
+
+#: framework/site-options.php:689
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h5&gt; headings."
+msgstr "Vyberte si barvu písma pro všechny &lt;h5&gt; okruzích."
+
+#: framework/site-options.php:695
+#@ truethemes_localize
+msgid "Font Color &rarr; H6 Headings"
+msgstr "Barva písma → H6 Nadpisy"
+
+#: framework/site-options.php:696
+#@ truethemes_localize
+msgid "Select a font color for all &lt;h6&gt; headings."
+msgstr "Vyberte si barvu písma pro všechny &lt;h6&gt; okruzích."
+
+#: framework/site-options.php:711
+#@ truethemes_localize
+msgid "Font Size &rarr; Custom Logo"
+msgstr "Velikost písma → Vlastní Logo"
+
+#: framework/site-options.php:712
+#@ truethemes_localize
+msgid "Select a font size for the custom logo."
+msgstr "Vyberte velikost písma pro vlastní logo."
+
+#: framework/site-options.php:718
+#@ truethemes_localize
+msgid "Font Size &rarr; Main Menu"
+msgstr "Velikost písma → Hlavní menu"
+
+#: framework/site-options.php:719
+#@ truethemes_localize
+msgid "Select a font size for the main menu items."
+msgstr "Vyberte velikost písma pro položky hlavního menu."
+
+#: framework/site-options.php:726
+#@ truethemes_localize
+msgid "Font Size &rarr; Main Content"
+msgstr "Velikost písma → Hlavní obsah"
+
+#: framework/site-options.php:727
+#@ truethemes_localize
+msgid "Select a font size for the main content area."
+msgstr "Vyberte velikost písma pro hlavní oblasti obsahu."
+
+#: framework/site-options.php:733
+#@ truethemes_localize
+msgid "Font Size &rarr; Side Navigation"
+msgstr "Velikost písma → strana Navigace"
+
+#: framework/site-options.php:734
+#@ truethemes_localize
+msgid "Select a font size for side navigation items. headings."
+msgstr "Vyberte velikost písma pro položky vedlejších navigace. nadpisy."
+
+#: framework/site-options.php:740
+#@ truethemes_localize
+msgid "Font Size &rarr; H1 Headings"
+msgstr "Velikost písma → H1 čísel"
+
+#: framework/site-options.php:741
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h1&gt; headings."
+msgstr "Vyberte velikost písma pro všechny &lt;h1&gt; okruzích."
+
+#: framework/site-options.php:747
+#@ truethemes_localize
+msgid "Font Size &rarr; H2 Headings"
+msgstr "Velikost písma → H2 čísel"
+
+#: framework/site-options.php:748
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h2&gt; headings."
+msgstr "Vyberte velikost písma pro všechny &lt;h2&gt; okruzích."
+
+#: framework/site-options.php:754
+#@ truethemes_localize
+msgid "Font Size &rarr; H3 Headings"
+msgstr "Velikost písma → H3 čísel"
+
+#: framework/site-options.php:755
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h3&gt; headings."
+msgstr "Vyberte velikost písma pro všechny &lt;h3&gt; okruzích."
+
+#: framework/site-options.php:761
+#@ truethemes_localize
+msgid "Font Size &rarr; H4 Headings"
+msgstr "Velikost písma → H4 čísel"
+
+#: framework/site-options.php:762
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h4&gt; headings."
+msgstr "Vyberte velikost písma pro všechny &lt;h4&gt; okruzích."
+
+#: framework/site-options.php:768
+#@ truethemes_localize
+msgid "Font Size &rarr; H5 Headings"
+msgstr "Velikost písma → H5 čísel"
+
+#: framework/site-options.php:769
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h5&gt; headings."
+msgstr "Vyberte velikost písma pro všechny &lt;h5&gt; okruzích."
+
+#: framework/site-options.php:776
+#@ truethemes_localize
+msgid "Font Size &rarr; H6 Headings"
+msgstr "Velikost písma → H6 Nadpisy"
+
+#: framework/site-options.php:777
+#@ truethemes_localize
+msgid "Select a font size for all &lt;h6&gt; headings."
+msgstr "Vyberte velikost písma pro všechny &lt;h6&gt; okruzích."
+
+#: framework/site-options.php:783
+#@ truethemes_localize
+msgid "Font Size &rarr; Footer Content"
+msgstr "Velikost písma → Zápatí obsah"
+
+#: framework/site-options.php:784
+#@ truethemes_localize
+msgid "Select a font size for the footer content area. headings."
+msgstr "Vyberte velikost písma pro zápatí oblasti obsahu. nadpisy."
+
+#: framework/site-options.php:818
+#@ truethemes_localize
+msgid "Font Face &rarr; Custom Logo Text"
+msgstr "Font Face → Vlastní Logo Text"
+
+#: framework/site-options.php:819
+#@ truethemes_localize
+msgid "Select a font face for your custom logo text."
+msgstr "Vyberte písmo, které pro své vlastní logo textu."
+
+#: framework/site-options.php:826
+#@ truethemes_localize
+msgid "Font Face &rarr; Main Content"
+msgstr "Font Face → Hlavní obsah"
+
+#: framework/site-options.php:827
+#@ truethemes_localize
+msgid "Select a font face for the main content area."
+msgstr "Vyberte písmo, které pro hlavní oblasti obsahu."
+
+#: framework/site-options.php:833
+#@ truethemes_localize
+msgid "Font Face &rarr; Main Menu"
+msgstr "Font Face → Hlavní menu"
+
+#: framework/site-options.php:834
+#@ truethemes_localize
+msgid "Select a font face for the main menu items."
+msgstr "Vyberte písmo, které má pro položky hlavního menu."
+
+#: framework/site-options.php:840
+#@ truethemes_localize
+msgid "Font Face &rarr; Side Navigation"
+msgstr "Font Face → strana Navigace"
+
+#: framework/site-options.php:841
+#@ truethemes_localize
+msgid "Select a font face for the side navigation items."
+msgstr "Vyberte písmo, které má pro položky bočních navigace."
+
+#: framework/site-options.php:847
+#@ truethemes_localize
+msgid "Font Face &rarr; H1 Headings"
+msgstr "Font Face → H1 čísel"
+
+#: framework/site-options.php:848
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h1&gt; headings."
+msgstr "Vyberte písmo, které má pro všechny &lt;h1&gt; okruzích."
+
+#: framework/site-options.php:854
+#@ truethemes_localize
+msgid "Font Face &rarr; H2 Headings"
+msgstr "Font Face → H2 čísel"
+
+#: framework/site-options.php:855
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h2&gt; headings."
+msgstr "Vyberte písmo, které má pro všechny &lt;h2&gt; okruzích."
+
+#: framework/site-options.php:862
+#@ truethemes_localize
+msgid "Font Face &rarr; H3 Headings"
+msgstr "Font Face → H3 čísel"
+
+#: framework/site-options.php:863
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h3&gt; headings."
+msgstr "Vyberte písmo, které má pro všechny &lt;h3&gt; okruzích."
+
+#: framework/site-options.php:870
+#@ truethemes_localize
+msgid "Font Face &rarr; H4 Headings"
+msgstr "Font Face → H4 čísel"
+
+#: framework/site-options.php:871
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h4&gt; headings."
+msgstr "Vyberte písmo, které má pro všechny &lt;h4&gt; okruzích."
+
+#: framework/site-options.php:877
+#@ truethemes_localize
+msgid "Font Face &rarr; H5 Headings"
+msgstr "Font Face → H5 čísel"
+
+#: framework/site-options.php:878
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h5&gt; headings."
+msgstr "Vyberte písmo, které má pro všechny &lt;h5&gt; okruzích."
+
+#: framework/site-options.php:884
+#@ truethemes_localize
+msgid "Font Face &rarr; H6 Headings"
+msgstr "Font Face → H6 Nadpisy"
+
+#: framework/site-options.php:885
+#@ truethemes_localize
+msgid "Select a font face for all &lt;h6&gt; headings."
+msgstr "Vyberte písmo, které má pro všechny &lt;h6&gt; okruzích."
+
+#: framework/site-options.php:891
+#@ truethemes_localize
+msgid "Font Face &rarr; Footer Content"
+msgstr "Font Face → Zápatí obsah"
+
+#: framework/site-options.php:892
+#@ truethemes_localize
+msgid "Select a font face for the footer content area."
+msgstr "Vyberte písmo, které má na zápatí oblasti obsahu."
+
+#: framework/site-options.php:906
+#@ truethemes_localize
+msgid "Header and Logo"
+msgstr "Záhlaví a logo"
+
+#: framework/site-options.php:910
+#@ truethemes_localize
+msgid "Toolbar"
+msgstr "Toolbar"
+
+#: framework/site-options.php:911
+#@ truethemes_localize
+msgid "Un-check this box to disable the colored toolbar section at the top of the website above the header, logo and main menu area."
+msgstr "Un-zaškrtněte toto políčko zakázat barevný sekci panelu nástrojů v horní části stránky nad záhlaví, loga a hlavní oblasti nabídky."
+
+#: framework/site-options.php:917
+#@ truethemes_localize
+msgid "Toolbar - Left Side"
+msgstr "Toolbar - levá strana"
+
+#: framework/site-options.php:918
+#@ truethemes_localize
+msgid "Un-check this box to disable the Toolbar - Left Side."
+msgstr "Un-zaškrtněte toto políčko zakázat Toolbar - levá strana."
+
+#: framework/site-options.php:924
+#@ truethemes_localize
+msgid "Toolbar - Right Side"
+msgstr "Toolbar - pravá strana"
+
+#: framework/site-options.php:925
+#@ truethemes_localize
+msgid "Un-check this box to disable the Toolbar - Right Side."
+msgstr "Un-zaškrtněte toto políčko zakázat Toolbar - PRAVÁ STRANA."
+
+#: framework/site-options.php:931
+#@ truethemes_localize
+msgid "Header - Transparent Overlay Image"
+msgstr "Hlavička - Transparentní Overlay obrázku"
+
+#: framework/site-options.php:932
+#@ truethemes_localize
+msgid "Select a transparent overlay image for the header area of your website."
+msgstr "Vyberte transparentní překrytí obrazu pro oblasti záhlaví svých webových stránkách."
+
+#: framework/site-options.php:948
+#@ truethemes_localize
+msgid "Header - Transparent Overlay Image - Upload"
+msgstr "Hlavička - Transparentní Overlay Obrázek - Přidat"
+
+#: framework/site-options.php:949
+#@ truethemes_localize
+msgid "Use this section if you prefer to upload a custom transparent overlay image for the header area of your website."
+msgstr "V této sekci, pokud dáváte přednost nahrát vlastní transparentní překrytí obrazu pro oblasti záhlaví svých webových stránkách."
+
+#: framework/site-options.php:954
+#@ truethemes_localize
+msgid "Header - Height Adjust"
+msgstr "Hlavička - nastavení výšky"
+
+#: framework/site-options.php:955
+#@ truethemes_localize
+msgid "Adjust the height of the heading by entering a custom value for it's padding.<br /><br />The default value is: <strong>35px</strong><br /><br /><strong>For example:</strong> A value of \"40px\" would make the header taller and \"20px\" would make the header shorter."
+msgstr "Nastavte výšku nadpisu zadáním vlastní hodnoty pro jeho odsazení.<br /><br />Výchozí hodnota je: <strong>35px</strong><br /><br /><strong>Například:</strong> Hodnota &quot;40px&quot; by hlavička vyšší a &quot;20px&quot; by záhlaví kratší."
+
+#: framework/site-options.php:960
+#@ truethemes_localize
+msgid "Main Menu - Dropdowns"
+msgstr "Hlavní menu - rozbalovacích nabídkách"
+
+#: framework/site-options.php:961
+#@ truethemes_localize
+msgid "Check this box to disable the dropdowns in the main menu."
+msgstr "Zaškrtněte toto políčko zakázat rozbalovacích nabídkách v hlavním menu."
+
+#: framework/site-options.php:967
+#@ truethemes_localize
+msgid "Main Menu - Item Descriptions"
+msgstr "Main Menu - popisů"
+
+#: framework/site-options.php:968
+#@ truethemes_localize
+msgid "Check this box to disable the short descriptive text displayed below each main menu item."
+msgstr "Zaškrtněte, pokud chcete zakázat krátký popisný text zobrazí pod každým hlavním menu."
+
+#: framework/site-options.php:974
+#@ truethemes_localize
+msgid "Website Logo"
+msgstr "Webové stránky Logo"
+
+#: framework/site-options.php:975
+#@ truethemes_localize
+msgid "Upload your company's logo.<br /><br /><strong>Don't have a logo?</strong><br />feel free to use the Logo Builder below."
+msgstr "Přidat loga vaší firmy. <br /><br /><strong>Nemáte logo?</strong><br />neváhejte využít Logo Builder níže."
+
+#: framework/site-options.php:980
+#@ truethemes_localize
+msgid "Website Logo - Retina Version"
+msgstr "Webové stránky Logo - Retina verze"
+
+#: framework/site-options.php:981
+#@ truethemes_localize
+msgid "Use this section to upload a retina version of your logo.<br /><br /><strong>Important notes:</strong><br />The dimensions of the retina logo need to be twice the size of the original logo.<br /><br />The filename of the retina logo needs a \"@2x\" after the original filename (ie. mylogo.png will be mylogo@2x.png)"
+msgstr "V této části můžete nahrát sítnice verzi loga. <br /><br /><strong>Důležité poznámky:</strong><br />Rozměry sítnice loga musí být dvakrát větší než původní logo.<br /><br />Název souboru sítnice loga potřebuje &quot;@2x&quot; po původním souboru (tj. mylogo.png bude mylogo@2x.png)"
+
+#: framework/site-options.php:986
+#@ truethemes_localize
+msgid "Center the Logo"
+msgstr "Centrum logo"
+
+#: framework/site-options.php:987
+#@ truethemes_localize
+msgid "Check this box to center the logo and main menu."
+msgstr "Zaškrtnutím tohoto políčka centra loga a hlavního menu."
+
+#: framework/site-options.php:993
+#@ truethemes_localize
+msgid "Logo Builder - Icon"
+msgstr "Logo Builder - Icon"
+
+#: framework/site-options.php:994
+#@ truethemes_localize
+msgid "Select an icon to be used for a custom logo.<br /><br /><strong>Please note:</strong><br />simply ignore this section if you've already uploaded your company logo."
+msgstr "Vyberte ikonu která má být použita pro vlastní logo.<br /><br /><strong>Vezměte prosím na vědomí:</strong><br />jednoduše ignorovat tuto část, pokud jste již nahráli firemní logo."
+
+#: framework/site-options.php:1011
+#@ truethemes_localize
+msgid "Logo Builder - Text"
+msgstr "Logo Builder - Text"
+
+#: framework/site-options.php:1012
+#@ truethemes_localize
+msgid "Enter the text to be displayed next to the custom logo.<br /><br /><strong>Please note:</strong><br />simply ignore this section if you've already uploaded your company logo."
+msgstr "Zadejte text, který se zobrazí vedle vlastní logo. <br /><br /><strong>Vezměte prosím na vědomí:</strong><br />jednoduše ignorovat tuto část, pokud jste již nahráli firemní logo."
+
+#: framework/site-options.php:1017
+#@ truethemes_localize
+msgid "Wordpress Login Screen Logo"
+msgstr "Wordpress Přihlašovací obrazovka Logo"
+
+#: framework/site-options.php:1018
+#@ truethemes_localize
+msgid "Upload a custom logo for your website's Wordpress login screen."
+msgstr "Nahrát vlastní logo pro vaše webové stránky Wordpress přihlašovací obrazovce."
+
+#: framework/site-options.php:1023
+#@ truethemes_localize
+msgid "Favicon"
+msgstr "Favicon"
+
+#: framework/site-options.php:1024
+#@ truethemes_localize
+msgid "Upload a 16px x 16px image that will represent your website's favicon.<br /><br /><em>To ensure cross-browser compatibility, we recommend converting the favicon into .ico format before uploading. (<a href=\"http://www.favicon.cc/\">www.favicon.cc</a>)</em>"
+msgstr "Nahrát 16px x 16px obrázek, který bude reprezentovat vaše webové stránky favicon.<br /><br /><em>Aby bylo zajištěno, cross-browser kompatibilitu, doporučujeme převod favicon do formátu ICO. Před nahráním. (<a href=\"http://www.favicon.cc/\">www.favicon.cc</a>)</em>"
+
+#: framework/site-options.php:1035
+#@ truethemes_localize
+msgid "Content Area"
+msgstr "Obsah Area"
+
+#: framework/site-options.php:1039
+#@ truethemes_localize
+msgid "Content Area - Background Color"
+msgstr "Obsah Area - Barva pozadí"
+
+#: framework/site-options.php:1040
+#@ truethemes_localize
+msgid "Choose a custom background color for the main content area of your website."
+msgstr "Vyberte si vlastní barvu pozadí pro hlavní oblasti obsahu vašeho webu."
+
+#: framework/site-options.php:1054
+#@ truethemes_localize
+msgid "Content Area - Custom Background Color"
+msgstr "Obsah Area - vlastní barvu pozadí"
+
+#: framework/site-options.php:1055
+#@ truethemes_localize
+msgid "Use this color picker to specify a custom background color for the main content area of your website."
+msgstr "Pomocí této barvy můžete zadat vlastní barvu pozadí pro hlavní oblasti obsahu vašeho webu."
+
+#: framework/site-options.php:1060
+#@ truethemes_localize
+msgid "Content Area - Separator Lines - Dark"
+msgstr "Obsah Area - oddělovačů - tmavě"
+
+#: framework/site-options.php:1061
+#@ truethemes_localize
+msgid "If you've used the color picker to specify a custom background color then you'll need to specify a color for the separator lines.<br /><br />Separator lines are the 2 pixel borders between sidebar widgets, sidebar/content areas, etc.<br /><br />Specify the Dark separator line by choosing a color just slightly darker than your custom content area background color."
+msgstr "Pokud jste použili barvy můžete zadat vlastní barvu pozadí pak budete muset zadat barvu pro oddělovačů.<br /><br />Oddělovací čáry jsou 2 pixel hranice mezi widgety sidebar, sidebar / content oblastí apod.<br /><br />Zadejte Dark oddělovací čáru výběrem barvy mírně tmavší než je vaše vlastní pozadí oblasti obsahu barvě."
+
+#: framework/site-options.php:1066
+#@ truethemes_localize
+msgid "Content Area - Separator Lines - Light"
+msgstr "Obsah Area - oddělovačů - Light"
+
+#: framework/site-options.php:1067
+#@ truethemes_localize
+msgid "Set the Light separator line by choosing a color just slightly lighter than the custom background color."
+msgstr "Nastavte Light oddělovací čáru výběrem barvy mírně světlejší než vlastní barvu pozadí."
+
+#: framework/site-options.php:1072
+#@ truethemes_localize
+msgid "Utility Bar"
+msgstr "Utility Bar"
+
+#: framework/site-options.php:1073
+#@ truethemes_localize
+msgid "Un-check this box to disable the Utility Bar. This is the colored panel displayed within each page that contains the Page Title, Breadcrumbs and Search box."
+msgstr "Un-zaškrtněte toto políčko zakázat Utility Bar. Jedná se o barevný panel zobrazuje v každé stránky, která obsahuje název stránky, strouhanku a pole pro vyhledávání."
+
+#: framework/site-options.php:1079
+#@ truethemes_localize
+msgid "Utility Bar - Breadcrumbs"
+msgstr "Utility Bar - Drobečková navigace"
+
+#: framework/site-options.php:1080
+#: framework/site-options.php:1773
+#@ truethemes_localize
+msgid "Un-check this box to disable the Breadcrumbs."
+msgstr "Un-zaškrtněte toto políčko zakázat strouhanku."
+
+#: framework/site-options.php:1086
+#@ truethemes_localize
+msgid "Utility Bar - Search box"
+msgstr "Utility Bar - Vyhledávací pole"
+
+#: framework/site-options.php:1087
+#@ truethemes_localize
+msgid "Un-check this box to disable the Search box.</em>"
+msgstr "Un-zaškrtněte toto políčko zakázat vyhledávacího pole.</em>"
+
+#: framework/site-options.php:1093
+#@ truethemes_localize
+msgid "Utility Bar - Search box Text"
+msgstr "Utility Bar - Vyhledávací pole Text"
+
+#: framework/site-options.php:1094
+#@ truethemes_localize
+msgid "Customize the text that is displayed in the search box."
+msgstr "Upravit text, který se zobrazí ve vyhledávacím poli."
+
+#: framework/site-options.php:1100
+#@ truethemes_localize
+msgid "Utility Bar - Breadcrumbs (Home Link)"
+msgstr "Utility Bar - Drobečková navigace (Home Link)"
+
+#: framework/site-options.php:1101
+#@ truethemes_localize
+msgid "Customize the text used for the homepage link in the breadcrumbs."
+msgstr "Vlastní text použitý pro úvodní stránku odkaz v trojobalu."
+
+#: framework/site-options.php:1107
+#@ truethemes_localize
+msgid "Google Map - Contact Page"
+msgstr "Google Map - Kontakt strana"
+
+#: framework/site-options.php:1108
+#@ truethemes_localize
+msgid "Input the &lt;iframe&gt; map code if using the Google Map Contact Page.<br /><br />This code can be obtained from <a href=\"https://maps.google.com/\">https://maps.google.com/</a>"
+msgstr "Zadejte &lt;iframe&gt; mapa kód, pokud používáte Google Map kontaktní stránku. <br /><br />Tento kód je možné získat od <a href=\"https://maps.google.com/\">https://maps.google.com/</a>"
+
+#: framework/site-options.php:1120
+#@ truethemes_localize
+msgid "Footer"
+msgstr "Zápatí"
+
+#: framework/site-options.php:1124
+#@ truethemes_localize
+msgid "Footer - Transparent Overlay Image"
+msgstr "Zápatí - Transparentní Overlay obrázku"
+
+#: framework/site-options.php:1125
+#@ truethemes_localize
+msgid "Select a transparent overlay image for the footer area of your website."
+msgstr "Vyberte transparentní překrytí obrazu na zápatí vašich webových stránkách."
+
+#: framework/site-options.php:1141
+#@ truethemes_localize
+msgid "Footer - Transparent Overlay Image - Upload"
+msgstr "Zápatí - Transparentní Overlay Obrázek - Přidat"
+
+#: framework/site-options.php:1142
+#@ truethemes_localize
+msgid "Use this section if you prefer to upload a custom transparent overlay image for the footer area of your website."
+msgstr "V této sekci, pokud dáváte přednost nahrát vlastní transparentní překrytí obrazu na zápatí vašich webových stránkách."
+
+#: framework/site-options.php:1147
+#@ truethemes_localize
+msgid "Footer - Design Style"
+msgstr "Zápatí - Design Style"
+
+#: framework/site-options.php:1148
+#@ truethemes_localize
+msgid "Select a footer design style.<br />(full, half, small)"
+msgstr "Vyberte zápatí designový styl.<br />(Plné, poloviční, malé)"
+
+#: framework/site-options.php:1159
+#@ truethemes_localize
+msgid "Footer - Columns"
+msgstr "Zápatí - Sloupy"
+
+#: framework/site-options.php:1160
+#@ truethemes_localize
+msgid "Select the number of columns to be displayed in the footer."
+msgstr "Vyberte počet sloupců, které se zobrazí v zápatí."
+
+#: framework/site-options.php:1167
+#@ truethemes_localize
+msgid "Footer Callout"
+msgstr "Popisek zápatí"
+
+#: framework/site-options.php:1168
+#@ truethemes_localize
+msgid "Check this box to enable the Footer Callout section."
+msgstr "Zaškrtněte toto políčko, aby zápatí Popisek sekce."
+
+#: framework/site-options.php:1174
+#@ truethemes_localize
+msgid "Footer Callout - Content"
+msgstr "Zápatí Popisek - Obsah"
+
+#: framework/site-options.php:1175
+#@ truethemes_localize
+msgid "Enter the content to be displayed within the Footer Callout Section."
+msgstr "Zadejte obsah, který se zobrazí v zápatí Popisek oddílu."
+
+#: framework/site-options.php:1182
+#@ truethemes_localize
+msgid "Footer Callout - Link URL"
+msgstr "Zápatí Popisek - Link URL"
+
+#: framework/site-options.php:1183
+#@ truethemes_localize
+msgid "Enter a URL to link the Footer Callout Section.<br /><br /><em><strong>Example:</strong><br />http://www.google.com</em>"
+msgstr "Zadejte adresu URL pro propojení zápatí Popisek oddílu.<br /><br /><em><strong>Příklad:</strong><br />http://www.google.com</em>"
+
+#: framework/site-options.php:1188
+#@ truethemes_localize
+msgid "Footer Callout - Link Hover - Background Color"
+msgstr "Zápatí Popisek - Link Hover - pozadí"
+
+#: framework/site-options.php:1189
+#@ truethemes_localize
+msgid "Use this color picker to specify a custom background color for the footer callout link (when link is hovered)."
+msgstr "Pomocí této barvy můžete zadat vlastní barvu pozadí zápatí Popisek odkazu (je-li vznášel link)."
+
+#: framework/site-options.php:1194
+#@ truethemes_localize
+msgid "Footer - Scroll-to-top Link"
+msgstr "Zápatí - Přejděte do-top Link"
+
+#: framework/site-options.php:1195
+#@ truethemes_localize
+msgid "Un-check this box to disable the scroll-to-top link."
+msgstr "Un-zaškrtněte toto políčko zakázat přejděte k horní odkaz."
+
+#: framework/site-options.php:1201
+#@ truethemes_localize
+msgid "Footer - Scroll-to-top Text"
+msgstr "Zápatí - Přejděte do-top Text"
+
+#: framework/site-options.php:1202
+#@ truethemes_localize
+msgid "Customize the text used for the scroll-to-top link."
+msgstr "Vlastní text použitý pro přejděte k horní linku."
+
+#: framework/site-options.php:1208
+#: functions.php:301
+#@ truethemes_localize
+msgid "Footer Copyright"
+msgstr "Zápatí Copyright"
+
+#: framework/site-options.php:1209
+#@ truethemes_localize
+msgid "Un-check this box to disable the Footer Copyright section."
+msgstr "Un-zaškrtněte toto políčko zakázat zápatí autorských právech."
+
+#: framework/site-options.php:1224
+#@ truethemes_localize
+msgid "Sliders"
+msgstr "Jezdce"
+
+#: framework/site-options.php:1228
+#@ truethemes_localize
+msgid "jQuery2 Slider - Background Color"
+msgstr "jQuery2 Slider - barva pozadí"
+
+#: framework/site-options.php:1229
+#@ truethemes_localize
+msgid "Choose a background color for the jQuery2 Slider."
+msgstr "Vyberte si barvu pozadí pro jQuery2 Slider."
+
+#: framework/site-options.php:1243
+#@ truethemes_localize
+msgid "jQuery2 Slider - Custom Background Color"
+msgstr "jQuery2 Slider - vlastní barvu pozadí"
+
+#: framework/site-options.php:1244
+#@ truethemes_localize
+msgid "Specify a custom background color for the jQuery2 Slider."
+msgstr "Zadejte vlastní barvu pozadí pro jQuery2 Slider."
+
+#: framework/site-options.php:1249
+#@ truethemes_localize
+msgid "jQuery3 Slider - Transparent Overlay Image"
+msgstr "jQuery3 Slider - Transparentní Overlay obrázku"
+
+#: framework/site-options.php:1250
+#@ truethemes_localize
+msgid "Select a transparent overlay image for the jQuery3 Slider."
+msgstr "Vyberte transparentní překrytí obrazu na jQuery3 Slider."
+
+#: framework/site-options.php:1265
+#@ truethemes_localize
+msgid "jQuery3 Slider - Custom Background Color"
+msgstr "jQuery3 Slider - vlastní barvu pozadí"
+
+#: framework/site-options.php:1266
+#@ truethemes_localize
+msgid "Specify a custom background color for the jQuery3 Slider."
+msgstr "Zadejte vlastní barvu pozadí pro jQuery3 Slider."
+
+#: framework/site-options.php:1271
+#: framework/site-options.php:1325
+#@ truethemes_localize
+msgid "Pause on Hover"
+msgstr "Pauza na Hover"
+
+#: framework/site-options.php:1272
+#: framework/site-options.php:1326
+#@ truethemes_localize
+msgid "Check this box to pause the slider when a user hovers over with their mouse."
+msgstr "Zaškrtněte, pokud chcete pozastavit posuvníku, když uživatel pohybuje nad jejich myší."
+
+#: framework/site-options.php:1278
+#: framework/site-options.php:1332
+#@ truethemes_localize
+msgid "Randomize Slides"
+msgstr "Náhodně snímků"
+
+#: framework/site-options.php:1279
+#: framework/site-options.php:1333
+#@ truethemes_localize
+msgid "Check this box to randomize the order of the slides."
+msgstr "Zaškrtnutím tohoto políčka náhodně pořadí snímků."
+
+#: framework/site-options.php:1285
+#: framework/site-options.php:1339
+#@ truethemes_localize
+msgid "Next/Previous Arrows"
+msgstr "Další / předchozí Šipky"
+
+#: framework/site-options.php:1286
+#: framework/site-options.php:1340
+#@ truethemes_localize
+msgid "Check this box to display next/previous arrows."
+msgstr "Zaškrtněte toto políčko pro zobrazení další / předchozí šípy."
+
+#: framework/site-options.php:1292
+#: framework/site-options.php:1346
+#@ truethemes_localize
+msgid "Animation Effect"
+msgstr "Efekt animace"
+
+#: framework/site-options.php:1293
+#: framework/site-options.php:1347
+#@ truethemes_localize
+msgid "Select an animation effect."
+msgstr "Vyberte efekt animace."
+
+#: framework/site-options.php:1303
+#: framework/site-options.php:1357
+#@ truethemes_localize
+msgid "Display Time"
+msgstr "Display Time"
+
+#: framework/site-options.php:1304
+#: framework/site-options.php:1358
+#@ truethemes_localize
+msgid "Enter the amount of time to display each slide before changing, in milliseconds."
+msgstr "Zadejte dobu se zobrazí každý snímek před změnou, v milisekundách."
+
+#: framework/site-options.php:1310
+#: framework/site-options.php:1364
+#@ truethemes_localize
+msgid "Animation Speed"
+msgstr "Rychlost animace"
+
+#: framework/site-options.php:1311
+#: framework/site-options.php:1365
+#@ truethemes_localize
+msgid "Enter the speed of the animations, in milliseconds."
+msgstr "Zadejte rychlost animací, v milisekundách."
+
+#: framework/site-options.php:1318
+#@ truethemes_localize
+msgid "<strong>Customize</strong> the Testimonial Slider below."
+msgstr "<strong>Vlastní</strong> příspěvek Slider níže."
+
+#: framework/site-options.php:1371
+#@ truethemes_localize
+msgid "<strong>Karma 3.1 Settings</strong><br />The settings below have been deprecated since Karma 3.1. These settings are no longer needed and can safely be ignored."
+msgstr "<strong>Karma 3.1 Nastavení</strong><br />Níže uvedená nastavení zastaralé již Karma 3.1. Tato nastavení již nejsou potřebné, a může být bezpečně ignorována."
+
+#: framework/site-options.php:1376
+#@ truethemes_localize
+msgid "jQuery Slider Post Category"
+msgstr "jQuery Slider Odeslat Kategorie"
+
+#: framework/site-options.php:1377
+#@ truethemes_localize
+msgid "Select the category that will be used for generating the jQuery slides."
+msgstr "Vyberte kategorii, která bude použita pro generování jQuery snímky."
+
+#: framework/site-options.php:1384
+#@ truethemes_localize
+msgid "JQuery Slider Pause Settings"
+msgstr "JQuery Nastavení Slider Pause"
+
+#: framework/site-options.php:1385
+#@ truethemes_localize
+msgid "Check this box if you would like the jQuery slider to pause when the user hovers over a slide."
+msgstr "Zaškrtněte toto políčko, chcete-li jQuery jezdec pauzy, kdy uživatel se vznáší nad snímku."
+
+#: framework/site-options.php:1391
+#@ truethemes_localize
+msgid "jQuery Homepage Slider Time"
+msgstr "jQuery Slider Úvodní čas"
+
+#: framework/site-options.php:1392
+#@ truethemes_localize
+msgid "Enter the desired amount of time you would like to display each slide. (milliseconds)"
+msgstr "Zadejte požadovanou dobu, po kterou chcete zobrazit každý snímek. (Ms)"
+
+#: framework/site-options.php:1398
+#@ truethemes_localize
+msgid "3D CU3ER - Slider ID Number"
+msgstr "3D CU3ER - Slider Číslo"
+
+#: framework/site-options.php:1399
+#@ truethemes_localize
+msgid "Enter the ID number of the 3D slider you would like to embed on the \"Homepage :: 3D\" page template.<br><br><em>Not sure where to find the slider ID number? <a href=\"http://themes.5-squared.com/support/cu3er-instructions.html\" target=\"_blank\">View these visual instructions.</a></em>"
+msgstr "Zadejte identifikační číslo 3D jezdce, který chcete vložit na &quot;Úvodní stránka :: 3D&quot; šablonu stránky. <br><br><em>Nejste si jisti, kde najít jezdce identifikační číslo? <a href=\"http://themes.5-squared.com/support/cu3er-instructions.html\" target=\"_blank\">Zobrazit tyto vizuální instrukce.</a></em>"
+
+#: framework/site-options.php:1410
+#@ truethemes_localize
+msgid "Plugins"
+msgstr "Zásuvné moduly"
+
+#: framework/site-options.php:1414
+#@ truethemes_localize
+msgid "UberMenu Plugin"
+msgstr "UberMenu Plugin"
+
+#: framework/site-options.php:1415
+#@ truethemes_localize
+msgid "This theme is fully compatible with the <a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">UberMenu Plugin</a>. Check this box to enable UberMenu and activate the necessary functions for seamless rendering.<br /><br /><em>Please note: the UberMenu Plugin is not included with this theme. You will need to purchase and install the <a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">UberMenu Plugin</a> before activating this setting.</em>"
+msgstr "Toto téma je plně kompatibilní s <a href=\\\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\\\">UberMenu Plugin</a>.Zaškrtněte toto políčko, aby UberMenu a aktivujte potřebné funkce pro bezproblémové vykreslení.<br /><br /><em>Vezměte prosím na vědomí: UberMenu Plugin není součástí tohoto tématu. Budete muset zakoupit a nainstalovat<a href=\"codecanyon.net/item/ubermenu-wordpress-mega-menu-plugin/154703?ref=TrueThemes\">UberMenu Plugin</a>před aktivací tohoto nastavení.</em>"
+
+#: framework/site-options.php:1421
+#@ truethemes_localize
+msgid "Included Plugins"
+msgstr "Dodávané Pluginy"
+
+#: framework/site-options.php:1430
+#@ truethemes_localize
+msgid "Forms"
+msgstr "Formuláře"
+
+#: framework/site-options.php:1434
+#@ truethemes_localize
+msgid "Form Builder"
+msgstr "Form Builder"
+
+#: framework/site-options.php:1435
+#@ truethemes_localize
+msgid "A powerful form builder is included in this theme by default. <em>Un-check this box to disable the form builder.</em>"
+msgstr "Silná forma stavitel je zahrnuta v tomto tématu ve výchozím nastavení. <em>Un-zaškrtněte toto políčko zakázat Form Builder.</em>"
+
+#: framework/site-options.php:1441
+#@ truethemes_localize
+msgid "\"Required Text\""
+msgstr "&quot;Požadovaný text&quot;"
+
+#: framework/site-options.php:1442
+#@ truethemes_localize
+msgid "Customize the text that will be displayed next to required fields."
+msgstr "Upravit text, který se zobrazí vedle požadovaných polí."
+
+#: framework/site-options.php:1448
+#@ truethemes_localize
+msgid "Success Message"
+msgstr "Úspěch Zpráva"
+
+#: framework/site-options.php:1449
+#@ truethemes_localize
+msgid "Customize the success message that will be displayed after a user submits the form."
+msgstr "Přizpůsobte si zprávu o úspěchu, která se zobrazí poté, co uživatel odešle formulář."
+
+#: framework/site-options.php:1455
+#@ truethemes_localize
+msgid "Submit Button - Text"
+msgstr "Tlačítko Odeslat - Text"
+
+#: framework/site-options.php:1456
+#@ truethemes_localize
+msgid "Customize the text to be used for the form's Submit Button"
+msgstr "Vlastní text, který bude použit pro formuláře tlačítko Odeslat"
+
+#: framework/site-options.php:1462
+#@ truethemes_localize
+msgid "reCAPTCHA: Public Key"
+msgstr "reCAPTCHA: Public Key"
+
+#: framework/site-options.php:1463
+#@ truethemes_localize
+msgid ""
+"Enter your reCAPTCHA Public Key.<br><br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Simply leave this field blank if you won't be using this functionality.</em>"
+msgstr ""
+"Zadejte reCAPTCHA veřejný klíč.<br><br>\n"
+"\\\t\\\t\\\t tJe může získat své reCAPTCHA kláves: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Ponechte toto pole prázdné, pokud nebudete používat tuto funkci.</em>"
+
+#: framework/site-options.php:1469
+#@ truethemes_localize
+msgid "reCAPTCHA: Private Key"
+msgstr "reCAPTCHA: Soukromý klíč"
+
+#: framework/site-options.php:1470
+#@ truethemes_localize
+msgid ""
+"Enter your reCAPTCHA Private Key.<br><br>\n"
+"\t\t\tYou can obtain your reCAPTCHA keys at: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Simply leave this field blank if you won't be using this functionality.</em>"
+msgstr ""
+"Zadejte reCAPTCHA soukromý klíč.<br><br>\n"
+"\\\t\\\t\\\t může získat své reCAPTCHA kláves: <a href=\"http://www.google.com/recaptcha\" target=\"_blank\">google.com/recaptcha</a><br><br><em>Ponechte toto pole prázdné, pokud nebudete používat tuto funkci.</em>"
+
+#: framework/site-options.php:1477
+#@ truethemes_localize
+msgid "reCAPTCHA Theme - Select a theme"
+msgstr "reCAPTCHA téma - Výběr motivu"
+
+#: framework/site-options.php:1478
+#@ truethemes_localize
+msgid "Select a reCAPTCHA theme.</em>"
+msgstr "Vyberte téma reCAPTCHA.</em>"
+
+#: framework/site-options.php:1490
+#@ truethemes_localize
+msgid "reCAPTCHA Theme - Customization"
+msgstr "reCAPTCHA téma - Přizpůsobení"
+
+#: framework/site-options.php:1491
+#@ truethemes_localize
+msgid "<strong>(For Advance User Only)</strong><br/><br/>This setting overwrites the above reCAPTCHA theme selection. <br/><br/>You can customize the look and feel of reCAPTCHA, by entering your custom javascript code in the box provided.<br /><br />Please read <a href=\"http://code.google.com/intl/pt-PT/apis/recaptcha/docs/customization.html\" target=\"_blank\">reCAPTCHA developer documentation</a> for details.<br/><br/><u><strong>Important Notes:</strong></u><br/>Please change the javascript codes from google documentation to use <strong>double quotes</strong> rather than single quotes for all javascript variables."
+msgstr "<strong>(Pro Advance pouze uživatel)</strong> <br/><br/> Toto nastavení přepíše nad reCAPTCHA výběr tématu. <br/><br/> Můžete přizpůsobit vzhled a dojem z reCAPTCHA, zadáním vlastního javascript kód do příslušného pole. <br /><br /> Přečtěte si prosím <a href=\"http://code.google.com/intl/pt-PT/apis/recaptcha/docs/customization.html\" target=\"_blank\">reCAPTCHA vývojářskou dokumentaci</a> pro detaily. <br/><br/><u><strong>Důležitá upozornění:</strong></u><br/> Zkontrolujte prosím javascript kódy z dokumentace Google používat <strong>uvozovky</strong> namísto jednoduchých uvozovek pro všechny proměnné javascript."
+
+#: framework/site-options.php:1501
+#@ truethemes_localize
+msgid "Blog"
+msgstr "Blog"
+
+#: framework/site-options.php:1505
+#@ truethemes_localize
+msgid "Blog Page"
+msgstr "Blog Page"
+
+#: framework/site-options.php:1506
+#@ truethemes_localize
+msgid "Select the blog page from the dropdown list."
+msgstr "Vyberte blogu stránku z rozevíracího seznamu."
+
+#: framework/site-options.php:1512
+#@ truethemes_localize
+msgid "Hide Categories"
+msgstr "Skrýt kategorie"
+
+#: framework/site-options.php:1513
+#@ truethemes_localize
+msgid "Select any categories that you'd like to hide from the Blog."
+msgstr "Vyberte všechny kategorie, které byste chtěli skrýt před blogu."
+
+#: framework/site-options.php:1519
+#@ truethemes_localize
+msgid "Post Comments"
+msgstr "Komentáře k příspěvku"
+
+#: framework/site-options.php:1520
+#@ truethemes_localize
+msgid "Un-check this box to completely disable comments on all blog posts."
+msgstr "Un-zaškrtněte toto políčko zcela zakázat komentáře ke všem blogu."
+
+#: framework/site-options.php:1526
+#@ truethemes_localize
+msgid "Post Comments - Avatar"
+msgstr "Komentáře k příspěvku - Avatar"
+
+#: framework/site-options.php:1527
+#@ truethemes_localize
+msgid "This theme uses a custom avatar image when users do not have a Gravatar.com account. <em>Un-check this box to disable this functionality and use WordPress avatars instead.</em>"
+msgstr "Toto téma používá vlastní obrázek avatara, kdy uživatelé nemají účet Gravatar.com. <em>Un-zaškrtněte toto políčko, aby tuto funkci zakázat a používat WordPress avatary místo.</em>"
+
+#: framework/site-options.php:1533
+#@ truethemes_localize
+msgid "Utility Bar - Page Title"
+msgstr "Utility Bar - Název stránky"
+
+#: framework/site-options.php:1534
+#@ truethemes_localize
+msgid "Enter the page title to be displayed in the blog's utility bar."
+msgstr "Zadejte název stránky, který se zobrazí v blogu užitkové baru."
+
+#: framework/site-options.php:1540
+#@ truethemes_localize
+msgid "Blog Posts - Featured Images"
+msgstr "Příspěvků v blogu - Nejlepší obrázky"
+
+#: framework/site-options.php:1541
+#@ truethemes_localize
+msgid "Select an image frame style for featured images."
+msgstr "Vyberte obrazový rám styl uváděných snímků."
+
+#: framework/site-options.php:1551
+#@ truethemes_localize
+msgid "\"Posted by\" Information"
+msgstr "&quot;Poslal&quot; Informace"
+
+#: framework/site-options.php:1552
+#@ truethemes_localize
+msgid "Check this box to hide the \"Posted by\" information printed under each blog post title."
+msgstr "Zaškrtněte toto políčko pro skrytí &quot;Poslal&quot; informace vytištěné pod každým názvem blog post."
+
+#: framework/site-options.php:1558
+#@ truethemes_localize
+msgid "Post Date"
+msgstr "Příspěvek Datum"
+
+#: framework/site-options.php:1559
+#@ truethemes_localize
+msgid "Check this box to hide the post date on all blog posts.</em>"
+msgstr "Zaškrtněte, pokud chcete skrýt Post date na všech blogu.</em>"
+
+#: framework/site-options.php:1565
+#@ truethemes_localize
+msgid "\"Read More\" - Button Label"
+msgstr "&quot;Více&quot; - Tlačítko Label"
+
+#: framework/site-options.php:1566
+#@ truethemes_localize
+msgid "Enter a custom label for the \"read more\" buttons."
+msgstr "Zadejte vlastní štítek pro &quot;číst více&quot; tlačítek."
+
+#: framework/site-options.php:1572
+#@ truethemes_localize
+msgid "\"Read More\" - Button Color"
+msgstr "&quot;Více&quot; - tlačítko Color"
+
+#: framework/site-options.php:1573
+#@ truethemes_localize
+msgid "Select a color for the \"read more\" buttons."
+msgstr "Vyberte barvu pro &quot;číst více&quot; tlačítek."
+
+#: framework/site-options.php:1611
+#@ truethemes_localize
+msgid "\"Read More\" - Button Size"
+msgstr "&quot;Více&quot; - Knoflík velikost"
+
+#: framework/site-options.php:1612
+#@ truethemes_localize
+msgid "Select a size for the \"read more\" buttons."
+msgstr "Vyberte velikost pro &quot;Více&quot; tlačítek."
+
+#: framework/site-options.php:1623
+#@ truethemes_localize
+msgid "About-the-Author"
+msgstr "O-the-Author"
+
+#: framework/site-options.php:1624
+#@ truethemes_localize
+msgid "The author's bio is displayed at the end of each Single Blog post. <em>Un-check this box to disable this functionality.</em><br /><br />Author bio can be set within the Wordpress Profile page. <a href=\"profile.php\">Users > Your Profile</a>"
+msgstr "Autorova bio se zobrazí na konci každého jednotného příspěvku na blogu. <em>Un-zaškrtněte toto políčko, aby tuto funkci vypnout.</em> <br /><br /> Autor bio lze nastavit v rozmezí stránce profilu Wordpress. <a href=\"profile.php\">Uživatelé > Váš profil</a>"
+
+#: framework/site-options.php:1630
+#@ truethemes_localize
+msgid "Related Posts"
+msgstr "Související příspěvky"
+
+#: framework/site-options.php:1631
+#@ truethemes_localize
+msgid "Un-check this box to disable related posts at the end of each blog post."
+msgstr "Un-zaškrtněte toto políčko zakázat související příspěvky na konci každého blogu."
+
+#: framework/site-options.php:1637
+#@ truethemes_localize
+msgid "Related Posts - Title"
+msgstr "Související příspěvky - Hlava"
+
+#: framework/site-options.php:1638
+#@ truethemes_localize
+msgid "Enter a title to be dislpayed above the related posts. (ie. \"Related Posts\")."
+msgstr "Zadejte název se dislpayed nad souvisejících příspěvků. (Tj. &quot;Související příspěvky&quot;)."
+
+#: framework/site-options.php:1644
+#@ truethemes_localize
+msgid "Related Posts - Item Count"
+msgstr "Související příspěvky - Item Count"
+
+#: framework/site-options.php:1645
+#@ truethemes_localize
+msgid "How many related posts would you like to display? (3-5 is recommended)."
+msgstr "Kolik související příspěvky si přejete zobrazovat? (3-5 je doporučeno)."
+
+#: framework/site-options.php:1651
+#@ truethemes_localize
+msgid "We recommend only choosing only one of the following social media sharing options. A checked box means the option will be enabled."
+msgstr "Doporučujeme pouze vybrat pouze jednu z následujících možností sociálních médií sdílení. Zaškrtnuté znamená, že volba bude aktivována."
+
+#: framework/site-options.php:1656
+#@ truethemes_localize
+msgid "Drag-to-Share"
+msgstr "Drag-to-Share"
+
+#: framework/site-options.php:1657
+#@ truethemes_localize
+msgid "An interactive \"drag-to-share\" button added to each blog post."
+msgstr "Interaktivní &quot;drag-to-share&quot; přidáno tlačítko pro každý blog post."
+
+#: framework/site-options.php:1663
+#@ truethemes_localize
+msgid "Social Sharing Links"
+msgstr "Sociální sdílení odkazů"
+
+#: framework/site-options.php:1664
+#@ truethemes_localize
+msgid "Font-Awesome vector sharing buttons for Twitter, Facebook and Google+."
+msgstr "Font-Děsivý tlačítka vektorová sdílení na Twitter, Facebook a Google+."
+
+#: framework/site-options.php:1675
+#@ truethemes_localize
+msgid "Utility Pages"
+msgstr "Užitkové stránek"
+
+#: framework/site-options.php:1679
+#@ truethemes_localize
+msgid "404 Error - Page Title"
+msgstr "Chyba 404 - Stránka Název"
+
+#: framework/site-options.php:1680
+#@ truethemes_localize
+msgid "Set the page title to be displayed in the breadcrumb area of the 404 Error Page."
+msgstr "Nastavte název stránky, který se zobrazí v strouhance oblasti 404 chybová stránka."
+
+#: framework/site-options.php:1686
+#@ truethemes_localize
+msgid "404 Error - Page Content"
+msgstr "Chyba 404 - Stránka obsah"
+
+#: framework/site-options.php:1687
+#@ truethemes_localize
+msgid "Set the page content to be displayed within the 404 Error Page."
+msgstr "Nastavení obsahu stránky, který se zobrazí v 404 chybová stránka."
+
+#: framework/site-options.php:1698
+#@ truethemes_localize
+msgid "Search Results - Page Title"
+msgstr "Výsledky vyhledávání - Strana Název"
+
+#: framework/site-options.php:1699
+#@ truethemes_localize
+msgid "Set the page title to be displayed in the breadcrumb area of the Search Results Page."
+msgstr "Nastavte název stránky, který se zobrazí v strouhance oblasti stránce výsledků vyhledávání."
+
+#: framework/site-options.php:1705
+#@ truethemes_localize
+msgid "Search Results - Fallback Message"
+msgstr "Výsledky vyhledávání - Záložní zprávy"
+
+#: framework/site-options.php:1706
+#@ truethemes_localize
+msgid "Set the message to be displayed when a search comes back with no results."
+msgstr "Nastavte zprávu, která se zobrazí při hledání vrátí bez výsledků."
+
+#: framework/site-options.php:1712
+#@ truethemes_localize
+msgid "The following options are only required when using the Sitemap-2 Page Template."
+msgstr "Následující možnosti jsou požadovány pouze při použití stránek-2 šablonu stránky."
+
+#: framework/site-options.php:1717
+#@ truethemes_localize
+msgid "Sitemap - Column One Title"
+msgstr "Sitemap - Column One Název"
+
+#: framework/site-options.php:1718
+#@ truethemes_localize
+msgid "This title is displayed above the list of pages in the first column."
+msgstr "Tento titul je zobrazen nad seznamem stránek v prvním sloupci."
+
+#: framework/site-options.php:1724
+#@ truethemes_localize
+msgid "Sitemap - Column Two Title"
+msgstr "Sitemap - druhý sloupec Název"
+
+#: framework/site-options.php:1725
+#@ truethemes_localize
+msgid "This title is displayed above the list of posts in the second column."
+msgstr "Tento titul je zobrazen nad seznamem míst v druhém sloupci."
+
+#: framework/site-options.php:1732
+#@ truethemes_localize
+msgid "Sitemap - Column Three Content"
+msgstr "Sitemap - Sloupec Tři obsah"
+
+#: framework/site-options.php:1733
+#@ truethemes_localize
+msgid "This content is displayed in the third column."
+msgstr "Tento obsah se zobrazí ve třetím sloupci."
+
+#: framework/site-options.php:1749
+#@ truethemes_localize
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: framework/site-options.php:1753
+#@ truethemes_localize
+msgid "WooCommerce - Page Layout"
+msgstr "WooCommerce - Rozvržení stránky"
+
+#: framework/site-options.php:1754
+#@ truethemes_localize
+msgid "Choose a Page Layout for all WooCommerce pages."
+msgstr "Vyberte rozložení stránky pro všechny stránky WooCommerce."
+
+#: framework/site-options.php:1765
+#@ truethemes_localize
+msgid "WooCommerce - Utility Bar"
+msgstr "WooCommerce - Utility Bar"
+
+#: framework/site-options.php:1766
+#@ truethemes_localize
+msgid "Un-check this box to disable the Utility Bar on all WooCommerce pages. This is the colored panel that contains the Page Title, Breadcrumbs and Search box."
+msgstr "Un-zaškrtněte toto políčko zakázat Utility Bar na všech WooCommerce stránkách. Jedná se o barevný panel, který obsahuje název stránky, strouhanku a pole pro vyhledávání."
+
+#: framework/site-options.php:1772
+#@ truethemes_localize
+msgid "WooCommerce - Utility Bar - Breadcrumbs"
+msgstr "WooCommerce - Utility Bar - Drobečková navigace"
+
+#: framework/site-options.php:1779
+#@ truethemes_localize
+msgid "WooCommerce - Utility Bar - Search Box"
+msgstr "WooCommerce - Utility Bar - Search Box"
+
+#: framework/site-options.php:1780
+#@ truethemes_localize
+msgid "Un-check this box to disable the Search box."
+msgstr "Un-zaškrtněte toto políčko zakázat vyhledávacího pole."
+
+#: framework/site-options.php:1786
+#@ truethemes_localize
+msgid "WooCommerce - Custom Title"
+msgstr "WooCommerce - Vlastní titulek"
+
+#: framework/site-options.php:1787
+#@ truethemes_localize
+msgid "This title will be displayed in the utility panel of all WooCommerce pages."
+msgstr "Tento název se zobrazí v okně nástroje panelu všech stránek WooCommerce."
+
+#: framework/site-options.php:1800
+#@ truethemes_localize
+msgid "Twitter oAuth"
+msgstr "Twitter OAuth"
+
+#: framework/site-options.php:1804
+#@ truethemes_localize
+msgid "As of June 11, 2013 Twitter has shutdown their public API and the latest tweets functionality now requires the authentication credentials listed below.<br /><br /><strong>Need Assistance?</strong> <a href=\"https://support.truethemes.net/?knowledgebase=twitter-feed-down-latest-tweets-not-displaying\" target=\"_blank\">View this HelpDesk article &rarr;</a>"
+msgstr "Jak 11.06.2013 Twitter se vypnul své veřejné API a nejnovější tweety funkce nyní vyžaduje identifikační údaje níže. <br /><br /> <strong>Potřebujete pomoc?</strong> <a href=\"https://support.truethemes.net/?knowledgebase=twitter-feed-down-latest-tweets-not-displaying\" target=\"_blank\">Zobrazit tento článek HelpDesk →</a>"
+
+#: framework/site-options.php:1809
+#@ truethemes_localize
+msgid "Consumer Key"
+msgstr "Zákaznický klíč"
+
+#: framework/site-options.php:1810
+#@ truethemes_localize
+msgid "Enter your Twitter application's Consumer Key."
+msgstr "Zadejte své cvrlikání aplikace spotřebitele klíč."
+
+#: framework/site-options.php:1815
+#@ truethemes_localize
+msgid "Consumer Secret"
+msgstr "Spotřební Secret"
+
+#: framework/site-options.php:1816
+#@ truethemes_localize
+msgid "Enter your Twitter application's Consumer Secret."
+msgstr "Zadejte své cvrlikání aplikace spotřebitele tajemství."
+
+#: framework/site-options.php:1822
+#@ truethemes_localize
+msgid "Access Token"
+msgstr "Přístupový token"
+
+#: framework/site-options.php:1823
+#@ truethemes_localize
+msgid "Enter your Twitter application's Access Token."
+msgstr "Zadejte své cvrlikání aplikace Access Token."
+
+#: framework/site-options.php:1828
+#@ truethemes_localize
+msgid "Access Token Secret"
+msgstr "Přístupový token tajemství"
+
+#: framework/site-options.php:1829
+#@ truethemes_localize
+msgid "Enter your Twitter application's Access Token Secret."
+msgstr "Zadejte své cvrlikání aplikace Access Token tajemství."
+
+#: framework/site-options.php:1834
+#@ truethemes_localize
+msgid "Cache Timing"
+msgstr "Cache Timing"
+
+#: framework/site-options.php:1835
+#@ truethemes_localize
+msgid "Latest Tweets need to be cached in order to comply with Twitter API Call Limits.<br /><br />Please select your desired cache timing interval.<br /><br />(new tweets will be refreshed at the selected timing interval)"
+msgstr "Nejnovější Tweets musí být ukládány do mezipaměti pro dosažení souladu s limity Twitter volání API. <br /><br /> Prosím vyberte požadovaný interval časování mezipaměti. <br /><br /> (Nové tweety bude aktualizován na zvoleném intervalu časování)"
+
+#: framework/site-options.php:1841
+#@ truethemes_localize
+msgid "Cache Temporary Disable"
+msgstr "Cache dočasně zakázat"
+
+#: framework/site-options.php:1842
+#@ truethemes_localize
+msgid "Use this option to temporarily turn off the cache during configuration so that your changes will be reflected immediately. Remember to turn the cache back after you've confirmed tweets are displaying nicely."
+msgstr "Tuto volbu použijte dočasně vypnout cache při konfiguraci tak, aby se vaše změny se projeví okamžitě. Nezapomeňte vypnout cache zpět poté, co jste potvrzené tweety se zobrazují pěkně."
+
+#: framework/truethemes/metabox/init.php:627
+#@ cmb
+msgid "Please Try Again"
+msgstr "Zkuste to prosím znovu"
+
+#: framework/truethemes/metabox/init.php:644
+#@ cmb
+msgid "Remove Embed"
+msgstr "Odstranit Vložit"
+
+#: framework/truethemes/metabox/init.php:650
+#, php-format
+#@ cmb
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr "Žádné oEmbed nalezeny pro %s. Zobrazit více informací na"
+
+#: framework/truethemes/wysiwyg/interface.php:2
+#@ truethemes_localize
+msgid "You are not allowed to be here"
+msgstr "Nejste oprávněni se zde"
+
+#: framework/widgets.php:11
+#@ truethemes_localize
+msgid "Link to your RSS feed and Social Media accounts."
+msgstr "Odkaz na RSS feed a sociální Media účty."
+
+#: framework/widgets.php:13
+#@ truethemes_localize
+msgid "CUSTOM - Social Networks"
+msgstr "CUSTOM - Sociální sítě"
+
+#: framework/widgets.php:62
+#: framework/widgets.php:66
+#@ truethemes_localize
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: framework/widgets.php:62
+#: framework/widgets.php:66
+#@ truethemes_localize
+msgid "RSS"
+msgstr "RSS"
+
+#: framework/widgets.php:154
+#@ truethemes_localize
+msgid "Please enter the full URL to each of your Social Media accounts below.<br /><br />Simply leave the field blank if you do not wish to display that Social Media service."
+msgstr "Prosím zadejte úplnou adresu URL každého z vašich sociálních médií účtů níže. <br /><br /> Jednoduše nechte políčko prázdné, pokud nechcete zobrazit, že sociální média služby."
+
+#: framework/widgets.php:158
+#@ truethemes_localize
+msgid "Check this box to switch to clean-style retina-ready vector icons."
+msgstr "Zaškrtněte, pokud chcete přepnout na čistý styl sítnice připravených vektorových ikon."
+
+#: framework/widgets.php:163
+#@ truethemes_localize
+msgid "Check this box to switch to colored retina-ready vector icons."
+msgstr "Zaškrtněte, pokud chcete přejít na barevné sítnice-ready vektorových ikon."
+
+#: framework/widgets.php:168
+#@ truethemes_localize
+msgid "Check this box to display the social media name next to it's icon. (ie. \"Twitter\") "
+msgstr "Zaškrtněte toto políčko, zobrazí se sociální média jméno vedle jeho ikony. (Tj. &quot;Twitter&quot;)"
+
+#: framework/widgets.php:176
+#@ truethemes_localize
+msgid "Title Link:"
+msgstr "Název odkazu:"
+
+#: framework/widgets.php:182
+#@ truethemes_localize
+msgid "None"
+msgstr "Nikdo"
+
+#: framework/widgets.php:189
+#@ truethemes_localize
+msgid "RSS Feed:<br />(leave empty for default RSS Feed)"
+msgstr "RSS Feed: <br /> (Ponechte prázdné pro výchozí RSS feed)"
+
+#: framework/widgets.php:193
+#@ truethemes_localize
+msgid "Twitter:"
+msgstr "Twitter:"
+
+#: framework/widgets.php:197
+#@ truethemes_localize
+msgid "Facebook:"
+msgstr "Facebook:"
+
+#: framework/widgets.php:201
+#@ truethemes_localize
+msgid "Email Address:"
+msgstr "E-mailová adresa:"
+
+#: framework/widgets.php:205
+#@ truethemes_localize
+msgid "Flickr:"
+msgstr "Flickr:"
+
+#: framework/widgets.php:209
+#@ truethemes_localize
+msgid "Youtube:"
+msgstr "Youtube:"
+
+#: framework/widgets.php:213
+#@ truethemes_localize
+msgid "LinkedIn:"
+msgstr "LinkedIn:"
+
+#: framework/widgets.php:217
+#@ truethemes_localize
+msgid "Pinterest:"
+msgstr "Pinterest:"
+
+#: framework/widgets.php:221
+#@ truethemes_localize
+msgid "FourSquare:"
+msgstr "Foursquare:"
+
+#: framework/widgets.php:225
+#@ truethemes_localize
+msgid "Delicious:"
+msgstr "Delicious:"
+
+#: framework/widgets.php:229
+#@ truethemes_localize
+msgid "Digg:"
+msgstr "Digg:"
+
+#: framework/widgets.php:233
+#@ truethemes_localize
+msgid "Google+:"
+msgstr "Google+:"
+
+#: framework/widgets.php:236
+#@ truethemes_localize
+msgid "Dribbble:"
+msgstr "Dribbble:"
+
+#: framework/widgets.php:239
+#@ truethemes_localize
+msgid "Skype:"
+msgstr "Skype:"
+
+#: framework/widgets.php:256
+#@ truethemes_localize
+msgid "Show your recent posts."
+msgstr "Ukaž své poslední příspěvky."
+
+#: framework/widgets.php:257
+#@ truethemes_localize
+msgid "CUSTOM - Recent Posts"
+msgstr "Vlastní - Poslední příspěvky"
+
+#: framework/widgets.php:323
+#@ truethemes_localize
+msgid "Number of Posts:"
+msgstr "Počet příspěvků:"
+
+#: framework/widgets.php:343
+#@ truethemes_localize
+msgid "A list or dropdown of categories"
+msgstr "Seznam nebo rozevírací kategorií"
+
+#: framework/widgets.php:344
+#@ truethemes_localize
+msgid "CUSTOM - Categories"
+msgstr "CUSTOM - Kategorie"
+
+#: framework/widgets.php:350
+#: functions.php:494
+#: functions.php:511
+#@ truethemes_localize
+msgid "Categories"
+msgstr "Kategorie"
+
+#: framework/widgets.php:366
+#@ truethemes_localize
+msgid "Select Category"
+msgstr "Vybrat kategorii"
+
+#: framework/widgets.php:419
+#@ truethemes_localize
+msgid "Show as dropdown"
+msgstr "Zobrazit jako rozbalovací"
+
+#: framework/widgets.php:422
+#: framework/widgets.php:491
+#@ truethemes_localize
+msgid "Show post counts"
+msgstr "Zobrazit příspěvek se počítá"
+
+#: framework/widgets.php:425
+#@ truethemes_localize
+msgid "Show hierarchy"
+msgstr "Zobrazit hierarchii"
+
+#: framework/widgets.php:440
+#@ truethemes_localize
+msgid "A monthly archive of your site&#8217;s posts"
+msgstr "Měsíční archiv vašeho webu příspěvků"
+
+#: framework/widgets.php:441
+#@ truethemes_localize
+msgid "CUSTOM - Archives"
+msgstr "CUSTOM - Archiv"
+
+#: framework/widgets.php:448
+#@ truethemes_localize
+msgid "Archives"
+msgstr "Archiv"
+
+#: framework/widgets.php:460
+#@ truethemes_localize
+msgid "Select Month"
+msgstr "Vyberte měsíc"
+
+#: framework/widgets.php:493
+#@ truethemes_localize
+msgid "Display as a drop down"
+msgstr "Zobrazit jako rozbalovací"
+
+#: framework/widgets.php:510
+#@ truethemes_localize
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr "Použijte tento widget přidat jeden z vašich vlastních menu jako widget."
+
+#: framework/widgets.php:511
+#@ truethemes_localize
+msgid "Custom Menu"
+msgstr "Vlastní menu"
+
+#: framework/widgets.php:554
+#, php-format
+#@ default
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "Žádné nabídky nebyly dosud vytvořena. <a href=\"%s\">Vytvořte některé</a> ."
+
+#: framework/widgets.php:563
+#@ truethemes_localize
+msgid "Select Menu:"
+msgstr "Zvolte Menu:"
+
+#: functions.php:302
+#@ truethemes_localize
+msgid "Add Copyright information to the Footer."
+msgstr "Přidat informace o autorských právech k zápatí."
+
+#: functions.php:319
+#@ truethemes_localize
+msgid "Footer &copy; Copyright Text"
+msgstr "Zápatí © Copyright Text"
+
+#: functions.php:528
+#@ truethemes_localize
+msgid "Slider Posts"
+msgstr "Posuvník Příspěvky"
+
+#: functions.php:529
+#@ truethemes_localize
+msgid "Slider Post"
+msgstr "Posuvník příspěvek"
+
+#: functions.php:531
+#@ truethemes_localize
+msgid "slider"
+msgstr "Posuvník"
+
+#: functions.php:532
+#: functions.php:569
+#@ truethemes_localize
+msgid "Add New"
+msgstr "Přidat nové"
+
+#: functions.php:533
+#@ truethemes_localize
+msgid "Add New Slider Post"
+msgstr "Přidat nový příspěvek Slider"
+
+#: functions.php:534
+#@ truethemes_localize
+msgid "Edit Slider Post"
+msgstr "Upravit Slider příspěvek"
+
+#: functions.php:535
+#@ truethemes_localize
+msgid "New Slider Post"
+msgstr "Nový příspěvek Slider"
+
+#: functions.php:536
+#@ truethemes_localize
+msgid "View Slider Post"
+msgstr "Zobrazit Slider příspěvek"
+
+#: functions.php:537
+#@ truethemes_localize
+msgid "Search Slider Posts"
+msgstr "Příspěvky Hledat Slider"
+
+#: functions.php:538
+#@ truethemes_localize
+msgid "No Slider Posts found"
+msgstr "Žádné Slider Nalezeno příspěvků"
+
+#: functions.php:539
+#@ truethemes_localize
+msgid "No Slider Posts found in Trash"
+msgstr "Žádné Slider Nalezeno příspěvků do koše"
+
+#: functions.php:565
+#@ truethemes_localize
+msgid "Gallery Posts"
+msgstr "Galerie příspěvky"
+
+#: functions.php:566
+#@ truethemes_localize
+msgid "Gallery Post"
+msgstr "Galerie příspěvek"
+
+#: functions.php:568
+#@ truethemes_localize
+msgid "gallery"
+msgstr "galerie"
+
+#: functions.php:570
+#@ truethemes_localize
+msgid "Add New Gallery Post"
+msgstr "Přidat nové galerie příspěvek"
+
+#: functions.php:571
+#@ truethemes_localize
+msgid "Edit Gallery Post"
+msgstr "Edit Galerie příspěvek"
+
+#: functions.php:572
+#@ truethemes_localize
+msgid "New Gallery Post"
+msgstr "Nová galerie příspěvek"
+
+#: functions.php:573
+#@ truethemes_localize
+msgid "View Gallery Post"
+msgstr "Zobrazit Galerie příspěvek"
+
+#: functions.php:574
+#@ truethemes_localize
+msgid "Search Gallery Posts"
+msgstr "Příspěvky Hledání Galerie"
+
+#: functions.php:575
+#@ truethemes_localize
+msgid "No Gallery Posts found"
+msgstr "Žádné Galerie Nalezeno příspěvků"
+
+#: functions.php:576
+#@ truethemes_localize
+msgid "No Gallery Posts found in Trash"
+msgstr "Žádné Galerie Nalezeno příspěvků v koši"
+
+#: functions.php:853
+#, php-format
+#@ truethemes_localize
+msgid "View all items filed under %s"
+msgstr "Zobrazit všechny položky Soubor pod %s"
+
+#: functions.php:869
+#, php-format
+#@ truethemes_localize
+msgid "Feed for all posts filed under %s"
+msgstr "Krmivo pro všechny příspěvky podané v rámci %s"
+
+#: search.php:18
+#@ truethemes_localize
+msgid "Search Results for"
+msgstr "Výsledky hledání pro"
+
+#: single.php:173
+#@ truethemes_localize
+msgid "About the Author:"
+msgstr "O autorovi:"
+
+#: single.php:185
+#@ truethemes_localize
+msgid "Share on Twitter"
+msgstr "Podělte se na Twitteru"
+
+#: single.php:187
+#@ truethemes_localize
+msgid "Share on Facebook"
+msgstr "Sdílejte na Facebooku"
+
+#: single.php:189
+#@ truethemes_localize
+msgid "Share on Google"
+msgstr "Sdílet na Google"
+
+#: template-filterable-gallery.php:272
+#: template-portfolio-1-column-portrait.php:167
+#: template-portfolio-1-column.php:168
+#@ truethemes_localize
+msgid "top"
+msgstr "top"
+
+#: theme-template-part-inline-editing.php:10
+#@ truethemes_localize
+msgid "+ Edit this post"
+msgstr "+ Upravit tento příspěvek"
+
+#: theme-template-part-inline-editing.php:17
+#@ truethemes_localize
+msgid "+ Edit this page"
+msgstr "+ Upravit stránku"
+
